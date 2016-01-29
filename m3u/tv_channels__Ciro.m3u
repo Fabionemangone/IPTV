@@ -902,7 +902,7 @@ http://sasuketv.iptvitalia.eu:2300/movie/ciccio/ciccio/11741.mkv
 #EXTINF:-1,Mega.Shark.VS.Kolossus
 http://sasuketv.iptvitalia.eu:2300/movie/ciccio/ciccio/11740.mkv
 #EXTINF:-1,Mad.Max.Fury.Road
-http://sasuketv.iptvitalia.eu:2300/movie/ciccio/ciccio/11739.mkv
+http://sasuketv.iptvitalia.eu:2300/movie/ciccio/ciccio/11739.mp4
 #EXTINF:-1,Last.Knights
 http://sasuketv.iptvitalia.eu:2300/movie/ciccio/ciccio/11738.mkv
 #EXTINF:-1,Jurassic.World
@@ -2833,8 +2833,10 @@ http://sasuketv.iptvitalia.eu:2300/movie/ciccio/ciccio/11332.mkv
 http://sasuketv.iptvitalia.eu:2300/movie/ciccio/ciccio/11333.mkv
 #EXTINF:-1,Harry.Potter.6.Il.Principe.Mezzosangue
 http://sasuketv.iptvitalia.eu:2300/movie/ciccio/ciccio/11334.mkv
-#EXTINF:-1,Harry.Potter.7.I.Doni.Della.Morte
+#EXTINF:-1,Harry.Potter.7.I.Doni.Della.Morte 1 Parte
 http://sasuketv.iptvitalia.eu:2300/movie/ciccio/ciccio/11335.mkv
+#EXTINF:-1,Harry Potter 8 I Doni Della Morte Parte 2
+http://sasuketv.iptvitalia.eu:2300/movie/ciccio/ciccio/14140.mkv
 #EXTINF:-1,=== FINAL DESTINATION ===
 http://sasuketv.iptvitalia.eu:2300/live/ciccio/ciccio/10705.ts
 #EXTINF:-1,Final.Destination.2000
