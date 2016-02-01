@@ -391,6 +391,12 @@ http://sasuketv.iptvitalia.eu:2300/live/ciccio/ciccio/10833.ts
 http://sasuketv.iptvitalia.eu:2300/live/ciccio/ciccio/9697.ts
 #EXTINF:-1,=== FILM IN SALA ===
 http://sasuketv.iptvitalia.eu:2300/live/ciccio/ciccio/9204.ts
+#EXTINF:-1,The Pills Sempre Meglio Che Lavorare
+http://sasuketv.iptvitalia.eu:2300/movie/ciccio/ciccio/14143.mkv
+#EXTINF:-1,Joy
+http://sasuketv.iptvitalia.eu:2300/movie/ciccio/ciccio/14141.mkv
+#EXTINF:-1,Doraemon Nobita E Gli Eroi Dello Spazio
+http://sasuketv.iptvitalia.eu:2300/movie/ciccio/ciccio/14142.mkv
 #EXTINF:-1,Se Mi Lasci Non Vale
 http://sasuketv.iptvitalia.eu:2300/movie/ciccio/ciccio/14138.mkv
 #EXTINF:-1,Revenant Redivivo 2015
@@ -1771,6 +1777,18 @@ http://sasuketv.iptvitalia.eu:2300/movie/ciccio/ciccio/12729.mkv
 http://sasuketv.iptvitalia.eu:2300/movie/ciccio/ciccio/12730.mkv
 #EXTINF:-1,Braccialetti Rossi S01.Puntate 11 e 12.2014
 http://sasuketv.iptvitalia.eu:2300/movie/ciccio/ciccio/12731.mkv
+#EXTINF:-1,==== Braccialetti Rossi 2 ====
+http://sasuketv.iptvitalia.eu:2300/live/ciccio/ciccio/14149.ts
+#EXTINF:-1,Braccialetti.Rossi.S02 1 e 2 Puntata
+http://sasuketv.iptvitalia.eu:2300/movie/ciccio/ciccio/14144.mkv
+#EXTINF:-1,Braccialetti.Rossi.S02 3 e 4 Puntata
+http://sasuketv.iptvitalia.eu:2300/movie/ciccio/ciccio/14145.mkv
+#EXTINF:-1,Braccialetti.Rossi.S02 5 e 6 Puntata
+http://sasuketv.iptvitalia.eu:2300/movie/ciccio/ciccio/14146.mkv
+#EXTINF:-1,Braccialetti.Rossi.S02 7 e 8 Puntata
+http://sasuketv.iptvitalia.eu:2300/movie/ciccio/ciccio/14147.mkv
+#EXTINF:-1,Braccialetti.Rossi.S02 9 e 10 Puntata
+http://sasuketv.iptvitalia.eu:2300/movie/ciccio/ciccio/14148.mkv
 #EXTINF:-1,=== THE FLASH ===
 http://sasuketv.iptvitalia.eu:2300/live/ciccio/ciccio/12326.ts
 #EXTINF:-1,The.Flash.2014.1x01.Una.Citta.Di.Eroi
