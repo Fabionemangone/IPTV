@@ -1,0 +1,1355 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Channels xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Items>
+    <anyType xsi:type="Channel">
+      <ID>9713</ID>
+      <Name>Al Jazeera</Name>
+      <Bouquet>Dtt</Bouquet>
+    </anyType>
+    <anyType xsi:type="Channel">
+      <ID>9714</ID>
+      <Name>Alice</Name>
+      <Bouquet>Dtt</Bouquet>
+    </anyType>
+    <anyType xsi:type="Channel">
+      <ID>519</ID>
+      <Name>Animal Planet</Name>
+      <Bouquet>Sky Mondi &amp; Culture</Bouquet>
+    </anyType>
+    <anyType xsi:type="Channel">
+      <ID>9703</ID>
+      <Name>Antenna 3</Name>
+      <Bouquet>Dtt</Bouquet>
+    </anyType>
+    <anyType xsi:type="Channel">
+      <ID>7587</ID>
+      <Name>Automoto Tv</Name>
+      <Bouquet>Sky Intrattenimento</Bouquet>
+    </anyType>
+    <anyType xsi:type="Channel">
+      <ID>6420</ID>
+      <Name>Axn +1</Name>
+      <Bouquet>Sky Intrattenimento</Bouquet>
+    </anyType>
+    <anyType xsi:type="Channel">
+      <ID>8455</ID>
+      <Name>Axn Hd</Name>
+      <Bouquet>Sky Intrattenimento</Bouquet>
+    </anyType>
+    <anyType xsi:type="Channel">
+      <ID>6503</ID>
+      <Name>Axn Sci-Fi</Name>
+      <Bouquet>Sky Intrattenimento</Bouquet>
+    </anyType>
+    <anyType xsi:type="Channel">
+      <ID>6160</ID>
+      <Name>Baby Tv</Name>
+      <Bouquet>Sky Bambini</Bouquet>
+    </anyType>
+    <anyType xsi:type="Channel">
+      <ID>9818</ID>
+      <Name>Bbc Knowledge</Name>
+      <Bouquet>Mediaset Premium</Bouquet>
+    </anyType>
+    <anyType xsi:type="Channel">
+      <ID>9253</ID>
+      <Name>Bike Channel Hd</Name>
+      <Bouquet>Sky Sport</Bouquet>
+    </anyType>
+    <anyType xsi:type="Channel">
+      <ID>349</ID>
+      <Name>Bloomberg</Name>
+      <Bouquet>Sky News</Bouquet>
+    </anyType>
+    <anyType xsi:type="Channel">
+      <ID>6628</ID>
+      <Name>Boing</Name>
+      <Bouquet>Dtt</Bouquet>
+    </anyType>
+    <anyType xsi:type="Channel">
+      <ID>9704</ID>
+      <Name>Boing +1</Name>
+      <Bouquet>Dtt</Bouquet>
+    </anyType>
+    <anyType xsi:type="Channel">
+      <ID>472</ID>
+      <Name>Boomerang</Name>
+      <Bouquet>Sky Bambini</Bouquet>
+    </anyType>
+    <anyType xsi:type="Channel">
+      <ID>479</ID>
+      <Name>Boomerang +1</Name>
+      <Bouquet>Sky Bambini</Bouquet>
+    </anyType>
+    <anyType xsi:type="Channel">
+      <ID>520</ID>
+      <Name>Caccia E Pesca</Name>
+      <Bouquet>Sky Sport</Bouquet>
+    </anyType>
+    <anyType xsi:type="Channel">
+      <ID>6604</ID>
+      <Name>Canale 5</Name>
+      <Bouquet>Dtt</Bouquet>
+    </anyType>
+    <anyType xsi:type="Channel">
+      <ID>129</ID>
+      <Name>Cartoon Network</Name>
+      <Bouquet>Sky Bambini</Bouquet>
+    </anyType>
+    <anyType xsi:type="Channel">
+      <ID>9813</ID>
+      <Name>Cartoon Network (Dtt)</Name>
+      <Bouquet>Mediaset Premium</Bouquet>
+    </anyType>
+    <anyType xsi:type="Channel">
+      <ID>476</ID>
+      <Name>Cartoon Network +1</Name>
+      <Bouquet>Sky Bambini</Bouquet>
+    </anyType>
+    <anyType xsi:type="Channel">
+      <ID>8132</ID>
+      <Name>Cartoonito</Name>
+      <Bouquet>Dtt</Bouquet>
+    </anyType>
+    <anyType xsi:type="Channel">
+      <ID>8336</ID>
+      <Name>Ci Crime+ Investigation Hd</Name>
+      <Bouquet>Sky Intrattenimento</Bouquet>
+    </anyType>
+    <anyType xsi:type="Channel">
+      <ID>8773</ID>
+      <Name>Cielo</Name>
+      <Bouquet>Dtt</Bouquet>
+    </anyType>
+    <anyType xsi:type="Channel">
+      <ID>8133</ID>
+      <Name>Cielo Hd</Name>
+      <Bouquet>Sky Intrattenimento</Bouquet>
+    </anyType>
+    <anyType xsi:type="Channel">
+      <ID>6611</ID>
+      <Name>Class Horse Tv</Name>
+      <Bouquet>Sky Sport</Bouquet>
+    </anyType>
+    <anyType xsi:type="Channel">
+      <ID>308</ID>
+      <Name>Class-Cnbc</Name>
+      <Bouquet>Sky News</Bouquet>
+    </anyType>
+    <anyType xsi:type="Channel">
+      <ID>8007</ID>
+      <Name>Classica Hd</Name>
+      <Bouquet>Sky Intrattenimento</Bouquet>
+    </anyType>
+    <anyType xsi:type="Channel">
+      <ID>444</ID>
+      <Name>Cnbc</Name>
+      <Bouquet>Sky News</Bouquet>
+    </anyType>
+    <anyType xsi:type="Channel">
+      <ID>312</ID>
+      <Name>Cnn Intl</Name>
+      <Bouquet>Sky News</Bouquet>
+    </anyType>
+    <anyType xsi:type="Channel">
+      <ID>318</ID>
+      <Name>Comedy Central</Name>
+      <Bouquet>Sky Intrattenimento</Bouquet>
+    </anyType>
+    <anyType xsi:type="Channel">
+      <ID>8353</ID>
+      <Name>Comedy Central +1</Name>
+      <Bouquet>Sky Intrattenimento</Bouquet>
+    </anyType>
+    <anyType xsi:type="Channel">
+      <ID>7427</ID>
+      <Name>Dea Junior</Name>
+      <Bouquet>Sky Bambini</Bouquet>
+    </anyType>
+    <anyType xsi:type="Channel">
+      <ID>460</ID>
+      <Name>Deakids</Name>
+      <Bouquet>Sky Bambini</Bouquet>
+    </anyType>
+    <anyType xsi:type="Channel">
+      <ID>364</ID>
+      <Name>Deakids +1</Name>
+      <Bouquet>Sky Bambini</Bouquet>
+    </anyType>
+    <anyType xsi:type="Channel">
+      <ID>974</ID>
+      <Name>Deejay Tv</Name>
+      <Bouquet>Sky Intrattenimento</Bouquet>
+    </anyType>
+    <anyType xsi:type="Channel">
+      <ID>9716</ID>
+      <Name>Deejay Tv +1</Name>
+      <Bouquet>Dtt</Bouquet>
+    </anyType>
+    <anyType xsi:type="Channel">
+      <ID>331</ID>
+      <Name>Discovery Ch +1</Name>
+      <Bouquet>Sky Mondi &amp; Culture</Bouquet>
+    </anyType>
+    <anyType xsi:type="Channel">
+      <ID>931</ID>
+      <Name>Discovery Channel Hd</Name>
+      <Bouquet>Sky Mondi &amp; Culture</Bouquet>
+    </anyType>
+    <anyType xsi:type="Channel">
+      <ID>467</ID>
+      <Name>Discovery Science Hd</Name>
+      <Bouquet>Sky Mondi &amp; Culture</Bouquet>
+    </anyType>
+    <anyType xsi:type="Channel">
+      <ID>465</ID>
+      <Name>Discovery Travel &amp; Living Hd</Name>
+      <Bouquet>Sky Mondi &amp; Culture</Bouquet>
+    </anyType>
+    <anyType xsi:type="Channel">
+      <ID>9819</ID>
+      <Name>Discovery World</Name>
+      <Bouquet>Mediaset Premium</Bouquet>
+    </anyType>
+    <anyType xsi:type="Channel">
+      <ID>9814</ID>
+      <Name>Disney (Dtt)</Name>
+      <Bouquet>Mediaset Premium</Bouquet>
+    </anyType>
+    <anyType xsi:type="Channel">
+      <ID>9815</ID>
+      <Name>Disney +1 (Dtt)</Name>
+      <Bouquet>Mediaset Premium</Bouquet>
+    </anyType>
+    <anyType xsi:type="Channel">
+      <ID>450</ID>
+      <Name>Disney Channel +1</Name>
+      <Bouquet>Sky Bambini</Bouquet>
+    </anyType>
+    <anyType xsi:type="Channel">
+      <ID>6821</ID>
+      <Name>Disney Channel +2</Name>
+      <Bouquet>Sky Bambini</Bouquet>
+    </anyType>
+    <anyType xsi:type="Channel">
+      <ID>118</ID>
+      <Name>Disney Channel Hd</Name>
+      <Bouquet>Sky Bambini</Bouquet>
+    </anyType>
+    <anyType xsi:type="Channel">
+      <ID>454</ID>
+      <Name>Disney In English</Name>
+      <Bouquet>Sky Bambini</Bouquet>
+    </anyType>
+    <anyType xsi:type="Channel">
+      <ID>453</ID>
+      <Name>Disney Junior</Name>
+      <Bouquet>Sky Bambini</Bouquet>
+    </anyType>
+    <anyType xsi:type="Channel">
+      <ID>9821</ID>
+      <Name>Disney Junior (Dtt)</Name>
+      <Bouquet>Mediaset Premium</Bouquet>
+    </anyType>
+    <anyType xsi:type="Channel">
+      <ID>132</ID>
+      <Name>Disney Junior +1</Name>
+      <Bouquet>Sky Bambini</Bouquet>
+    </anyType>
+    <anyType xsi:type="Channel">
+      <ID>475</ID>
+      <Name>Disney Xd +1</Name>
+      <Bouquet>Sky Bambini</Bouquet>
+    </anyType>
+    <anyType xsi:type="Channel">
+      <ID>6822</ID>
+      <Name>Disney Xd +2</Name>
+      <Bouquet>Sky Bambini</Bouquet>
+    </anyType>
+    <anyType xsi:type="Channel">
+      <ID>131</ID>
+      <Name>Disney Xd Hd</Name>
+      <Bouquet>Sky Bambini</Bouquet>
+    </anyType>
+    <anyType xsi:type="Channel">
+      <ID>9233</ID>
+      <Name>Dmax</Name>
+      <Bouquet>Dtt</Bouquet>
+    </anyType>
+    <anyType xsi:type="Channel">
+      <ID>8513</ID>
+      <Name>Dmax +1</Name>
+      <Bouquet>Sky Intrattenimento</Bouquet>
+    </anyType>
+    <anyType xsi:type="Channel">
+      <ID>8933</ID>
+      <Name>Dmax Hd</Name>
+      <Bouquet>Sky Intrattenimento</Bouquet>
+    </anyType>
+    <anyType xsi:type="Channel">
+      <ID>7402</ID>
+      <Name>Doctor's Life</Name>
+      <Bouquet>Sky Mondi &amp; Culture</Bouquet>
+    </anyType>
+    <anyType xsi:type="Channel">
+      <ID>6360</ID>
+      <Name>Dove</Name>
+      <Bouquet>Sky Mondi &amp; Culture</Bouquet>
+    </anyType>
+    <anyType xsi:type="Channel">
+      <ID>801</ID>
+      <Name>Euronews</Name>
+      <Bouquet>Sky News</Bouquet>
+    </anyType>
+    <anyType xsi:type="Channel">
+      <ID>9825</ID>
+      <Name>Eurosport (Dtt)</Name>
+      <Bouquet>Mediaset Premium</Bouquet>
+    </anyType>
+    <anyType xsi:type="Channel">
+      <ID>9826</ID>
+      <Name>Eurosport 2 (Dtt)</Name>
+      <Bouquet>Mediaset Premium</Bouquet>
+    </anyType>
+    <anyType xsi:type="Channel">
+      <ID>391</ID>
+      <Name>Eurosport 2 Hd</Name>
+      <Bouquet>Sky Sport</Bouquet>
+    </anyType>
+    <anyType xsi:type="Channel">
+      <ID>307</ID>
+      <Name>Eurosport Hd</Name>
+      <Bouquet>Sky Sport</Bouquet>
+    </anyType>
+    <anyType xsi:type="Channel">
+      <ID>7687</ID>
+      <Name>Explora Hd</Name>
+      <Bouquet>Sky Mondi &amp; Culture</Bouquet>
+    </anyType>
+    <anyType xsi:type="Channel">
+      <ID>9718</ID>
+      <Name>Fine Living</Name>
+      <Bouquet>Dtt</Bouquet>
+    </anyType>
+    <anyType xsi:type="Channel">
+      <ID>9237</ID>
+      <Name>Focus</Name>
+      <Bouquet>Dtt</Bouquet>
+    </anyType>
+    <anyType xsi:type="Channel">
+      <ID>8130</ID>
+      <Name>Focus Tv</Name>
+      <Bouquet>Sky Mondi &amp; Culture</Bouquet>
+    </anyType>
+    <anyType xsi:type="Channel">
+      <ID>635</ID>
+      <Name>Fox +1</Name>
+      <Bouquet>Sky Intrattenimento</Bouquet>
+    </anyType>
+    <anyType xsi:type="Channel">
+      <ID>8853</ID>
+      <Name>Fox Animation Hd</Name>
+      <Bouquet>Sky Intrattenimento</Bouquet>
+    </anyType>
+    <anyType xsi:type="Channel">
+      <ID>6741</ID>
+      <Name>Fox Business</Name>
+      <Bouquet>Sky News</Bouquet>
+    </anyType>
+    <anyType xsi:type="Channel">
+      <ID>8833</ID>
+      <Name>Fox Comedy Hd</Name>
+      <Bouquet>Sky Intrattenimento</Bouquet>
+    </anyType>
+    <anyType xsi:type="Channel">
+      <ID>588</ID>
+      <Name>Fox Crime +1</Name>
+      <Bouquet>Sky Intrattenimento</Bouquet>
+    </anyType>
+    <anyType xsi:type="Channel">
+      <ID>139</ID>
+      <Name>Fox Crime Hd</Name>
+      <Bouquet>Sky Intrattenimento</Bouquet>
+    </anyType>
+    <anyType xsi:type="Channel">
+      <ID>6505</ID>
+      <Name>Fox Files Hd</Name>
+      <Bouquet>Sky Intrattenimento</Bouquet>
+    </anyType>
+    <anyType xsi:type="Channel">
+      <ID>122</ID>
+      <Name>Fox Hd</Name>
+      <Bouquet>Sky Intrattenimento</Bouquet>
+    </anyType>
+    <anyType xsi:type="Channel">
+      <ID>529</ID>
+      <Name>Fox Life +1</Name>
+      <Bouquet>Sky Intrattenimento</Bouquet>
+    </anyType>
+    <anyType xsi:type="Channel">
+      <ID>133</ID>
+      <Name>Fox Life Hd</Name>
+      <Bouquet>Sky Intrattenimento</Bouquet>
+    </anyType>
+    <anyType xsi:type="Channel">
+      <ID>446</ID>
+      <Name>Fox News</Name>
+      <Bouquet>Sky News</Bouquet>
+    </anyType>
+    <anyType xsi:type="Channel">
+      <ID>8027</ID>
+      <Name>Fox Sports Hd</Name>
+      <Bouquet>Sky Sport</Bouquet>
+    </anyType>
+    <anyType xsi:type="Channel">
+      <ID>5119</ID>
+      <Name>France 24</Name>
+      <Bouquet>Sky News</Bouquet>
+    </anyType>
+    <anyType xsi:type="Channel">
+      <ID>7968</ID>
+      <Name>France 24 English</Name>
+      <Bouquet>Sky News</Bouquet>
+    </anyType>
+    <anyType xsi:type="Channel">
+      <ID>6610</ID>
+      <Name>Frisbee</Name>
+      <Bouquet>Sky Bambini</Bouquet>
+    </anyType>
+    <anyType xsi:type="Channel">
+      <ID>524</ID>
+      <Name>Gambero Rosso Hd</Name>
+      <Bouquet>Sky Mondi &amp; Culture</Bouquet>
+    </anyType>
+    <anyType xsi:type="Channel">
+      <ID>8131</ID>
+      <Name>Giallo</Name>
+      <Bouquet>Sky Intrattenimento</Bouquet>
+    </anyType>
+    <anyType xsi:type="Channel">
+      <ID>309</ID>
+      <Name>Hip Hop Tv</Name>
+      <Bouquet>Sky Musica</Bouquet>
+    </anyType>
+    <anyType xsi:type="Channel">
+      <ID>123</ID>
+      <Name>History Ch +1</Name>
+      <Bouquet>Sky Mondi &amp; Culture</Bouquet>
+    </anyType>
+    <anyType xsi:type="Channel">
+      <ID>639</ID>
+      <Name>History Channel Hd</Name>
+      <Bouquet>Sky Mondi &amp; Culture</Bouquet>
+    </anyType>
+    <anyType xsi:type="Channel">
+      <ID>8273</ID>
+      <Name>I24news</Name>
+      <Bouquet>Sky News</Bouquet>
+    </anyType>
+    <anyType xsi:type="Channel">
+      <ID>456</ID>
+      <Name>Inter Channel</Name>
+      <Bouquet>Sky Sport</Bouquet>
+    </anyType>
+    <anyType xsi:type="Channel">
+      <ID>6606</ID>
+      <Name>Iris</Name>
+      <Bouquet>Dtt</Bouquet>
+    </anyType>
+    <anyType xsi:type="Channel">
+      <ID>6605</ID>
+      <Name>Italia 1</Name>
+      <Bouquet>Dtt</Bouquet>
+    </anyType>
+    <anyType xsi:type="Channel">
+      <ID>9711</ID>
+      <Name>Italia 7 Gold</Name>
+      <Bouquet>Dtt</Bouquet>
+    </anyType>
+    <anyType xsi:type="Channel">
+      <ID>9193</ID>
+      <Name>J | Juventus Tv</Name>
+      <Bouquet>Sky Sport</Bouquet>
+    </anyType>
+    <anyType xsi:type="Channel">
+      <ID>9800</ID>
+      <Name>Joi</Name>
+      <Bouquet>Mediaset Premium</Bouquet>
+    </anyType>
+    <anyType xsi:type="Channel">
+      <ID>6240</ID>
+      <Name>K2</Name>
+      <Bouquet>Sky Bambini</Bouquet>
+    </anyType>
+    <anyType xsi:type="Channel">
+      <ID>8318</ID>
+      <Name>K2 Kids Tv</Name>
+      <Bouquet>Dtt</Bouquet>
+    </anyType>
+    <anyType xsi:type="Channel">
+      <ID>8107</ID>
+      <Name>La Sposa</Name>
+      <Bouquet>Sky Mondi &amp; Culture</Bouquet>
+    </anyType>
+    <anyType xsi:type="Channel">
+      <ID>6400</ID>
+      <Name>La3</Name>
+      <Bouquet>Sky Intrattenimento</Bouquet>
+    </anyType>
+    <anyType xsi:type="Channel">
+      <ID>6625</ID>
+      <Name>La5</Name>
+      <Bouquet>Dtt</Bouquet>
+    </anyType>
+    <anyType xsi:type="Channel">
+      <ID>8329</ID>
+      <Name>La7</Name>
+      <Bouquet>Dtt</Bouquet>
+    </anyType>
+    <anyType xsi:type="Channel">
+      <ID>6624</ID>
+      <Name>La7d</Name>
+      <Bouquet>Dtt</Bouquet>
+    </anyType>
+    <anyType xsi:type="Channel">
+      <ID>8128</ID>
+      <Name>Laeffe</Name>
+      <Bouquet>Sky Intrattenimento</Bouquet>
+    </anyType>
+    <anyType xsi:type="Channel">
+      <ID>7527</ID>
+      <Name>Lazio Style Channel</Name>
+      <Bouquet>Sky Sport</Bouquet>
+    </anyType>
+    <anyType xsi:type="Channel">
+      <ID>423</ID>
+      <Name>Lei</Name>
+      <Bouquet>Sky Intrattenimento</Bouquet>
+    </anyType>
+    <anyType xsi:type="Channel">
+      <ID>7747</ID>
+      <Name>Lei +1</Name>
+      <Bouquet>Sky Intrattenimento</Bouquet>
+    </anyType>
+    <anyType xsi:type="Channel">
+      <ID>6440</ID>
+      <Name>Man-Ga</Name>
+      <Bouquet>Sky Intrattenimento</Bouquet>
+    </anyType>
+    <anyType xsi:type="Channel">
+      <ID>9715</ID>
+      <Name>Marcopolo</Name>
+      <Bouquet>Dtt</Bouquet>
+    </anyType>
+    <anyType xsi:type="Channel">
+      <ID>6627</ID>
+      <Name>Mediaset Extra</Name>
+      <Bouquet>Dtt</Bouquet>
+    </anyType>
+    <anyType xsi:type="Channel">
+      <ID>7967</ID>
+      <Name>Mediaset Italia Due</Name>
+      <Bouquet>Dtt</Bouquet>
+    </anyType>
+    <anyType xsi:type="Channel">
+      <ID>322</ID>
+      <Name>Milan Channel</Name>
+      <Bouquet>Sky Sport</Bouquet>
+    </anyType>
+    <anyType xsi:type="Channel">
+      <ID>8195</ID>
+      <Name>Mtv 8</Name>
+      <Bouquet>Sky Intrattenimento</Bouquet>
+    </anyType>
+    <anyType xsi:type="Channel">
+      <ID>9717</ID>
+      <Name>Mtv Dance</Name>
+      <Bouquet>Dtt</Bouquet>
+    </anyType>
+    <anyType xsi:type="Channel">
+      <ID>543</ID>
+      <Name>Mtv Hits</Name>
+      <Bouquet>Sky Musica</Bouquet>
+    </anyType>
+    <anyType xsi:type="Channel">
+      <ID>528</ID>
+      <Name>Mtv Music</Name>
+      <Bouquet>Sky Musica</Bouquet>
+    </anyType>
+    <anyType xsi:type="Channel">
+      <ID>9196</ID>
+      <Name>Mtv Next Hd</Name>
+      <Bouquet>Sky Intrattenimento</Bouquet>
+    </anyType>
+    <anyType xsi:type="Channel">
+      <ID>542</ID>
+      <Name>Mtv Rocks</Name>
+      <Bouquet>Sky Musica</Bouquet>
+    </anyType>
+    <anyType xsi:type="Channel">
+      <ID>8327</ID>
+      <Name>Mtv8</Name>
+      <Bouquet>Dtt</Bouquet>
+    </anyType>
+    <anyType xsi:type="Channel">
+      <ID>462</ID>
+      <Name>My Deejay</Name>
+      <Bouquet>Sky Musica</Bouquet>
+    </anyType>
+    <anyType xsi:type="Channel">
+      <ID>7407</ID>
+      <Name>Nat Geo People Hd</Name>
+      <Bouquet>Sky Mondi &amp; Culture</Bouquet>
+    </anyType>
+    <anyType xsi:type="Channel">
+      <ID>8813</ID>
+      <Name>Nat Geo Wild +1</Name>
+      <Bouquet>Sky Mondi &amp; Culture</Bouquet>
+    </anyType>
+    <anyType xsi:type="Channel">
+      <ID>126</ID>
+      <Name>Nat Geo Wild Hd</Name>
+      <Bouquet>Sky Mondi &amp; Culture</Bouquet>
+    </anyType>
+    <anyType xsi:type="Channel">
+      <ID>125</ID>
+      <Name>National Geo +1</Name>
+      <Bouquet>Sky Mondi &amp; Culture</Bouquet>
+    </anyType>
+    <anyType xsi:type="Channel">
+      <ID>641</ID>
+      <Name>National Geo Hd</Name>
+      <Bouquet>Sky Mondi &amp; Culture</Bouquet>
+    </anyType>
+    <anyType xsi:type="Channel">
+      <ID>461</ID>
+      <Name>Nick Junior</Name>
+      <Bouquet>Sky Bambini</Bouquet>
+    </anyType>
+    <anyType xsi:type="Channel">
+      <ID>6701</ID>
+      <Name>Nick Junior +1</Name>
+      <Bouquet>Sky Bambini</Bouquet>
+    </anyType>
+    <anyType xsi:type="Channel">
+      <ID>320</ID>
+      <Name>Nickelodeon</Name>
+      <Bouquet>Sky Bambini</Bouquet>
+    </anyType>
+    <anyType xsi:type="Channel">
+      <ID>6140</ID>
+      <Name>Nickelodeon +1</Name>
+      <Bouquet>Sky Bambini</Bouquet>
+    </anyType>
+    <anyType xsi:type="Channel">
+      <ID>9706</ID>
+      <Name>Nuvolari</Name>
+      <Bouquet>Dtt</Bouquet>
+    </anyType>
+    <anyType xsi:type="Channel">
+      <ID>9707</ID>
+      <Name>Odeon</Name>
+      <Bouquet>Dtt</Bouquet>
+    </anyType>
+    <anyType xsi:type="Channel">
+      <ID>6220</ID>
+      <Name>Pesca E Caccia</Name>
+      <Bouquet>Sky Sport</Bouquet>
+    </anyType>
+    <anyType xsi:type="Channel">
+      <ID>6613</ID>
+      <Name>Pokeritalia24</Name>
+      <Bouquet>Sky Sport</Bouquet>
+    </anyType>
+    <anyType xsi:type="Channel">
+      <ID>9830</ID>
+      <Name>Premium Action +24</Name>
+      <Bouquet>Mediaset Premium</Bouquet>
+    </anyType>
+    <anyType xsi:type="Channel">
+      <ID>9812</ID>
+      <Name>Premium Action Hd</Name>
+      <Bouquet>Mediaset Premium</Bouquet>
+    </anyType>
+    <anyType xsi:type="Channel">
+      <ID>9805</ID>
+      <Name>Premium Calcio 1</Name>
+      <Bouquet>Mediaset Premium</Bouquet>
+    </anyType>
+    <anyType xsi:type="Channel">
+      <ID>9806</ID>
+      <Name>Premium Calcio 2</Name>
+      <Bouquet>Mediaset Premium</Bouquet>
+    </anyType>
+    <anyType xsi:type="Channel">
+      <ID>9807</ID>
+      <Name>Premium Calcio 3</Name>
+      <Bouquet>Mediaset Premium</Bouquet>
+    </anyType>
+    <anyType xsi:type="Channel">
+      <ID>9808</ID>
+      <Name>Premium Calcio 4</Name>
+      <Bouquet>Mediaset Premium</Bouquet>
+    </anyType>
+    <anyType xsi:type="Channel">
+      <ID>9809</ID>
+      <Name>Premium Calcio 5</Name>
+      <Bouquet>Mediaset Premium</Bouquet>
+    </anyType>
+    <anyType xsi:type="Channel">
+      <ID>9810</ID>
+      <Name>Premium Calcio 6</Name>
+      <Bouquet>Mediaset Premium</Bouquet>
+    </anyType>
+    <anyType xsi:type="Channel">
+      <ID>9833</ID>
+      <Name>Premium Calcio 7</Name>
+      <Bouquet>Mediaset Premium</Bouquet>
+    </anyType>
+    <anyType xsi:type="Channel">
+      <ID>9811</ID>
+      <Name>Premium Calcio Hd</Name>
+      <Bouquet>Mediaset Premium</Bouquet>
+    </anyType>
+    <anyType xsi:type="Channel">
+      <ID>9827</ID>
+      <Name>Premium Cinema + 24</Name>
+      <Bouquet>Mediaset Premium</Bouquet>
+    </anyType>
+    <anyType xsi:type="Channel">
+      <ID>9829</ID>
+      <Name>Premium Cinema 2 +24</Name>
+      <Bouquet>Mediaset Premium</Bouquet>
+    </anyType>
+    <anyType xsi:type="Channel">
+      <ID>9828</ID>
+      <Name>Premium Cinema 2 Hd</Name>
+      <Bouquet>Mediaset Premium</Bouquet>
+    </anyType>
+    <anyType xsi:type="Channel">
+      <ID>9822</ID>
+      <Name>Premium Cinema Comedy</Name>
+      <Bouquet>Mediaset Premium</Bouquet>
+    </anyType>
+    <anyType xsi:type="Channel">
+      <ID>9817</ID>
+      <Name>Premium Cinema Emotion</Name>
+      <Bouquet>Mediaset Premium</Bouquet>
+    </anyType>
+    <anyType xsi:type="Channel">
+      <ID>9816</ID>
+      <Name>Premium Cinema Energy</Name>
+      <Bouquet>Mediaset Premium</Bouquet>
+    </anyType>
+    <anyType xsi:type="Channel">
+      <ID>9803</ID>
+      <Name>Premium Cinema Hd</Name>
+      <Bouquet>Mediaset Premium</Bouquet>
+    </anyType>
+    <anyType xsi:type="Channel">
+      <ID>9831</ID>
+      <Name>Premium Crime +24</Name>
+      <Bouquet>Mediaset Premium</Bouquet>
+    </anyType>
+    <anyType xsi:type="Channel">
+      <ID>9820</ID>
+      <Name>Premium Crime Hd</Name>
+      <Bouquet>Mediaset Premium</Bouquet>
+    </anyType>
+    <anyType xsi:type="Channel">
+      <ID>9832</ID>
+      <Name>Premium Sport Hd</Name>
+      <Bouquet>Mediaset Premium</Bouquet>
+    </anyType>
+    <anyType xsi:type="Channel">
+      <ID>7667</ID>
+      <Name>Primafila 1</Name>
+      <Bouquet>Sky Primafila</Bouquet>
+    </anyType>
+    <anyType xsi:type="Channel">
+      <ID>948</ID>
+      <Name>Primafila 10</Name>
+      <Bouquet>Sky Primafila</Bouquet>
+    </anyType>
+    <anyType xsi:type="Channel">
+      <ID>205</ID>
+      <Name>Primafila 11</Name>
+      <Bouquet>Sky Primafila</Bouquet>
+    </anyType>
+    <anyType xsi:type="Channel">
+      <ID>943</ID>
+      <Name>Primafila 12</Name>
+      <Bouquet>Sky Primafila</Bouquet>
+    </anyType>
+    <anyType xsi:type="Channel">
+      <ID>84</ID>
+      <Name>Primafila 13</Name>
+      <Bouquet>Sky Primafila</Bouquet>
+    </anyType>
+    <anyType xsi:type="Channel">
+      <ID>75</ID>
+      <Name>Primafila 14</Name>
+      <Bouquet>Sky Primafila</Bouquet>
+    </anyType>
+    <anyType xsi:type="Channel">
+      <ID>76</ID>
+      <Name>Primafila 15</Name>
+      <Bouquet>Sky Primafila</Bouquet>
+    </anyType>
+    <anyType xsi:type="Channel">
+      <ID>601</ID>
+      <Name>Primafila 16</Name>
+      <Bouquet>Sky Primafila</Bouquet>
+    </anyType>
+    <anyType xsi:type="Channel">
+      <ID>605</ID>
+      <Name>Primafila 17</Name>
+      <Bouquet>Sky Primafila</Bouquet>
+    </anyType>
+    <anyType xsi:type="Channel">
+      <ID>79</ID>
+      <Name>Primafila 18</Name>
+      <Bouquet>Sky Primafila</Bouquet>
+    </anyType>
+    <anyType xsi:type="Channel">
+      <ID>390</ID>
+      <Name>Primafila 19</Name>
+      <Bouquet>Sky Primafila</Bouquet>
+    </anyType>
+    <anyType xsi:type="Channel">
+      <ID>942</ID>
+      <Name>Primafila 2</Name>
+      <Bouquet>Sky Primafila</Bouquet>
+    </anyType>
+    <anyType xsi:type="Channel">
+      <ID>8373</ID>
+      <Name>Primafila 3 Hd</Name>
+      <Bouquet>Sky Primafila</Bouquet>
+    </anyType>
+    <anyType xsi:type="Channel">
+      <ID>944</ID>
+      <Name>Primafila 4</Name>
+      <Bouquet>Sky Primafila</Bouquet>
+    </anyType>
+    <anyType xsi:type="Channel">
+      <ID>203</ID>
+      <Name>Primafila 5</Name>
+      <Bouquet>Sky Primafila</Bouquet>
+    </anyType>
+    <anyType xsi:type="Channel">
+      <ID>945</ID>
+      <Name>Primafila 6</Name>
+      <Bouquet>Sky Primafila</Bouquet>
+    </anyType>
+    <anyType xsi:type="Channel">
+      <ID>8374</ID>
+      <Name>Primafila 7 Hd</Name>
+      <Bouquet>Sky Primafila</Bouquet>
+    </anyType>
+    <anyType xsi:type="Channel">
+      <ID>609</ID>
+      <Name>Primafila 8</Name>
+      <Bouquet>Sky Primafila</Bouquet>
+    </anyType>
+    <anyType xsi:type="Channel">
+      <ID>947</ID>
+      <Name>Primafila 9</Name>
+      <Bouquet>Sky Primafila</Bouquet>
+    </anyType>
+    <anyType xsi:type="Channel">
+      <ID>6626</ID>
+      <Name>Qvc</Name>
+      <Bouquet>Sky Mondi &amp; Culture</Bouquet>
+    </anyType>
+    <anyType xsi:type="Channel">
+      <ID>8233</ID>
+      <Name>Radio Italia Tv</Name>
+      <Bouquet>Sky Musica</Bouquet>
+    </anyType>
+    <anyType xsi:type="Channel">
+      <ID>8213</ID>
+      <Name>Radionorba Tv</Name>
+      <Bouquet>Sky Musica</Bouquet>
+    </anyType>
+    <anyType xsi:type="Channel">
+      <ID>6601</ID>
+      <Name>Rai 1</Name>
+      <Bouquet>Dtt</Bouquet>
+    </anyType>
+    <anyType xsi:type="Channel">
+      <ID>6621</ID>
+      <Name>Rai 2</Name>
+      <Bouquet>Dtt</Bouquet>
+    </anyType>
+    <anyType xsi:type="Channel">
+      <ID>6602</ID>
+      <Name>Rai 3</Name>
+      <Bouquet>Dtt</Bouquet>
+    </anyType>
+    <anyType xsi:type="Channel">
+      <ID>6622</ID>
+      <Name>Rai 4</Name>
+      <Bouquet>Dtt</Bouquet>
+    </anyType>
+    <anyType xsi:type="Channel">
+      <ID>6607</ID>
+      <Name>Rai 5</Name>
+      <Bouquet>Dtt</Bouquet>
+    </anyType>
+    <anyType xsi:type="Channel">
+      <ID>6629</ID>
+      <Name>Rai Gulp</Name>
+      <Bouquet>Dtt</Bouquet>
+    </anyType>
+    <anyType xsi:type="Channel">
+      <ID>9705</ID>
+      <Name>Rai Gulp +1</Name>
+      <Bouquet>Dtt</Bouquet>
+    </anyType>
+    <anyType xsi:type="Channel">
+      <ID>6608</ID>
+      <Name>Rai Movie</Name>
+      <Bouquet>Dtt</Bouquet>
+    </anyType>
+    <anyType xsi:type="Channel">
+      <ID>895</ID>
+      <Name>Rai News</Name>
+      <Bouquet>Sky News</Bouquet>
+    </anyType>
+    <anyType xsi:type="Channel">
+      <ID>6623</ID>
+      <Name>Rai Premium</Name>
+      <Bouquet>Dtt</Bouquet>
+    </anyType>
+    <anyType xsi:type="Channel">
+      <ID>9702</ID>
+      <Name>Rai Scuola</Name>
+      <Bouquet>Dtt</Bouquet>
+    </anyType>
+    <anyType xsi:type="Channel">
+      <ID>807</ID>
+      <Name>Rai Sport 1</Name>
+      <Bouquet>Sky Sport</Bouquet>
+    </anyType>
+    <anyType xsi:type="Channel">
+      <ID>6612</ID>
+      <Name>Rai Sport 2</Name>
+      <Bouquet>Sky Sport</Bouquet>
+    </anyType>
+    <anyType xsi:type="Channel">
+      <ID>6630</ID>
+      <Name>Rai Storia</Name>
+      <Bouquet>Dtt</Bouquet>
+    </anyType>
+    <anyType xsi:type="Channel">
+      <ID>6609</ID>
+      <Name>Rai Yoyo</Name>
+      <Bouquet>Dtt</Bouquet>
+    </anyType>
+    <anyType xsi:type="Channel">
+      <ID>8323</ID>
+      <Name>Real Time</Name>
+      <Bouquet>Dtt</Bouquet>
+    </anyType>
+    <anyType xsi:type="Channel">
+      <ID>6504</ID>
+      <Name>Real Time +1</Name>
+      <Bouquet>Sky Intrattenimento</Bouquet>
+    </anyType>
+    <anyType xsi:type="Channel">
+      <ID>522</ID>
+      <Name>Real Time Hd</Name>
+      <Bouquet>Sky Intrattenimento</Bouquet>
+    </anyType>
+    <anyType xsi:type="Channel">
+      <ID>6603</ID>
+      <Name>Rete 4</Name>
+      <Bouquet>Dtt</Bouquet>
+    </anyType>
+    <anyType xsi:type="Channel">
+      <ID>8993</ID>
+      <Name>Reteconomy</Name>
+      <Bouquet>Sky News</Bouquet>
+    </anyType>
+    <anyType xsi:type="Channel">
+      <ID>333</ID>
+      <Name>Rock Tv</Name>
+      <Bouquet>Sky Musica</Bouquet>
+    </anyType>
+    <anyType xsi:type="Channel">
+      <ID>9194</ID>
+      <Name>Roma Tv</Name>
+      <Bouquet>Sky Sport</Bouquet>
+    </anyType>
+    <anyType xsi:type="Channel">
+      <ID>9700</ID>
+      <Name>Rsi La 1</Name>
+      <Bouquet>Svizzera</Bouquet>
+    </anyType>
+    <anyType xsi:type="Channel">
+      <ID>9701</ID>
+      <Name>Rsi La 2</Name>
+      <Bouquet>Svizzera</Bouquet>
+    </anyType>
+    <anyType xsi:type="Channel">
+      <ID>8873</ID>
+      <Name>Rt Doc Hd</Name>
+      <Bouquet>Sky News</Bouquet>
+    </anyType>
+    <anyType xsi:type="Channel">
+      <ID>6885</ID>
+      <Name>Rtl 102.5 Tv</Name>
+      <Bouquet>Sky Musica</Bouquet>
+    </anyType>
+    <anyType xsi:type="Channel">
+      <ID>6886</ID>
+      <Name>Russia Today</Name>
+      <Bouquet>Sky News</Bouquet>
+    </anyType>
+    <anyType xsi:type="Channel">
+      <ID>6761</ID>
+      <Name>Sky 3D - Ch 150</Name>
+      <Bouquet>Sky Intrattenimento</Bouquet>
+    </anyType>
+    <anyType xsi:type="Channel">
+      <ID>6781</ID>
+      <Name>Sky 3D - Ch 209</Name>
+      <Bouquet>Sky Sport</Bouquet>
+    </anyType>
+    <anyType xsi:type="Channel">
+      <ID>6801</ID>
+      <Name>Sky 3D - Ch 321</Name>
+      <Bouquet>Sky Cinema</Bouquet>
+    </anyType>
+    <anyType xsi:type="Channel">
+      <ID>8193</ID>
+      <Name>Sky Arte Hd</Name>
+      <Bouquet>Sky Intrattenimento</Bouquet>
+    </anyType>
+    <anyType xsi:type="Channel">
+      <ID>7767</ID>
+      <Name>Sky Arte Hd-400</Name>
+      <Bouquet>Sky Mondi &amp; Culture</Bouquet>
+    </anyType>
+    <anyType xsi:type="Channel">
+      <ID>8456</ID>
+      <Name>Sky Atlantic Hd</Name>
+      <Bouquet>Sky Intrattenimento</Bouquet>
+    </anyType>
+    <anyType xsi:type="Channel">
+      <ID>9333</ID>
+      <Name>Sky Atlantic Rocks</Name>
+      <Bouquet>Sky Intrattenimento</Bouquet>
+    </anyType>
+    <anyType xsi:type="Channel">
+      <ID>719</ID>
+      <Name>Sky Calcio 1 Hd</Name>
+      <Bouquet>Sky Sport</Bouquet>
+    </anyType>
+    <anyType xsi:type="Channel">
+      <ID>615</ID>
+      <Name>Sky Calcio 10</Name>
+      <Bouquet>Sky Sport</Bouquet>
+    </anyType>
+    <anyType xsi:type="Channel">
+      <ID>617</ID>
+      <Name>Sky Calcio 11</Name>
+      <Bouquet>Sky Sport</Bouquet>
+    </anyType>
+    <anyType xsi:type="Channel">
+      <ID>618</ID>
+      <Name>Sky Calcio 12</Name>
+      <Bouquet>Sky Sport</Bouquet>
+    </anyType>
+    <anyType xsi:type="Channel">
+      <ID>619</ID>
+      <Name>Sky Calcio 13</Name>
+      <Bouquet>Sky Sport</Bouquet>
+    </anyType>
+    <anyType xsi:type="Channel">
+      <ID>8713</ID>
+      <Name>Sky Calcio 2 Hd</Name>
+      <Bouquet>Sky Sport</Bouquet>
+    </anyType>
+    <anyType xsi:type="Channel">
+      <ID>8733</ID>
+      <Name>Sky Calcio 3 Hd</Name>
+      <Bouquet>Sky Sport</Bouquet>
+    </anyType>
+    <anyType xsi:type="Channel">
+      <ID>8715</ID>
+      <Name>Sky Calcio 4 Hd</Name>
+      <Bouquet>Sky Sport</Bouquet>
+    </anyType>
+    <anyType xsi:type="Channel">
+      <ID>8634</ID>
+      <Name>Sky Calcio 5 Hd</Name>
+      <Bouquet>Sky Sport</Bouquet>
+    </anyType>
+    <anyType xsi:type="Channel">
+      <ID>8636</ID>
+      <Name>Sky Calcio 6 Hd</Name>
+      <Bouquet>Sky Sport</Bouquet>
+    </anyType>
+    <anyType xsi:type="Channel">
+      <ID>8635</ID>
+      <Name>Sky Calcio 7 Hd</Name>
+      <Bouquet>Sky Sport</Bouquet>
+    </anyType>
+    <anyType xsi:type="Channel">
+      <ID>8633</ID>
+      <Name>Sky Calcio 8 Hd</Name>
+      <Bouquet>Sky Sport</Bouquet>
+    </anyType>
+    <anyType xsi:type="Channel">
+      <ID>8613</ID>
+      <Name>Sky Calcio 9</Name>
+      <Bouquet>Sky Sport</Bouquet>
+    </anyType>
+    <anyType xsi:type="Channel">
+      <ID>722</ID>
+      <Name>Sky Cinema +1 Hd</Name>
+      <Bouquet>Sky Cinema</Bouquet>
+    </anyType>
+    <anyType xsi:type="Channel">
+      <ID>452</ID>
+      <Name>Sky Cinema +24 Hd</Name>
+      <Bouquet>Sky Cinema</Bouquet>
+    </anyType>
+    <anyType xsi:type="Channel">
+      <ID>101</ID>
+      <Name>Sky Cinema 1 Hd</Name>
+      <Bouquet>Sky Cinema</Bouquet>
+    </anyType>
+    <anyType xsi:type="Channel">
+      <ID>723</ID>
+      <Name>Sky Cinema Classics Hd</Name>
+      <Bouquet>Sky Cinema</Bouquet>
+    </anyType>
+    <anyType xsi:type="Channel">
+      <ID>6561</ID>
+      <Name>Sky Cinema Comedy Hd</Name>
+      <Bouquet>Sky Cinema</Bouquet>
+    </anyType>
+    <anyType xsi:type="Channel">
+      <ID>6141</ID>
+      <Name>Sky Cinema Cult Hd</Name>
+      <Bouquet>Sky Cinema</Bouquet>
+    </anyType>
+    <anyType xsi:type="Channel">
+      <ID>7947</ID>
+      <Name>Sky Cinema Family +1 Hd</Name>
+      <Bouquet>Sky Cinema</Bouquet>
+    </anyType>
+    <anyType xsi:type="Channel">
+      <ID>105</ID>
+      <Name>Sky Cinema Family Hd</Name>
+      <Bouquet>Sky Cinema</Bouquet>
+    </anyType>
+    <anyType xsi:type="Channel">
+      <ID>724</ID>
+      <Name>Sky Cinema Hits Hd</Name>
+      <Bouquet>Sky Cinema</Bouquet>
+    </anyType>
+    <anyType xsi:type="Channel">
+      <ID>451</ID>
+      <Name>Sky Cinema Max +1 Hd</Name>
+      <Bouquet>Sky Cinema</Bouquet>
+    </anyType>
+    <anyType xsi:type="Channel">
+      <ID>115</ID>
+      <Name>Sky Cinema Max Hd</Name>
+      <Bouquet>Sky Cinema</Bouquet>
+    </anyType>
+    <anyType xsi:type="Channel">
+      <ID>6581</ID>
+      <Name>Sky Cinema Passion Hd</Name>
+      <Bouquet>Sky Cinema</Bouquet>
+    </anyType>
+    <anyType xsi:type="Channel">
+      <ID>334</ID>
+      <Name>Sky Music</Name>
+      <Bouquet>Sky Musica</Bouquet>
+    </anyType>
+    <anyType xsi:type="Channel">
+      <ID>445</ID>
+      <Name>Sky News</Name>
+      <Bouquet>Sky News</Bouquet>
+    </anyType>
+    <anyType xsi:type="Channel">
+      <ID>6300</ID>
+      <Name>Sky Radio</Name>
+      <Bouquet>Sky Musica</Bouquet>
+    </anyType>
+    <anyType xsi:type="Channel">
+      <ID>8714</ID>
+      <Name>Sky Sport 1 Hd</Name>
+      <Bouquet>Sky Sport</Bouquet>
+    </anyType>
+    <anyType xsi:type="Channel">
+      <ID>7507</ID>
+      <Name>Sky Sport 2 Hd</Name>
+      <Bouquet>Sky Sport</Bouquet>
+    </anyType>
+    <anyType xsi:type="Channel">
+      <ID>8693</ID>
+      <Name>Sky Sport 3 Hd</Name>
+      <Bouquet>Sky Sport</Bouquet>
+    </anyType>
+    <anyType xsi:type="Channel">
+      <ID>8413</ID>
+      <Name>Sky Sport F1 Hd</Name>
+      <Bouquet>Sky Sport</Bouquet>
+    </anyType>
+    <anyType xsi:type="Channel">
+      <ID>8434</ID>
+      <Name>Sky Sport Motogp Hd</Name>
+      <Bouquet>Sky Sport</Bouquet>
+    </anyType>
+    <anyType xsi:type="Channel">
+      <ID>8753</ID>
+      <Name>Sky Sport Plus Hd</Name>
+      <Bouquet>Sky Sport</Bouquet>
+    </anyType>
+    <anyType xsi:type="Channel">
+      <ID>929</ID>
+      <Name>Sky Sport24 Hd</Name>
+      <Bouquet>Sky Sport</Bouquet>
+    </anyType>
+    <anyType xsi:type="Channel">
+      <ID>8673</ID>
+      <Name>Sky Supercalcio Hd</Name>
+      <Bouquet>Sky Sport</Bouquet>
+    </anyType>
+    <anyType xsi:type="Channel">
+      <ID>321</ID>
+      <Name>Sky Tg 24 Meteo</Name>
+      <Bouquet>Sky News</Bouquet>
+    </anyType>
+    <anyType xsi:type="Channel">
+      <ID>8893</ID>
+      <Name>Sky Tg24</Name>
+      <Bouquet>Dtt</Bouquet>
+    </anyType>
+    <anyType xsi:type="Channel">
+      <ID>9313</ID>
+      <Name>Sky Tg24 Dtt2</Name>
+      <Bouquet>Dtt</Bouquet>
+    </anyType>
+    <anyType xsi:type="Channel">
+      <ID>362</ID>
+      <Name>Sky Tg24 Hd</Name>
+      <Bouquet>Sky News</Bouquet>
+    </anyType>
+    <anyType xsi:type="Channel">
+      <ID>120</ID>
+      <Name>Sky Uno +1 Hd</Name>
+      <Bouquet>Sky Intrattenimento</Bouquet>
+    </anyType>
+    <anyType xsi:type="Channel">
+      <ID>718</ID>
+      <Name>Sky Uno Hd</Name>
+      <Bouquet>Sky Intrattenimento</Bouquet>
+    </anyType>
+    <anyType xsi:type="Channel">
+      <ID>6861</ID>
+      <Name>Smtv San Marino</Name>
+      <Bouquet>Sky News</Bouquet>
+    </anyType>
+    <anyType xsi:type="Channel">
+      <ID>8793</ID>
+      <Name>Sportitalia</Name>
+      <Bouquet>Sky Sport</Bouquet>
+    </anyType>
+    <anyType xsi:type="Channel">
+      <ID>9801</ID>
+      <Name>Stories</Name>
+      <Bouquet>Mediaset Premium</Bouquet>
+    </anyType>
+    <anyType xsi:type="Channel">
+      <ID>9804</ID>
+      <Name>Studio Universal</Name>
+      <Bouquet>Mediaset Premium</Bouquet>
+    </anyType>
+    <anyType xsi:type="Channel">
+      <ID>6460</ID>
+      <Name>Super!</Name>
+      <Bouquet>Sky Bambini</Bouquet>
+    </anyType>
+    <anyType xsi:type="Channel">
+      <ID>8322</ID>
+      <Name>Supertennis</Name>
+      <Bouquet>Dtt</Bouquet>
+    </anyType>
+    <anyType xsi:type="Channel">
+      <ID>6000</ID>
+      <Name>Supertennis Hd</Name>
+      <Bouquet>Sky Sport</Bouquet>
+    </anyType>
+    <anyType xsi:type="Channel">
+      <ID>9235</ID>
+      <Name>Teennick</Name>
+      <Bouquet>Sky Bambini</Bouquet>
+    </anyType>
+    <anyType xsi:type="Channel">
+      <ID>9709</ID>
+      <Name>Telelombardia</Name>
+      <Bouquet>Dtt</Bouquet>
+    </anyType>
+    <anyType xsi:type="Channel">
+      <ID>6481</ID>
+      <Name>Tg Norba24</Name>
+      <Bouquet>Sky News</Bouquet>
+    </anyType>
+    <anyType xsi:type="Channel">
+      <ID>6511</ID>
+      <Name>Tg24 Eventi</Name>
+      <Bouquet>Sky News</Bouquet>
+    </anyType>
+    <anyType xsi:type="Channel">
+      <ID>6510</ID>
+      <Name>Tg24 Primo Piano</Name>
+      <Bouquet>Sky News</Bouquet>
+    </anyType>
+    <anyType xsi:type="Channel">
+      <ID>6512</ID>
+      <Name>Tg24 Rassegne</Name>
+      <Bouquet>Sky News</Bouquet>
+    </anyType>
+    <anyType xsi:type="Channel">
+      <ID>9712</ID>
+      <Name>Tgcom24</Name>
+      <Bouquet>Dtt</Bouquet>
+    </anyType>
+    <anyType xsi:type="Channel">
+      <ID>8127</ID>
+      <Name>Top Crime</Name>
+      <Bouquet>Dtt</Bouquet>
+    </anyType>
+    <anyType xsi:type="Channel">
+      <ID>9013</ID>
+      <Name>Trm H24</Name>
+      <Bouquet>Sky News</Bouquet>
+    </anyType>
+    <anyType xsi:type="Channel">
+      <ID>9708</ID>
+      <Name>Tv 2000</Name>
+      <Bouquet>Dtt</Bouquet>
+    </anyType>
+    <anyType xsi:type="Channel">
+      <ID>7588</ID>
+      <Name>Tv2000</Name>
+      <Bouquet>Sky Intrattenimento</Bouquet>
+    </anyType>
+    <anyType xsi:type="Channel">
+      <ID>7987</ID>
+      <Name>Uniresat</Name>
+      <Bouquet>Sky Sport</Bouquet>
+    </anyType>
+    <anyType xsi:type="Channel">
+      <ID>711</ID>
+      <Name>Voce</Name>
+      <Bouquet>Sky Musica</Bouquet>
+    </anyType>
+  </Items>
+</Channels>
