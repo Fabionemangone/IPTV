@@ -1,1595 +1,2221 @@
 #EXTM3U
 #EXTINF:-1,Rai 1 HD
-http://tornado-ultra.noip.me:8000/live/Ciro/Ciro/4990.ts
+http://luckyiptv.ddns.net:23000/live/Gavino/Gavino/2399.ts
 #EXTINF:-1,Rai 2 HD
-http://tornado-ultra.noip.me:8000/live/Ciro/Ciro/4642.ts
+http://luckyiptv.ddns.net:23000/live/Gavino/Gavino/2400.ts
 #EXTINF:-1,Rai 3 HD
-http://tornado-ultra.noip.me:8000/live/Ciro/Ciro/4643.ts
+http://luckyiptv.ddns.net:23000/live/Gavino/Gavino/2401.ts
 #EXTINF:-1,Rete 4 HD
-http://tornado-ultra.noip.me:8000/live/Ciro/Ciro/4660.ts
+http://luckyiptv.ddns.net:23000/live/Gavino/Gavino/3813.ts
 #EXTINF:-1,Canale 5 HD
-http://tornado-ultra.noip.me:8000/live/Ciro/Ciro/4662.ts
+http://luckyiptv.ddns.net:23000/live/Gavino/Gavino/3811.ts
 #EXTINF:-1,Italia 1 HD
-http://tornado-ultra.noip.me:8000/live/Ciro/Ciro/4661.ts
+http://luckyiptv.ddns.net:23000/live/Gavino/Gavino/3812.ts
 #EXTINF:-1,La 7 HD
-http://tornado-ultra.noip.me:8000/live/Ciro/Ciro/4708.ts
-#EXTINF:-1,La7d
-http://tornado-ultra.noip.me:8000/live/Ciro/Ciro/4707.ts
-#EXTINF:-1,La 5
-http://tornado-ultra.noip.me:8000/live/Ciro/Ciro/4647.ts
-#EXTINF:-1,----- SKY CINEMA -----
-http://tornado-ultra.noip.me:8000/live/Ciro/Ciro/4731.ts
+http://luckyiptv.ddns.net:23000/live/Gavino/Gavino/3814.ts
+#EXTINF:-1,MTV IT
+http://luckyiptv.ddns.net:23000/live/Gavino/Gavino/2435.ts
+#EXTINF:-1,RSI La 1 HD
+http://luckyiptv.ddns.net:23000/live/Gavino/Gavino/3809.ts
+#EXTINF:-1,RSI La 2 HD
+http://luckyiptv.ddns.net:23000/live/Gavino/Gavino/3810.ts
+#EXTINF:-1,--------  CINEMA --------
+http://luckyiptv.ddns.net:23000/live/Gavino/Gavino/1032.ts
 #EXTINF:-1,Sky Cinema 1 HD
-http://tornado-ultra.noip.me:8000/live/Ciro/Ciro/4663.ts
+http://luckyiptv.ddns.net:23000/live/Gavino/Gavino/3806.ts
 #EXTINF:-1,Sky Cinema +1 HD
-http://tornado-ultra.noip.me:8000/live/Ciro/Ciro/4755.ts
+http://luckyiptv.ddns.net:23000/live/Gavino/Gavino/7436.ts
 #EXTINF:-1,Sky Cinema +24 HD
-http://tornado-ultra.noip.me:8000/live/Ciro/Ciro/5247.ts
+http://luckyiptv.ddns.net:23000/live/Gavino/Gavino/4148.ts
 #EXTINF:-1,Sky Cinema Hits HD
-http://tornado-ultra.noip.me:8000/live/Ciro/Ciro/4630.ts
-#EXTINF:-1,Sky Cinema Family HD
-http://tornado-ultra.noip.me:8000/live/Ciro/Ciro/4631.ts
-#EXTINF:-1,SKY Cinema Family +1 HD
-http://tornado-ultra.noip.me:8000/live/Ciro/Ciro/7553.ts
-#EXTINF:-1,Sky Cinema Passion HD
-http://tornado-ultra.noip.me:8000/live/Ciro/Ciro/4759.ts
-#EXTINF:-1,Sky Cinema Comedy HD
-http://tornado-ultra.noip.me:8000/live/Ciro/Ciro/6459.ts
+http://luckyiptv.ddns.net:23000/live/Gavino/Gavino/3820.ts
+#EXTINF:-1,SKY Cinema Family HD
+http://luckyiptv.ddns.net:23000/live/Gavino/Gavino/3237.ts
+#EXTINF:-1,Sky Cinema Family +1 HD
+http://luckyiptv.ddns.net:23000/live/Gavino/Gavino/12832.ts
 #EXTINF:-1,Sky Cinema Max HD
-http://tornado-ultra.noip.me:8000/live/Ciro/Ciro/6456.ts
-#EXTINF:-1,Sky Cinema Max +1 HD
-http://tornado-ultra.noip.me:8000/live/Ciro/Ciro/7355.ts
+http://luckyiptv.ddns.net:23000/live/Gavino/Gavino/3807.ts
+#EXTINF:-1,Sky Cinema Max  +1 HD
+http://luckyiptv.ddns.net:23000/live/Gavino/Gavino/12640.ts
+#EXTINF:-1,Sky Cinema Passion HD
+http://luckyiptv.ddns.net:23000/live/Gavino/Gavino/3821.ts
 #EXTINF:-1,Sky Cinema Cult HD
-http://tornado-ultra.noip.me:8000/live/Ciro/Ciro/4763.ts
-#EXTINF:-1,Sky Cinema Classic HD
-http://tornado-ultra.noip.me:8000/live/Ciro/Ciro/4764.ts
-#EXTINF:-1,Sky Cinema 3D
-http://tornado-ultra.noip.me:8000/live/Ciro/Ciro/6564.ts
-#EXTINF:-1,----- SKY PRIMAFILA LIVE -----
-http://tornado-ultra.noip.me:8000/live/Ciro/Ciro/6524.ts
-#EXTINF:-1,PRIMAFILA 1 LIVE | InsideOut
-http://tornado-ultra.noip.me:8000/live/Ciro/Ciro/8416.ts
-#EXTINF:-1,PRIMAFILA 2 LIVE | The Walk
-http://tornado-ultra.noip.me:8000/live/Ciro/Ciro/8415.ts
-#EXTINF:-1,PRIMAFILA 3 LIVE | Hotel Transylvania 2
-http://tornado-ultra.noip.me:8000/live/Ciro/Ciro/8414.ts
-#EXTINF:-1,PRIMAFILA 4 LIVE | Everest
-http://tornado-ultra.noip.me:8000/live/Ciro/Ciro/8413.ts
-#EXTINF:-1,PRIMAFILA 5 LIVE | Predestination
-http://tornado-ultra.noip.me:8000/live/Ciro/Ciro/8412.ts
-#EXTINF:-1,PRIMAFILA 6 LIVE | Sopravvissuto The Martian
-http://tornado-ultra.noip.me:8000/live/Ciro/Ciro/8411.ts
-#EXTINF:-1,PRIMAFILA 7 LIVE | Contagious
-http://tornado-ultra.noip.me:8000/live/Ciro/Ciro/8410.ts
-#EXTINF:-1,PRIMAFILA 8 LIVE | True Story
-http://tornado-ultra.noip.me:8000/live/Ciro/Ciro/8409.ts
-#EXTINF:-1,PRIMAFILA 9 LIVE | Tutte lo Vogliono
-http://tornado-ultra.noip.me:8000/live/Ciro/Ciro/8408.ts
-#EXTINF:-1,PRIMAFILA 10 LIVE | Teneramente Folle
-http://tornado-ultra.noip.me:8000/live/Ciro/Ciro/8419.ts
-#EXTINF:-1,PRIMAFILA 11 LIVE | Samba
-http://tornado-ultra.noip.me:8000/live/Ciro/Ciro/8418.ts
-#EXTINF:-1,PRIMAFILA 12 LIVE | Magic Mike XXL
-http://tornado-ultra.noip.me:8000/live/Ciro/Ciro/8417.ts
-#EXTINF:-1,PRIMAFILA 13 LIVE | Left Behind La Profezia
-http://tornado-ultra.noip.me:8000/live/Ciro/Ciro/8407.ts
-#EXTINF:-1,PRIMAFILA 14 LIVE | Torno Indietro e Cambio Vita
-http://tornado-ultra.noip.me:8000/live/Ciro/Ciro/8406.ts
-#EXTINF:-1,----- INTRATTENIMENTO -----
-http://tornado-ultra.noip.me:8000/live/Ciro/Ciro/4732.ts
-#EXTINF:-1,Sky Uno HD
-http://tornado-ultra.noip.me:8000/live/Ciro/Ciro/4672.ts
-#EXTINF:-1,Sky Uno +1 HD
-http://tornado-ultra.noip.me:8000/live/Ciro/Ciro/5799.ts
-#EXTINF:-1,Fox HD
-http://tornado-ultra.noip.me:8000/live/Ciro/Ciro/5019.ts
-#EXTINF:-1,Fox +1 HD
-http://tornado-ultra.noip.me:8000/live/Ciro/Ciro/5797.ts
-#EXTINF:-1,Fox Life HD
-http://tornado-ultra.noip.me:8000/live/Ciro/Ciro/4713.ts
-#EXTINF:-1,Fox Life +1
-http://tornado-ultra.noip.me:8000/live/Ciro/Ciro/9117.ts
-#EXTINF:-1,Fox Comedy HD
-http://tornado-ultra.noip.me:8000/live/Ciro/Ciro/5022.ts
-#EXTINF:-1,Fox Crime HD
-http://tornado-ultra.noip.me:8000/live/Ciro/Ciro/4625.ts
-#EXTINF:-1,Fox Crime +1
-http://tornado-ultra.noip.me:8000/live/Ciro/Ciro/6551.ts
-#EXTINF:-1,Fox Files
-http://tornado-ultra.noip.me:8000/live/Ciro/Ciro/8291.ts
-#EXTINF:-1,Fox Animation HD
-http://tornado-ultra.noip.me:8000/live/Ciro/Ciro/4577.ts
-#EXTINF:-1,Sky Atlantic HD
-http://tornado-ultra.noip.me:8000/live/Ciro/Ciro/7598.ts
-#EXTINF:-1,Sky Atlantic +1 HD
-http://tornado-ultra.noip.me:8000/live/Ciro/Ciro/7691.ts
-#EXTINF:-1,CI Crime Investigation HD
-http://tornado-ultra.noip.me:8000/live/Ciro/Ciro/6468.ts
-#EXTINF:-1,AXN HD
-http://tornado-ultra.noip.me:8000/live/Ciro/Ciro/5025.ts
-#EXTINF:-1,AXN Sci-Fi
-http://tornado-ultra.noip.me:8000/live/Ciro/Ciro/4646.ts
-#EXTINF:-1,Cielo
-http://tornado-ultra.noip.me:8000/live/Ciro/Ciro/4724.ts
-#EXTINF:-1,Lei
-http://tornado-ultra.noip.me:8000/live/Ciro/Ciro/4585.ts
-#EXTINF:-1,Real Time
-http://tornado-ultra.noip.me:8000/live/Ciro/Ciro/4676.ts
-#EXTINF:-1,Real time +1
-http://tornado-ultra.noip.me:8000/live/Ciro/Ciro/9063.ts
-#EXTINF:-1,Explora HD
-http://tornado-ultra.noip.me:8000/live/Ciro/Ciro/4739.ts
-#EXTINF:-1,E! Entertainment
-http://tornado-ultra.noip.me:8000/live/Ciro/Ciro/8290.ts
-#EXTINF:-1,Comedy central
-http://tornado-ultra.noip.me:8000/live/Ciro/Ciro/9120.ts
-#EXTINF:-1,----- SPORT -----
-http://tornado-ultra.noip.me:8000/live/Ciro/Ciro/4733.ts
-#EXTINF:-1,Sky Sport 24  HD
-http://tornado-ultra.noip.me:8000/live/Ciro/Ciro/5502.ts
-#EXTINF:-1,Sky Sport 1 UHD
-http://tornado-ultra.noip.me:8000/live/Ciro/Ciro/6971.ts
-#EXTINF:-1,Sky Sport 1 HD
-http://tornado-ultra.noip.me:8000/live/Ciro/Ciro/4673.ts
-#EXTINF:-1,Sky Sport 2 UHD
-http://tornado-ultra.noip.me:8000/live/Ciro/Ciro/6972.ts
-#EXTINF:-1,SKY Sport 2 HD
-http://tornado-ultra.noip.me:8000/live/Ciro/Ciro/4610.ts
-#EXTINF:-1,Sky Sport 3 HD
-http://tornado-ultra.noip.me:8000/live/Ciro/Ciro/4591.ts
-#EXTINF:-1,Sky Fox Sports HD
-http://tornado-ultra.noip.me:8000/live/Ciro/Ciro/4626.ts
-#EXTINF:-1,Sky Sport Plus HD
-http://tornado-ultra.noip.me:8000/live/Ciro/Ciro/7100.ts
-#EXTINF:-1,Sky Formula 1 HD
-http://tornado-ultra.noip.me:8000/live/Ciro/Ciro/4715.ts
-#EXTINF:-1,Sky Motogp HD
-http://tornado-ultra.noip.me:8000/live/Ciro/Ciro/4704.ts
-#EXTINF:-1,Eurosport HD
-http://tornado-ultra.noip.me:8000/live/Ciro/Ciro/4578.ts
-#EXTINF:-1,Eurosport 2 HD
-http://tornado-ultra.noip.me:8000/live/Ciro/Ciro/4580.ts
-#EXTINF:-1,Rai Sport 1
-http://tornado-ultra.noip.me:8000/live/Ciro/Ciro/4640.ts
-#EXTINF:-1,Rai Sport 2
-http://tornado-ultra.noip.me:8000/live/Ciro/Ciro/4616.ts
-#EXTINF:-1,Sport Italia
-http://tornado-ultra.noip.me:8000/live/Ciro/Ciro/4571.ts
-#EXTINF:-1,Super tennis HD
-http://tornado-ultra.noip.me:8000/live/Ciro/Ciro/4656.ts
-#EXTINF:-1,Bike Channel
-http://tornado-ultra.noip.me:8000/live/Ciro/Ciro/8294.ts
-#EXTINF:-1,ClassHorse TV
-http://tornado-ultra.noip.me:8000/live/Ciro/Ciro/9118.ts
-#EXTINF:-1,----- CALCIO -----
-http://tornado-ultra.noip.me:8000/live/Ciro/Ciro/4734.ts
-#EXTINF:-1,Sky Supercalcio HD
-http://tornado-ultra.noip.me:8000/live/Ciro/Ciro/5075.ts
-#EXTINF:-1,SKY Supercalcio
-http://tornado-ultra.noip.me:8000/live/Ciro/Ciro/6533.ts
-#EXTINF:-1,Sky Calcio 1 UHD
-http://tornado-ultra.noip.me:8000/live/Ciro/Ciro/6974.ts
-#EXTINF:-1,Sky Calcio 1 HD
-http://tornado-ultra.noip.me:8000/live/Ciro/Ciro/5076.ts
-#EXTINF:-1,Sky Calcio 2 UHD / Eurosport UHD
-http://tornado-ultra.noip.me:8000/live/Ciro/Ciro/6975.ts
-#EXTINF:-1,Sky Calcio  2 HD
-http://tornado-ultra.noip.me:8000/live/Ciro/Ciro/5077.ts
-#EXTINF:-1,Sky Calcio 3 UHD / DMAX UHD
-http://tornado-ultra.noip.me:8000/live/Ciro/Ciro/6976.ts
-#EXTINF:-1,Sky Calcio 3 HD
-http://tornado-ultra.noip.me:8000/live/Ciro/Ciro/5078.ts
-#EXTINF:-1,Sky Calcio 4 UHD / Arte UHD
-http://tornado-ultra.noip.me:8000/live/Ciro/Ciro/6977.ts
-#EXTINF:-1,Sky Calcio 4 HD
-http://tornado-ultra.noip.me:8000/live/Ciro/Ciro/5079.ts
-#EXTINF:-1,Sky Calcio 5 UHD / Nat Geo UHD
-http://tornado-ultra.noip.me:8000/live/Ciro/Ciro/6978.ts
-#EXTINF:-1,Sky Calcio 5 HD
-http://tornado-ultra.noip.me:8000/live/Ciro/Ciro/5080.ts
-#EXTINF:-1,Sky Calcio 6 UHD / Sky Atlantic UHD
-http://tornado-ultra.noip.me:8000/live/Ciro/Ciro/7673.ts
-#EXTINF:-1,Sky Calcio 6 HD
-http://tornado-ultra.noip.me:8000/live/Ciro/Ciro/4581.ts
-#EXTINF:-1,SKY Calcio 7 HD
-http://tornado-ultra.noip.me:8000/live/Ciro/Ciro/5505.ts
-#EXTINF:-1,SKY Calcio 8 HD
-http://tornado-ultra.noip.me:8000/live/Ciro/Ciro/5506.ts
-#EXTINF:-1,SKY Calcio 9 HD
-http://tornado-ultra.noip.me:8000/live/Ciro/Ciro/5507.ts
-#EXTINF:-1,SKY Calcio 10 HD
-http://tornado-ultra.noip.me:8000/live/Ciro/Ciro/5508.ts
-#EXTINF:-1,SKY Calcio 11 HD
-http://tornado-ultra.noip.me:8000/live/Ciro/Ciro/6555.ts
-#EXTINF:-1,SKY Calcio 12 HD
-http://tornado-ultra.noip.me:8000/live/Ciro/Ciro/6556.ts
-#EXTINF:-1,SKY Calcio 13 HD
-http://tornado-ultra.noip.me:8000/live/Ciro/Ciro/6557.ts
-#EXTINF:-1,Juventus Channel
-http://tornado-ultra.noip.me:8000/live/Ciro/Ciro/5070.ts
-#EXTINF:-1,Inter Channel
-http://tornado-ultra.noip.me:8000/live/Ciro/Ciro/5071.ts
-#EXTINF:-1,Milan channel
-http://tornado-ultra.noip.me:8000/live/Ciro/Ciro/5069.ts
-#EXTINF:-1,Roma Channel
-http://tornado-ultra.noip.me:8000/live/Ciro/Ciro/5072.ts
-#EXTINF:-1,Lazio channel
-http://tornado-ultra.noip.me:8000/live/Ciro/Ciro/9064.ts
-#EXTINF:-1,----- CULTURA -----
-http://tornado-ultra.noip.me:8000/live/Ciro/Ciro/4735.ts
-#EXTINF:-1,Discovery Channel HD
-http://tornado-ultra.noip.me:8000/live/Ciro/Ciro/4723.ts
-#EXTINF:-1,Discovery Science HD
-http://tornado-ultra.noip.me:8000/live/Ciro/Ciro/5510.ts
-#EXTINF:-1,Discovery Travel & Living HD
-http://tornado-ultra.noip.me:8000/live/Ciro/Ciro/4570.ts
-#EXTINF:-1,Premium DIscovery World
-http://tornado-ultra.noip.me:8000/live/Ciro/Ciro/4683.ts
-#EXTINF:-1,Nat Geo HD
-http://tornado-ultra.noip.me:8000/live/Ciro/Ciro/4699.ts
-#EXTINF:-1,Nat Geo People HD
-http://tornado-ultra.noip.me:8000/live/Ciro/Ciro/4701.ts
-#EXTINF:-1,Nat Geo Wild HD
-http://tornado-ultra.noip.me:8000/live/Ciro/Ciro/4700.ts
-#EXTINF:-1,Focus
-http://tornado-ultra.noip.me:8000/live/Ciro/Ciro/4716.ts
-#EXTINF:-1,Dmax HD
-http://tornado-ultra.noip.me:8000/live/Ciro/Ciro/7176.ts
-#EXTINF:-1,Dmax +1
-http://tornado-ultra.noip.me:8000/live/Ciro/Ciro/9065.ts
-#EXTINF:-1,Gambero Rosso HD
-http://tornado-ultra.noip.me:8000/live/Ciro/Ciro/4852.ts
-#EXTINF:-1,Caccia e Pesca
-http://tornado-ultra.noip.me:8000/live/Ciro/Ciro/5097.ts
-#EXTINF:-1,Pesca e Caccia
-http://tornado-ultra.noip.me:8000/live/Ciro/Ciro/5732.ts
-#EXTINF:-1,Animal Planet
-http://tornado-ultra.noip.me:8000/live/Ciro/Ciro/4729.ts
-#EXTINF:-1,Alice
-http://tornado-ultra.noip.me:8000/live/Ciro/Ciro/4730.ts
-#EXTINF:-1,Sky History HD
-http://tornado-ultra.noip.me:8000/live/Ciro/Ciro/4584.ts
-#EXTINF:-1,Sky Arte HD
-http://tornado-ultra.noip.me:8000/live/Ciro/Ciro/4839.ts
-#EXTINF:-1,MarcoPolo
-http://tornado-ultra.noip.me:8000/live/Ciro/Ciro/4706.ts
-#EXTINF:-1,Fine Living
-http://tornado-ultra.noip.me:8000/live/Ciro/Ciro/4717.ts
-#EXTINF:-1,----- BAMBINI -----
-http://tornado-ultra.noip.me:8000/live/Ciro/Ciro/4736.ts
-#EXTINF:-1,Premium Cartoon Network
-http://tornado-ultra.noip.me:8000/live/Ciro/Ciro/8289.ts
-#EXTINF:-1,Premium Disney Channel
-http://tornado-ultra.noip.me:8000/live/Ciro/Ciro/4681.ts
-#EXTINF:-1,Premium Disney Channel +1
-http://tornado-ultra.noip.me:8000/live/Ciro/Ciro/4682.ts
-#EXTINF:-1,Premium Disney Junior
-http://tornado-ultra.noip.me:8000/live/Ciro/Ciro/4680.ts
-#EXTINF:-1,Disney Channel
-http://tornado-ultra.noip.me:8000/live/Ciro/Ciro/8293.ts
-#EXTINF:-1,Disney XD
-http://tornado-ultra.noip.me:8000/live/Ciro/Ciro/4722.ts
-#EXTINF:-1,Baby TV
-http://tornado-ultra.noip.me:8000/live/Ciro/Ciro/9119.ts
-#EXTINF:-1,Frisbee
-http://tornado-ultra.noip.me:8000/live/Ciro/Ciro/4712.ts
-#EXTINF:-1,MANGA
-http://tornado-ultra.noip.me:8000/live/Ciro/Ciro/6546.ts
-#EXTINF:-1,Boing
-http://tornado-ultra.noip.me:8000/live/Ciro/Ciro/4728.ts
-#EXTINF:-1,K2
-http://tornado-ultra.noip.me:8000/live/Ciro/Ciro/4709.ts
-#EXTINF:-1,Super
-http://tornado-ultra.noip.me:8000/live/Ciro/Ciro/4670.ts
-#EXTINF:-1,Rai Gulp
-http://tornado-ultra.noip.me:8000/live/Ciro/Ciro/4638.ts
-#EXTINF:-1,Rai Yoyo
-http://tornado-ultra.noip.me:8000/live/Ciro/Ciro/4880.ts
-#EXTINF:-1,Cartoonito
-http://tornado-ultra.noip.me:8000/live/Ciro/Ciro/4726.ts
-#EXTINF:-1,Nickelodeon
-http://tornado-ultra.noip.me:8000/live/Ciro/Ciro/8287.ts
-#EXTINF:-1,Nick Junior
-http://tornado-ultra.noip.me:8000/live/Ciro/Ciro/6268.ts
-#EXTINF:-1,DeA-Kids
-http://tornado-ultra.noip.me:8000/live/Ciro/Ciro/8288.ts
-#EXTINF:-1,----- NOTIZIE -----
-http://tornado-ultra.noip.me:8000/live/Ciro/Ciro/4737.ts
-#EXTINF:-1,Sky Tg 24 HD
-http://tornado-ultra.noip.me:8000/live/Ciro/Ciro/4622.ts
-#EXTINF:-1,Tg Com 24
-http://tornado-ultra.noip.me:8000/live/Ciro/Ciro/4666.ts
-#EXTINF:-1,Rai News 24
-http://tornado-ultra.noip.me:8000/live/Ciro/Ciro/4636.ts
-#EXTINF:-1,Rai Senato
-http://tornado-ultra.noip.me:8000/live/Ciro/Ciro/4639.ts
-#EXTINF:-1,Rai Premium
-http://tornado-ultra.noip.me:8000/live/Ciro/Ciro/4637.ts
+http://luckyiptv.ddns.net:23000/live/Gavino/Gavino/3816.ts
+#EXTINF:-1,Sky Cinema Comedy HD
+http://luckyiptv.ddns.net:23000/live/Gavino/Gavino/3236.ts
+#EXTINF:-1,Sky CInema Classic HD
+http://luckyiptv.ddns.net:23000/live/Gavino/Gavino/3663.ts
 #EXTINF:-1,Rai Movie
-http://tornado-ultra.noip.me:8000/live/Ciro/Ciro/4635.ts
-#EXTINF:-1,Rai 4
-http://tornado-ultra.noip.me:8000/live/Ciro/Ciro/4644.ts
-#EXTINF:-1,Rai 5
-http://tornado-ultra.noip.me:8000/live/Ciro/Ciro/4634.ts
-#EXTINF:-1,Mtv IT
-http://tornado-ultra.noip.me:8000/live/Ciro/Ciro/4703.ts
-#EXTINF:-1,RSI La1 HD
-http://tornado-ultra.noip.me:8000/live/Ciro/Ciro/4659.ts
-#EXTINF:-1,RSI La2 HD
-http://tornado-ultra.noip.me:8000/live/Ciro/Ciro/4658.ts
-#EXTINF:-1,Tv Globo
-http://tornado-ultra.noip.me:8000/live/Ciro/Ciro/4664.ts
+http://luckyiptv.ddns.net:23000/live/Gavino/Gavino/2464.ts
+#EXTINF:-1,------- PRIMAFILA --------
+http://luckyiptv.ddns.net:23000/live/Gavino/Gavino/12209.ts
+#EXTINF:-1,PRIMAFILA 1/2 HD
+http://luckyiptv.ddns.net:23000/live/Gavino/Gavino/12198.ts
+#EXTINF:-1,PRIMAFILA 3/4 HD
+http://luckyiptv.ddns.net:23000/live/Gavino/Gavino/12199.ts
+#EXTINF:-1,PRIMAFILA 5/6 HD
+http://luckyiptv.ddns.net:23000/live/Gavino/Gavino/12200.ts
+#EXTINF:-1,PRIMAFILA 7/8 HD
+http://luckyiptv.ddns.net:23000/live/Gavino/Gavino/12201.ts
+#EXTINF:-1,PRIMAFILA 9/10 HD
+http://luckyiptv.ddns.net:23000/live/Gavino/Gavino/12202.ts
+#EXTINF:-1,PRIMAFILA 11/12 HD
+http://luckyiptv.ddns.net:23000/live/Gavino/Gavino/12203.ts
+#EXTINF:-1,PRIMAFILA 13/14 HD
+http://luckyiptv.ddns.net:23000/live/Gavino/Gavino/12204.ts
+#EXTINF:-1,PRIMAFILA 15/16 HD
+http://luckyiptv.ddns.net:23000/live/Gavino/Gavino/12206.ts
+#EXTINF:-1,PRIMAFILA 17/18 HD
+http://luckyiptv.ddns.net:23000/live/Gavino/Gavino/12207.ts
+#EXTINF:-1,PRIMAFILA 19/20 HD
+http://luckyiptv.ddns.net:23000/live/Gavino/Gavino/12208.ts
+#EXTINF:-1,PRIMAFILA VOD - VIA DALLA PAZZA FOLLA
+http://luckyiptv.ddns.net:23000/movie/Gavino/Gavino/13134.mp4
+#EXTINF:-1,PRIMAFILA VOD - THE REACH - CACCIA ALL'UOMO - PRIMAFILA
+http://luckyiptv.ddns.net:23000/movie/Gavino/Gavino/13130.mp4
+#EXTINF:-1,PRIMAFILA VOD - SOPRAVVISSUTO THE MARTIAN
+http://luckyiptv.ddns.net:23000/movie/Gavino/Gavino/13133.mp4
+#EXTINF:-1,PRIMAFILA VOD - POLI OPPOSTI
+http://luckyiptv.ddns.net:23000/movie/Gavino/Gavino/13136.mp4
+#EXTINF:-1,PRIMAFILA VOD - IL LUOGO DELLE OMBRE
+http://luckyiptv.ddns.net:23000/movie/Gavino/Gavino/13131.mp4
+#EXTINF:-1,PRIMAFILA VOD - HITMAN AGENT 47
+http://luckyiptv.ddns.net:23000/movie/Gavino/Gavino/13128.mp4
+#EXTINF:-1,PRIMAFILA VOD - CRIMSON PEAK
+http://luckyiptv.ddns.net:23000/movie/Gavino/Gavino/13129.mp4
+#EXTINF:-1,PRIMAFILA VOD - CONTAGIOUS EPIDEMIA MORTALE
+http://luckyiptv.ddns.net:23000/movie/Gavino/Gavino/13135.mp4
+#EXTINF:-1,PRIMAFILA VOD - BABADOOK
+http://luckyiptv.ddns.net:23000/movie/Gavino/Gavino/13127.mp4
+#EXTINF:-1,------- INTRATTENIMENTO -------
+http://luckyiptv.ddns.net:23000/live/Gavino/Gavino/1039.ts
+#EXTINF:-1,Sky 3D
+http://luckyiptv.ddns.net:23000/live/Gavino/Gavino/12007.ts
+#EXTINF:-1,Sky Atlantic HD
+http://luckyiptv.ddns.net:23000/live/Gavino/Gavino/3805.ts
+#EXTINF:-1,Sky Uno HD
+http://luckyiptv.ddns.net:23000/live/Gavino/Gavino/3808.ts
+#EXTINF:-1,Sky uno  +1
+http://luckyiptv.ddns.net:23000/live/Gavino/Gavino/12637.ts
+#EXTINF:-1,Fox HD
+http://luckyiptv.ddns.net:23000/live/Gavino/Gavino/3801.ts
+#EXTINF:-1,Fox Life HD
+http://luckyiptv.ddns.net:23000/live/Gavino/Gavino/3802.ts
+#EXTINF:-1,Fox Life +1
+http://luckyiptv.ddns.net:23000/live/Gavino/Gavino/12836.ts
+#EXTINF:-1,Fox Crime HD
+http://luckyiptv.ddns.net:23000/live/Gavino/Gavino/2424.ts
+#EXTINF:-1,Fox Comedy HD
+http://luckyiptv.ddns.net:23000/live/Gavino/Gavino/2423.ts
+#EXTINF:-1,Fox Animation HD
+http://luckyiptv.ddns.net:23000/live/Gavino/Gavino/2509.ts
+#EXTINF:-1,Man-ga
+http://luckyiptv.ddns.net:23000/live/Gavino/Gavino/12210.ts
+#EXTINF:-1,AXN HD
+http://luckyiptv.ddns.net:23000/live/Gavino/Gavino/2411.ts
+#EXTINF:-1,AXN +1
+http://luckyiptv.ddns.net:23000/live/Gavino/Gavino/12901.ts
+#EXTINF:-1,Real Time +1 HD
+http://luckyiptv.ddns.net:23000/live/Gavino/Gavino/12834.ts
+#EXTINF:-1,Dee Jay Tv  1
+http://luckyiptv.ddns.net:23000/live/Gavino/Gavino/12838.ts
+#EXTINF:-1,AXN Sci Fi
+http://luckyiptv.ddns.net:23000/live/Gavino/Gavino/2527.ts
+#EXTINF:-1,Cielo
+http://luckyiptv.ddns.net:23000/live/Gavino/Gavino/2414.ts
+#EXTINF:-1,Lei
+http://luckyiptv.ddns.net:23000/live/Gavino/Gavino/2526.ts
+#EXTINF:-1,Real Time
+http://luckyiptv.ddns.net:23000/live/Gavino/Gavino/2468.ts
 #EXTINF:-1,TV 2000
-http://tornado-ultra.noip.me:8000/live/Ciro/Ciro/4655.ts
-#EXTINF:-1,Nuvolari
-http://tornado-ultra.noip.me:8000/live/Ciro/Ciro/4614.ts
-#EXTINF:-1,Teleticino HD
-http://tornado-ultra.noip.me:8000/live/Ciro/Ciro/4657.ts
-#EXTINF:-1,Italia 7 gold
-http://tornado-ultra.noip.me:8000/live/Ciro/Ciro/4611.ts
-#EXTINF:-1,Mediaset Italia 2
-http://tornado-ultra.noip.me:8000/live/Ciro/Ciro/4710.ts
-#EXTINF:-1,Iris
-http://tornado-ultra.noip.me:8000/live/Ciro/Ciro/4648.ts
+http://luckyiptv.ddns.net:23000/live/Gavino/Gavino/2515.ts
+#EXTINF:-1,Rai Premium
+http://luckyiptv.ddns.net:23000/live/Gavino/Gavino/2466.ts
+#EXTINF:-1,Rai 4
+http://luckyiptv.ddns.net:23000/live/Gavino/Gavino/2407.ts
+#EXTINF:-1,Rai 5
+http://luckyiptv.ddns.net:23000/live/Gavino/Gavino/2408.ts
 #EXTINF:-1,Giallo
-http://tornado-ultra.noip.me:8000/live/Ciro/Ciro/4633.ts
-#EXTINF:-1,Antenna Sicilia
-http://tornado-ultra.noip.me:8000/live/Ciro/Ciro/6469.ts
-#EXTINF:-1,R3
-http://tornado-ultra.noip.me:8000/live/Ciro/Ciro/6471.ts
-#EXTINF:-1,Telemia
-http://tornado-ultra.noip.me:8000/live/Ciro/Ciro/6472.ts
-#EXTINF:-1,Clb classic Italia
-http://tornado-ultra.noip.me:8000/live/Ciro/Ciro/6473.ts
-#EXTINF:-1,----- MEDIASET PREMIUM -----
-http://tornado-ultra.noip.me:8000/live/Ciro/Ciro/4738.ts
-#EXTINF:-1,Premium Cinema HD
-http://tornado-ultra.noip.me:8000/live/Ciro/Ciro/4685.ts
-#EXTINF:-1,Premium Cinema +24
-http://tornado-ultra.noip.me:8000/live/Ciro/Ciro/4653.ts
-#EXTINF:-1,Premium Cinema 2 HD
-http://tornado-ultra.noip.me:8000/live/Ciro/Ciro/4651.ts
-#EXTINF:-1,Premium Cinema 2 +24
-http://tornado-ultra.noip.me:8000/live/Ciro/Ciro/4652.ts
-#EXTINF:-1,Premium Action HD
-http://tornado-ultra.noip.me:8000/live/Ciro/Ciro/4688.ts
-#EXTINF:-1,Premium Action +24
-http://tornado-ultra.noip.me:8000/live/Ciro/Ciro/4654.ts
-#EXTINF:-1,Premium Crime HD
-http://tornado-ultra.noip.me:8000/live/Ciro/Ciro/4684.ts
-#EXTINF:-1,Premium Crime +24
-http://tornado-ultra.noip.me:8000/live/Ciro/Ciro/4650.ts
-#EXTINF:-1,Premium Cinema Energy
-http://tornado-ultra.noip.me:8000/live/Ciro/Ciro/4686.ts
-#EXTINF:-1,Premium cinema Emotion
-http://tornado-ultra.noip.me:8000/live/Ciro/Ciro/4679.ts
-#EXTINF:-1,Premium Cinema Comedy
-http://tornado-ultra.noip.me:8000/live/Ciro/Ciro/4687.ts
-#EXTINF:-1,Premium Joy
-http://tornado-ultra.noip.me:8000/live/Ciro/Ciro/4678.ts
-#EXTINF:-1,Premium Stories
-http://tornado-ultra.noip.me:8000/live/Ciro/Ciro/4677.ts
-#EXTINF:-1,Premium BBC Knowldege
-http://tornado-ultra.noip.me:8000/live/Ciro/Ciro/4698.ts
-#EXTINF:-1,Mediaset Extra
-http://tornado-ultra.noip.me:8000/live/Ciro/Ciro/4705.ts
-#EXTINF:-1,Studio Universal
-http://tornado-ultra.noip.me:8000/live/Ciro/Ciro/4671.ts
+http://luckyiptv.ddns.net:23000/live/Gavino/Gavino/3223.ts
 #EXTINF:-1,Top Crime
-http://tornado-ultra.noip.me:8000/live/Ciro/Ciro/4665.ts
+http://luckyiptv.ddns.net:23000/live/Gavino/Gavino/2489.ts
+#EXTINF:-1,La 5
+http://luckyiptv.ddns.net:23000/live/Gavino/Gavino/2516.ts
+#EXTINF:-1,Italia 2
+http://luckyiptv.ddns.net:23000/live/Gavino/Gavino/2429.ts
+#EXTINF:-1,Mediaset Extra
+http://luckyiptv.ddns.net:23000/live/Gavino/Gavino/2434.ts
+#EXTINF:-1,Antenna Sicilia
+http://luckyiptv.ddns.net:23000/live/Gavino/Gavino/9281.ts
+#EXTINF:-1,Alice
+http://luckyiptv.ddns.net:23000/live/Gavino/Gavino/2409.ts
+#EXTINF:-1,Leonardo
+http://luckyiptv.ddns.net:23000/live/Gavino/Gavino/2432.ts
+#EXTINF:-1,Nuvolari
+http://luckyiptv.ddns.net:23000/live/Gavino/Gavino/3666.ts
+#EXTINF:-1,E! Enternament
+http://luckyiptv.ddns.net:23000/live/Gavino/Gavino/2418.ts
+#EXTINF:-1,Marco Polo
+http://luckyiptv.ddns.net:23000/live/Gavino/Gavino/2433.ts
+#EXTINF:-1,Iris
+http://luckyiptv.ddns.net:23000/live/Gavino/Gavino/2514.ts
+#EXTINF:-1,La 7d
+http://luckyiptv.ddns.net:23000/live/Gavino/Gavino/2431.ts
+#EXTINF:-1,Espansione TV
+http://luckyiptv.ddns.net:23000/live/Gavino/Gavino/7443.ts
+#EXTINF:-1,Fine Living
+http://luckyiptv.ddns.net:23000/live/Gavino/Gavino/2421.ts
+#EXTINF:-1,Tv Globo
+http://luckyiptv.ddns.net:23000/live/Gavino/Gavino/2499.ts
+#EXTINF:-1,RTS 1 HD
+http://luckyiptv.ddns.net:23000/live/Gavino/Gavino/2505.ts
+#EXTINF:-1,RTS 2 HD
+http://luckyiptv.ddns.net:23000/live/Gavino/Gavino/2506.ts
+#EXTINF:-1,M6 HD FR
+http://luckyiptv.ddns.net:23000/live/Gavino/Gavino/2510.ts
+#EXTINF:-1,SRF Info
+http://luckyiptv.ddns.net:23000/live/Gavino/Gavino/2511.ts
+#EXTINF:-1,Teleticino HD
+http://luckyiptv.ddns.net:23000/live/Gavino/Gavino/2500.ts
+#EXTINF:-1,ORF 1 HD
+http://luckyiptv.ddns.net:23000/live/Gavino/Gavino/2503.ts
+#EXTINF:-1,ORF 2 HD
+http://luckyiptv.ddns.net:23000/live/Gavino/Gavino/2504.ts
+#EXTINF:-1,-------- SPORT --------
+http://luckyiptv.ddns.net:23000/live/Gavino/Gavino/1033.ts
+#EXTINF:-1,Sky Sport 24 HD
+http://luckyiptv.ddns.net:23000/live/Gavino/Gavino/2483.ts
+#EXTINF:-1,Sky Sport Plus HD
+http://luckyiptv.ddns.net:23000/live/Gavino/Gavino/8640.ts
+#EXTINF:-1,Sky Sport 1 HD
+http://luckyiptv.ddns.net:23000/live/Gavino/Gavino/2480.ts
+#EXTINF:-1,Sky Sport 2 HD
+http://luckyiptv.ddns.net:23000/live/Gavino/Gavino/2481.ts
+#EXTINF:-1,Sky Sport 3 HD
+http://luckyiptv.ddns.net:23000/live/Gavino/Gavino/2482.ts
+#EXTINF:-1,Sky Formula 1 HD
+http://luckyiptv.ddns.net:23000/live/Gavino/Gavino/2478.ts
+#EXTINF:-1,Sky Moto GP HD
+http://luckyiptv.ddns.net:23000/live/Gavino/Gavino/2479.ts
+#EXTINF:-1,Eurosport HD
+http://luckyiptv.ddns.net:23000/live/Gavino/Gavino/4156.ts
+#EXTINF:-1,Eurosport 2 HD
+http://luckyiptv.ddns.net:23000/live/Gavino/Gavino/4157.ts
+#EXTINF:-1,Sport Italia
+http://luckyiptv.ddns.net:23000/live/Gavino/Gavino/7156.ts
+#EXTINF:-1,Rai Sport 1
+http://luckyiptv.ddns.net:23000/live/Gavino/Gavino/2467.ts
+#EXTINF:-1,Rai Sport 2
+http://luckyiptv.ddns.net:23000/live/Gavino/Gavino/8664.ts
+#EXTINF:-1,Supertennis HD
+http://luckyiptv.ddns.net:23000/live/Gavino/Gavino/2513.ts
+#EXTINF:-1,Fox Sports HD
+http://luckyiptv.ddns.net:23000/live/Gavino/Gavino/3109.ts
+#EXTINF:-1,Motor TV
+http://luckyiptv.ddns.net:23000/live/Gavino/Gavino/3226.ts
+#EXTINF:-1,-------- CALCIO --------
+http://luckyiptv.ddns.net:23000/live/Gavino/Gavino/1359.ts
+#EXTINF:-1,Sky Supercalcio HD
+http://luckyiptv.ddns.net:23000/live/Gavino/Gavino/2484.ts
+#EXTINF:-1,Sky Calcio 1 HD
+http://luckyiptv.ddns.net:23000/live/Gavino/Gavino/2470.ts
+#EXTINF:-1,Sky Calcio 2 HD
+http://luckyiptv.ddns.net:23000/live/Gavino/Gavino/2471.ts
+#EXTINF:-1,Sky Calcio 3 HD
+http://luckyiptv.ddns.net:23000/live/Gavino/Gavino/2472.ts
+#EXTINF:-1,Sky Calcio 4 HD
+http://luckyiptv.ddns.net:23000/live/Gavino/Gavino/4160.ts
+#EXTINF:-1,Sky Calcio 5 HD
+http://luckyiptv.ddns.net:23000/live/Gavino/Gavino/4511.ts
+#EXTINF:-1,Sky Calcio 6 HD
+http://luckyiptv.ddns.net:23000/live/Gavino/Gavino/4512.ts
+#EXTINF:-1,Sky Calcio 7 HD
+http://luckyiptv.ddns.net:23000/live/Gavino/Gavino/6107.ts
+#EXTINF:-1,Sky Calcio 8
+http://luckyiptv.ddns.net:23000/live/Gavino/Gavino/8497.ts
+#EXTINF:-1,Sky Calcio 9
+http://luckyiptv.ddns.net:23000/live/Gavino/Gavino/8498.ts
+#EXTINF:-1,Sky Calcio 10
+http://luckyiptv.ddns.net:23000/live/Gavino/Gavino/8496.ts
+#EXTINF:-1,Sky Calcio 11 HD
+http://luckyiptv.ddns.net:23000/live/Gavino/Gavino/12013.ts
+#EXTINF:-1,Sky Calcio 12 HD
+http://luckyiptv.ddns.net:23000/live/Gavino/Gavino/12014.ts
+#EXTINF:-1,Sky Calcio 13 HD
+http://luckyiptv.ddns.net:23000/live/Gavino/Gavino/12015.ts
+#EXTINF:-1,Roma TV
+http://luckyiptv.ddns.net:23000/live/Gavino/Gavino/8622.ts
+#EXTINF:-1,Lazio Channel
+http://luckyiptv.ddns.net:23000/live/Gavino/Gavino/12211.ts
+#EXTINF:-1,Inter Channel
+http://luckyiptv.ddns.net:23000/live/Gavino/Gavino/4215.ts
+#EXTINF:-1,MIlan Channel
+http://luckyiptv.ddns.net:23000/live/Gavino/Gavino/8618.ts
+#EXTINF:-1,Juventus TV
+http://luckyiptv.ddns.net:23000/live/Gavino/Gavino/8620.ts
+#EXTINF:-1,-------- CULTURA --------
+http://luckyiptv.ddns.net:23000/live/Gavino/Gavino/1036.ts
+#EXTINF:-1,National Geographic HD
+http://luckyiptv.ddns.net:23000/live/Gavino/Gavino/2437.ts
+#EXTINF:-1,Nat Geo Wild HD
+http://luckyiptv.ddns.net:23000/live/Gavino/Gavino/2439.ts
+#EXTINF:-1,Nat Geo People HD
+http://luckyiptv.ddns.net:23000/live/Gavino/Gavino/2438.ts
+#EXTINF:-1,Crime Investigation HD
+http://luckyiptv.ddns.net:23000/live/Gavino/Gavino/3649.ts
+#EXTINF:-1,Discovery T&L HD
+http://luckyiptv.ddns.net:23000/live/Gavino/Gavino/3817.ts
+#EXTINF:-1,Discovery Science HD
+http://luckyiptv.ddns.net:23000/live/Gavino/Gavino/3825.ts
+#EXTINF:-1,Discovery HD
+http://luckyiptv.ddns.net:23000/live/Gavino/Gavino/3824.ts
+#EXTINF:-1,Caccia e Pesca
+http://luckyiptv.ddns.net:23000/live/Gavino/Gavino/3823.ts
+#EXTINF:-1,Pesca e Caccia
+http://luckyiptv.ddns.net:23000/live/Gavino/Gavino/12197.ts
+#EXTINF:-1,Explora HD
+http://luckyiptv.ddns.net:23000/live/Gavino/Gavino/4158.ts
+#EXTINF:-1,History HD
+http://luckyiptv.ddns.net:23000/live/Gavino/Gavino/4159.ts
+#EXTINF:-1,Animal Planet
+http://luckyiptv.ddns.net:23000/live/Gavino/Gavino/2410.ts
+#EXTINF:-1,Gambero Rosso HD
+http://luckyiptv.ddns.net:23000/live/Gavino/Gavino/3658.ts
+#EXTINF:-1,Focus
+http://luckyiptv.ddns.net:23000/live/Gavino/Gavino/2422.ts
+#EXTINF:-1,Dmax
+http://luckyiptv.ddns.net:23000/live/Gavino/Gavino/2417.ts
+#EXTINF:-1,Dmax +1
+http://luckyiptv.ddns.net:23000/live/Gavino/Gavino/12902.ts
+#EXTINF:-1,Rai Scuola
+http://luckyiptv.ddns.net:23000/live/Gavino/Gavino/2496.ts
+#EXTINF:-1,Sky Arte HD
+http://luckyiptv.ddns.net:23000/live/Gavino/Gavino/2524.ts
+#EXTINF:-1,Arte HD ( FR )
+http://luckyiptv.ddns.net:23000/live/Gavino/Gavino/2502.ts
+#EXTINF:-1,Arte HD ( DE )
+http://luckyiptv.ddns.net:23000/live/Gavino/Gavino/2501.ts
+#EXTINF:-1,--------- BAMBINI ---------
+http://luckyiptv.ddns.net:23000/live/Gavino/Gavino/6638.ts
+#EXTINF:-1,Boing
+http://luckyiptv.ddns.net:23000/live/Gavino/Gavino/2412.ts
+#EXTINF:-1,Cartoonito
+http://luckyiptv.ddns.net:23000/live/Gavino/Gavino/2413.ts
+#EXTINF:-1,Disney XD
+http://luckyiptv.ddns.net:23000/live/Gavino/Gavino/2416.ts
+#EXTINF:-1,Frisbee
+http://luckyiptv.ddns.net:23000/live/Gavino/Gavino/2427.ts
+#EXTINF:-1,Rai Yoyo
+http://luckyiptv.ddns.net:23000/live/Gavino/Gavino/2498.ts
+#EXTINF:-1,Rai Gulp
+http://luckyiptv.ddns.net:23000/live/Gavino/Gavino/2463.ts
+#EXTINF:-1,Super!
+http://luckyiptv.ddns.net:23000/live/Gavino/Gavino/2487.ts
+#EXTINF:-1,K2
+http://luckyiptv.ddns.net:23000/live/Gavino/Gavino/2430.ts
+#EXTINF:-1,Nikeleodeon
+http://luckyiptv.ddns.net:23000/live/Gavino/Gavino/8663.ts
+#EXTINF:-1,-------- NOTIZIE -------
+http://luckyiptv.ddns.net:23000/live/Gavino/Gavino/6640.ts
+#EXTINF:-1,Sky TG 24 HD
+http://luckyiptv.ddns.net:23000/live/Gavino/Gavino/2485.ts
+#EXTINF:-1,Rai News 24
+http://luckyiptv.ddns.net:23000/live/Gavino/Gavino/2465.ts
+#EXTINF:-1,TgCom 24
+http://luckyiptv.ddns.net:23000/live/Gavino/Gavino/2488.ts
+#EXTINF:-1,TG Norba 24
+http://luckyiptv.ddns.net:23000/live/Gavino/Gavino/7493.ts
+#EXTINF:-1,Rai Senato
+http://luckyiptv.ddns.net:23000/live/Gavino/Gavino/2497.ts
+#EXTINF:-1,Gazzetta tv
+http://luckyiptv.ddns.net:23000/live/Gavino/Gavino/7494.ts
+#EXTINF:-1,--------- MEDIASET PREMIUM ---------
+http://luckyiptv.ddns.net:23000/live/Gavino/Gavino/6637.ts
+#EXTINF:-1,Premium Cinema 1 HD
+http://luckyiptv.ddns.net:23000/live/Gavino/Gavino/2450.ts
+#EXTINF:-1,Premium Cinema  24
+http://luckyiptv.ddns.net:23000/live/Gavino/Gavino/2518.ts
+#EXTINF:-1,Premium Cinema 2 HD
+http://luckyiptv.ddns.net:23000/live/Gavino/Gavino/2517.ts
+#EXTINF:-1,Premium Cinema 2  24
+http://luckyiptv.ddns.net:23000/live/Gavino/Gavino/2519.ts
+#EXTINF:-1,Premium Paramount
+http://luckyiptv.ddns.net:23000/live/Gavino/Gavino/13139.ts
+#EXTINF:-1,Premium Action HD
+http://luckyiptv.ddns.net:23000/live/Gavino/Gavino/2521.ts
+#EXTINF:-1,Premium Cinema Action  24
+http://luckyiptv.ddns.net:23000/live/Gavino/Gavino/2451.ts
+#EXTINF:-1,Premium Crime HD
+http://luckyiptv.ddns.net:23000/live/Gavino/Gavino/2522.ts
+#EXTINF:-1,Premium Crime  24
+http://luckyiptv.ddns.net:23000/live/Gavino/Gavino/2455.ts
+#EXTINF:-1,Premium Cinema Energy
+http://luckyiptv.ddns.net:23000/live/Gavino/Gavino/2454.ts
+#EXTINF:-1,Premium Cinema Emotion
+http://luckyiptv.ddns.net:23000/live/Gavino/Gavino/2453.ts
+#EXTINF:-1,Premium Stories
+http://luckyiptv.ddns.net:23000/live/Gavino/Gavino/2461.ts
+#EXTINF:-1,Premium Stories + 24
+http://luckyiptv.ddns.net:23000/live/Gavino/Gavino/13141.ts
+#EXTINF:-1,Premium Studio Universal
+http://luckyiptv.ddns.net:23000/live/Gavino/Gavino/2462.ts
+#EXTINF:-1,Premium Cinema Comedy
+http://luckyiptv.ddns.net:23000/live/Gavino/Gavino/2452.ts
+#EXTINF:-1,Premium Joy
+http://luckyiptv.ddns.net:23000/live/Gavino/Gavino/2460.ts
+#EXTINF:-1,Premium Joy + 24
+http://luckyiptv.ddns.net:23000/live/Gavino/Gavino/13140.ts
+#EXTINF:-1,Premium Extra 1 ( Grande Fratello )
+http://luckyiptv.ddns.net:23000/live/Gavino/Gavino/6984.ts
+#EXTINF:-1,Premium Extra 2 ( Grande Fratello )
+http://luckyiptv.ddns.net:23000/live/Gavino/Gavino/6985.ts
 #EXTINF:-1,Premium Sport HD
-http://tornado-ultra.noip.me:8000/live/Ciro/Ciro/4609.ts
-#EXTINF:-1,Premium Sport
-http://tornado-ultra.noip.me:8000/live/Ciro/Ciro/4697.ts
+http://luckyiptv.ddns.net:23000/live/Gavino/Gavino/3664.ts
 #EXTINF:-1,Premium Sport 2 HD
-http://tornado-ultra.noip.me:8000/live/Ciro/Ciro/9114.ts
-#EXTINF:-1,Premium Sport 2
-http://tornado-ultra.noip.me:8000/live/Ciro/Ciro/9115.ts
-#EXTINF:-1,Premium Calcio 1 HD
-http://tornado-ultra.noip.me:8000/live/Ciro/Ciro/4695.ts
+http://luckyiptv.ddns.net:23000/live/Gavino/Gavino/12840.ts
+#EXTINF:-1,Premium Calcio
+http://luckyiptv.ddns.net:23000/live/Gavino/Gavino/2490.ts
+#EXTINF:-1,Premium Calcio HD
+http://luckyiptv.ddns.net:23000/live/Gavino/Gavino/2448.ts
 #EXTINF:-1,Premium Calcio 1
-http://tornado-ultra.noip.me:8000/live/Ciro/Ciro/4696.ts
+http://luckyiptv.ddns.net:23000/live/Gavino/Gavino/5297.ts
+#EXTINF:-1,Premium Calcio 1 HD
+http://luckyiptv.ddns.net:23000/live/Gavino/Gavino/13123.ts
 #EXTINF:-1,Premium Calcio 2
-http://tornado-ultra.noip.me:8000/live/Ciro/Ciro/4694.ts
+http://luckyiptv.ddns.net:23000/live/Gavino/Gavino/5298.ts
+#EXTINF:-1,Premium Calcio 2 HD
+http://luckyiptv.ddns.net:23000/live/Gavino/Gavino/2442.ts
 #EXTINF:-1,Premium Calcio 3
-http://tornado-ultra.noip.me:8000/live/Ciro/Ciro/4693.ts
+http://luckyiptv.ddns.net:23000/live/Gavino/Gavino/2443.ts
+#EXTINF:-1,Premium Calcio 3 HD
+http://luckyiptv.ddns.net:23000/live/Gavino/Gavino/13118.ts
 #EXTINF:-1,Premium Calcio 4
-http://tornado-ultra.noip.me:8000/live/Ciro/Ciro/4692.ts
+http://luckyiptv.ddns.net:23000/live/Gavino/Gavino/2444.ts
+#EXTINF:-1,Premium Calcio 4 HD
+http://luckyiptv.ddns.net:23000/live/Gavino/Gavino/13119.ts
 #EXTINF:-1,Premium Calcio 5
-http://tornado-ultra.noip.me:8000/live/Ciro/Ciro/4691.ts
+http://luckyiptv.ddns.net:23000/live/Gavino/Gavino/2445.ts
+#EXTINF:-1,Premium Calcio 5 HD
+http://luckyiptv.ddns.net:23000/live/Gavino/Gavino/13120.ts
 #EXTINF:-1,Premium Calcio 6
-http://tornado-ultra.noip.me:8000/live/Ciro/Ciro/4690.ts
+http://luckyiptv.ddns.net:23000/live/Gavino/Gavino/2446.ts
+#EXTINF:-1,Premium Calcio 6 HD
+http://luckyiptv.ddns.net:23000/live/Gavino/Gavino/13121.ts
 #EXTINF:-1,Premium Calcio 7
-http://tornado-ultra.noip.me:8000/live/Ciro/Ciro/4689.ts
-#EXTINF:-1,----- MUSICA -----
-http://tornado-ultra.noip.me:8000/live/Ciro/Ciro/4741.ts
-#EXTINF:-1,R.T.L 102.5
-http://tornado-ultra.noip.me:8000/live/Ciro/Ciro/4866.ts
-#EXTINF:-1,Radio 105
-http://tornado-ultra.noip.me:8000/live/Ciro/Ciro/4863.ts
-#EXTINF:-1,m2o
-http://tornado-ultra.noip.me:8000/live/Ciro/Ciro/4573.ts
-#EXTINF:-1,Dance 90
-http://tornado-ultra.noip.me:8000/live/Ciro/Ciro/4867.ts
-#EXTINF:-1,Radio 101 TV
-http://tornado-ultra.noip.me:8000/live/Ciro/Ciro/6385.ts
-#EXTINF:-1,DeeJay TV
-http://tornado-ultra.noip.me:8000/live/Ciro/Ciro/4612.ts
-#EXTINF:-1,DeeJay Tv +1
-http://tornado-ultra.noip.me:8000/live/Ciro/Ciro/6386.ts
-#EXTINF:-1,Onda Latina
-http://tornado-ultra.noip.me:8000/live/Ciro/Ciro/6474.ts
-#EXTINF:-1,Radio Italia TV
-http://tornado-ultra.noip.me:8000/live/Ciro/Ciro/6505.ts
-#EXTINF:-1,----- FILM IN SALA -----
-http://tornado-ultra.noip.me:8000/live/Ciro/Ciro/7354.ts
-#EXTINF:-1,The Pills:sempre meglio che lavorare
-http://tornado-ultra.noip.me:8000/movie/Ciro/Ciro/8440.mkv
-#EXTINF:-1,The hateful eight
-http://tornado-ultra.noip.me:8000/movie/Ciro/Ciro/8436.mkv
-#EXTINF:-1,Steve jobs
-http://tornado-ultra.noip.me:8000/movie/Ciro/Ciro/8446.mkv
-#EXTINF:-1,Se mi lasci non vale
-http://tornado-ultra.noip.me:8000/movie/Ciro/Ciro/8443.mkv
-#EXTINF:-1,Revenant - Redivivo
-http://tornado-ultra.noip.me:8000/movie/Ciro/Ciro/8444.mkv
-#EXTINF:-1,Point break
-http://tornado-ultra.noip.me:8000/movie/Ciro/Ciro/8437.mkv
-#EXTINF:-1,Piccoli brividi
-http://tornado-ultra.noip.me:8000/movie/Ciro/Ciro/8445.mkv
-#EXTINF:-1,La quinta onda
-http://tornado-ultra.noip.me:8000/movie/Ciro/Ciro/8438.mkv
-#EXTINF:-1,L'abbiamo fatta grossa
-http://tornado-ultra.noip.me:8000/movie/Ciro/Ciro/8439.mkv
-#EXTINF:-1,Joy
-http://tornado-ultra.noip.me:8000/movie/Ciro/Ciro/8442.mkv
-#EXTINF:-1,Doraemon: Nobita e gli eroi dello spazio
-http://tornado-ultra.noip.me:8000/movie/Ciro/Ciro/8441.mkv
-#EXTINF:-1,Creed-Nato per combattere
-http://tornado-ultra.noip.me:8000/movie/Ciro/Ciro/8447.mkv
-#EXTINF:-1,----- SKY PRIMAFILA ONDEMAND -----
-http://tornado-ultra.noip.me:8000/live/Ciro/Ciro/4082.ts
-#EXTINF:-1,PRIMAFILA 1 | InsideOut
-http://tornado-ultra.noip.me:8000/movie/Ciro/Ciro/8430.mkv
-#EXTINF:-1,PRIMAFILA 2 | The Walk
-http://tornado-ultra.noip.me:8000/movie/Ciro/Ciro/8429.mkv
-#EXTINF:-1,PRIMAFILA 3 | Hotel Transylvania 2
-http://tornado-ultra.noip.me:8000/movie/Ciro/Ciro/8428.mkv
-#EXTINF:-1,PRIMAFILA 4 | Everest
-http://tornado-ultra.noip.me:8000/movie/Ciro/Ciro/8427.mkv
-#EXTINF:-1,PRIMAFILA 5 | Predestination
-http://tornado-ultra.noip.me:8000/movie/Ciro/Ciro/8426.mkv
-#EXTINF:-1,PRIMAFILA 6 | Sopravvissuto The Martian
-http://tornado-ultra.noip.me:8000/movie/Ciro/Ciro/8425.mkv
-#EXTINF:-1,PRIMAFILA 7 | Contagious
-http://tornado-ultra.noip.me:8000/movie/Ciro/Ciro/8424.mkv
-#EXTINF:-1,PRIMAFILA 8 | True Story
-http://tornado-ultra.noip.me:8000/movie/Ciro/Ciro/8423.mkv
-#EXTINF:-1,PRIMAFILA 9 | Tutte lo Vogliono
-http://tornado-ultra.noip.me:8000/movie/Ciro/Ciro/8422.mkv
-#EXTINF:-1,PRIMAFILA 10 | Teneramente Folle
-http://tornado-ultra.noip.me:8000/movie/Ciro/Ciro/8433.mkv
-#EXTINF:-1,PRIMAFILA 11 | Samba
-http://tornado-ultra.noip.me:8000/movie/Ciro/Ciro/8432.mkv
-#EXTINF:-1,PRIMAFILA 12 | Magic Mike XXL
-http://tornado-ultra.noip.me:8000/movie/Ciro/Ciro/8431.mkv
-#EXTINF:-1,PRIMAFILA 13 | Left Behind La Profezia
-http://tornado-ultra.noip.me:8000/movie/Ciro/Ciro/8421.mkv
-#EXTINF:-1,PRIMAFILA 14 | Torno Indietro e Cambio Vita
-http://tornado-ultra.noip.me:8000/movie/Ciro/Ciro/8420.mkv
-#EXTINF:-1,----- FILM ONDEMAND -----
-http://tornado-ultra.noip.me:8000/live/Ciro/Ciro/4080.ts
-#EXTINF:-1,Uniti Per Sempre
-http://tornado-ultra.noip.me:8000/movie/Ciro/Ciro/8627.mkv
-#EXTINF:-1,The Vatican Tapes
-http://tornado-ultra.noip.me:8000/movie/Ciro/Ciro/8834.mkv
-#EXTINF:-1,Tremors 5 Bloodlines
-http://tornado-ultra.noip.me:8000/movie/Ciro/Ciro/8626.mkv
-#EXTINF:-1,Tooken
-http://tornado-ultra.noip.me:8000/movie/Ciro/Ciro/8835.mkv
-#EXTINF:-1,The Terror Live
-http://tornado-ultra.noip.me:8000/movie/Ciro/Ciro/8832.mkv
-#EXTINF:-1,The Program
-http://tornado-ultra.noip.me:8000/movie/Ciro/Ciro/8831.mkv
-#EXTINF:-1,The Physician Medicus
-http://tornado-ultra.noip.me:8000/movie/Ciro/Ciro/8830.mkv
-#EXTINF:-1,The Last Witch Hunter
-http://tornado-ultra.noip.me:8000/movie/Ciro/Ciro/8829.mkv
-#EXTINF:-1,The Humbling
-http://tornado-ultra.noip.me:8000/movie/Ciro/Ciro/8828.mkv
-#EXTINF:-1,Teen Beach 2
-http://tornado-ultra.noip.me:8000/movie/Ciro/Ciro/8827.mkv
-#EXTINF:-1,Storia d'Inverno
-http://tornado-ultra.noip.me:8000/movie/Ciro/Ciro/8826.mkv
-#EXTINF:-1,Selfless
-http://tornado-ultra.noip.me:8000/movie/Ciro/Ciro/8624.mkv
-#EXTINF:-1,Redeemer
-http://tornado-ultra.noip.me:8000/movie/Ciro/Ciro/8621.mkv
-#EXTINF:-1,Moving Target
-http://tornado-ultra.noip.me:8000/movie/Ciro/Ciro/8628.mkv
-#EXTINF:-1,Una Notte Da Matricole
-http://tornado-ultra.noip.me:8000/movie/Ciro/Ciro/8625.mkv
-#EXTINF:-1,Un mostro a Parigi
-http://tornado-ultra.noip.me:8000/movie/Ciro/Ciro/8632.mkv
-#EXTINF:-1,Two Fast And 2 Furious 2
-http://tornado-ultra.noip.me:8000/movie/Ciro/Ciro/8717.mkv
-#EXTINF:-1,Marguerite
-http://tornado-ultra.noip.me:8000/movie/Ciro/Ciro/8618.mkv
-#EXTINF:-1,Manuale Scout Per L'Apocalisse Zombie
-http://tornado-ultra.noip.me:8000/movie/Ciro/Ciro/8619.mkv
-#EXTINF:-1,Lost in translation
-http://tornado-ultra.noip.me:8000/movie/Ciro/Ciro/8617.mkv
-#EXTINF:-1,Lo Hobbit La Battaglia Delle Cinque Armate (2014)
-http://tornado-ultra.noip.me:8000/movie/Ciro/Ciro/8765.mkv
-#EXTINF:-1,Franny
-http://tornado-ultra.noip.me:8000/movie/Ciro/Ciro/8614.mkv
-#EXTINF:-1,Epic movie (2007)
-http://tornado-ultra.noip.me:8000/movie/Ciro/Ciro/8795.mkv
-#EXTINF:-1,Chiamatemi Francesco
-http://tornado-ultra.noip.me:8000/movie/Ciro/Ciro/8613.mkv
-#EXTINF:-1,Battaglia Nei Cieli
-http://tornado-ultra.noip.me:8000/movie/Ciro/Ciro/8612.mkv
-#EXTINF:-1,Angeli
-http://tornado-ultra.noip.me:8000/movie/Ciro/Ciro/8603.mkv
-#EXTINF:-1,Ameluk
-http://tornado-ultra.noip.me:8000/movie/Ciro/Ciro/8604.mkv
-#EXTINF:-1,Una Notte da Leoni (2009)
-http://tornado-ultra.noip.me:8000/movie/Ciro/Ciro/8711.mkv
-#EXTINF:-1,Tutto Puo Accadere A Broadway (2014)
-http://tornado-ultra.noip.me:8000/movie/Ciro/Ciro/8718.mkv
-#EXTINF:-1,Tre Metri Sopra Il Pelo (2007)
-http://tornado-ultra.noip.me:8000/movie/Ciro/Ciro/8720.mkv
-#EXTINF:-1,Titanic Nascita Di Una Leggenda (2012)
-http://tornado-ultra.noip.me:8000/movie/Ciro/Ciro/8721.mkv
-#EXTINF:-1,The Fast And The Furious Tokyo Drift (2006)
-http://tornado-ultra.noip.me:8000/movie/Ciro/Ciro/8726.mkv
-#EXTINF:-1,The Fast And The Furious 4 Solo Parti Originali (2009)
-http://tornado-ultra.noip.me:8000/movie/Ciro/Ciro/8728.mkv
-#EXTINF:-1,The Fast And The Furios (2001)
-http://tornado-ultra.noip.me:8000/movie/Ciro/Ciro/8729.mkv
-#EXTINF:-1,Ted (2012)
-http://tornado-ultra.noip.me:8000/movie/Ciro/Ciro/8731.mkv
-#EXTINF:-1,SuperFast E SuperFurious Solo Party Originali (2015)
-http://tornado-ultra.noip.me:8000/movie/Ciro/Ciro/8734.mkv
-#EXTINF:-1,Se Chiudo Gli Occhi Non Sono Piu Qui (2014)
-http://tornado-ultra.noip.me:8000/movie/Ciro/Ciro/8743.mkv
-#EXTINF:-1,Scrivimi Ancora
-http://tornado-ultra.noip.me:8000/movie/Ciro/Ciro/8745.mkv
-#EXTINF:-1,Ritorno alla vita
-http://tornado-ultra.noip.me:8000/movie/Ciro/Ciro/8623.mkv
-#EXTINF:-1,Regole D'Onore
-http://tornado-ultra.noip.me:8000/movie/Ciro/Ciro/8622.mkv
-#EXTINF:-1,Pulp Fiction (1994)
-http://tornado-ultra.noip.me:8000/movie/Ciro/Ciro/8750.mkv
-#EXTINF:-1,Porky College Un Duro Per Amico
-http://tornado-ultra.noip.me:8000/movie/Ciro/Ciro/8752.mkv
-#EXTINF:-1,Porky College Sempre Piu Duro
-http://tornado-ultra.noip.me:8000/movie/Ciro/Ciro/8753.mkv
-#EXTINF:-1,Natale In Sudafrica (2010)
-http://tornado-ultra.noip.me:8000/movie/Ciro/Ciro/8758.mkv
-#EXTINF:-1,Mamma Ho Riperso L Aereo Mi Sono Smarrito A New York
-http://tornado-ultra.noip.me:8000/movie/Ciro/Ciro/8761.mkv
-#EXTINF:-1,Mamma Ho Perso L Aereo
-http://tornado-ultra.noip.me:8000/movie/Ciro/Ciro/8762.mkv
-#EXTINF:-1,Mai Stati Uniti (2012)
-http://tornado-ultra.noip.me:8000/movie/Ciro/Ciro/8763.mkv
-#EXTINF:-1,Lo Stagista Inaspettato
-http://tornado-ultra.noip.me:8000/movie/Ciro/Ciro/8616.mkv
-#EXTINF:-1,Lei E Troppo Per Me (2010)
-http://tornado-ultra.noip.me:8000/movie/Ciro/Ciro/8766.mkv
-#EXTINF:-1,La Rivolta Delle Ex (2009)
-http://tornado-ultra.noip.me:8000/movie/Ciro/Ciro/8768.mkv
-#EXTINF:-1,La Banda Dei Babbi Natale
-http://tornado-ultra.noip.me:8000/movie/Ciro/Ciro/8773.mkv
-#EXTINF:-1,Italo (2014)
-http://tornado-ultra.noip.me:8000/movie/Ciro/Ciro/8776.mkv
-#EXTINF:-1,Immaturi- il viaggio
-http://tornado-ultra.noip.me:8000/movie/Ciro/Ciro/8780.mkv
-#EXTINF:-1,Il mio miglior nemico (2016)
-http://tornado-ultra.noip.me:8000/movie/Ciro/Ciro/8783.mkv
-#EXTINF:-1,Il gladiatore
-http://tornado-ultra.noip.me:8000/movie/Ciro/Ciro/8778.mkv
-#EXTINF:-1,Giovanna d arco
-http://tornado-ultra.noip.me:8000/movie/Ciro/Ciro/8788.mkv
-#EXTINF:-1,Fantastici 4
-http://tornado-ultra.noip.me:8000/movie/Ciro/Ciro/8794.mkv
-#EXTINF:-1,Dream team (2012)
-http://tornado-ultra.noip.me:8000/movie/Ciro/Ciro/8797.mkv
-#EXTINF:-1,Appuntamento con l'amore
-http://tornado-ultra.noip.me:8000/movie/Ciro/Ciro/8611.mkv
-#EXTINF:-1,Appuntamenti Per Farla Innamorare (2009)
-http://tornado-ultra.noip.me:8000/movie/Ciro/Ciro/8809.mkv
-#EXTINF:-1,Anche se amore non si vede
-http://tornado-ultra.noip.me:8000/movie/Ciro/Ciro/8812.mkv
-#EXTINF:-1,Amore e altri rimedi
-http://tornado-ultra.noip.me:8000/movie/Ciro/Ciro/8813.mkv
-#EXTINF:-1,Amore bugie e calciettio (2008)
-http://tornado-ultra.noip.me:8000/movie/Ciro/Ciro/8814.mkv
-#EXTINF:-1,Amore a prima svista
-http://tornado-ultra.noip.me:8000/movie/Ciro/Ciro/8815.mkv
-#EXTINF:-1,Amore 14
-http://tornado-ultra.noip.me:8000/movie/Ciro/Ciro/8816.mkv
-#EXTINF:-1,American Trip Il Primo Viaggio Non Si Scorda Mai (2004)
-http://tornado-ultra.noip.me:8000/movie/Ciro/Ciro/8820.mkv
-#EXTINF:-1,Ai Confini della Giustizia
-http://tornado-ultra.noip.me:8000/movie/Ciro/Ciro/8615.mkv
-#EXTINF:-1,Age Of Tomorrow
-http://tornado-ultra.noip.me:8000/movie/Ciro/Ciro/8602.mkv
-#EXTINF:-1,Affare Fatto-Unfinished Business
-http://tornado-ultra.noip.me:8000/movie/Ciro/Ciro/8600.mkv
-#EXTINF:-1,Accidental Love
-http://tornado-ultra.noip.me:8000/movie/Ciro/Ciro/8599.mkv
-#EXTINF:-1,A Piedi Nudi
-http://tornado-ultra.noip.me:8000/movie/Ciro/Ciro/8606.mkv
-#EXTINF:-1,A Most Wanted Man La Spia
-http://tornado-ultra.noip.me:8000/movie/Ciro/Ciro/8605.mkv
-#EXTINF:-1,A Fighting Man
-http://tornado-ultra.noip.me:8000/movie/Ciro/Ciro/8601.mkv
-#EXTINF:-1,100 ragazze
-http://tornado-ultra.noip.me:8000/movie/Ciro/Ciro/8823.mkv
-#EXTINF:-1,10 Regole per fare innamorare
-http://tornado-ultra.noip.me:8000/movie/Ciro/Ciro/8824.mkv
-#EXTINF:-1,10 ragazze
-http://tornado-ultra.noip.me:8000/movie/Ciro/Ciro/8825.mkv
-#EXTINF:-1,Un Occasione Da Dio (2015)
-http://tornado-ultra.noip.me:8000/movie/Ciro/Ciro/8713.mkv
-#EXTINF:-1,Un Disastro Di Ragazza (2015)
-http://tornado-ultra.noip.me:8000/movie/Ciro/Ciro/8715.mkv
-#EXTINF:-1,Taxi Teheran (2015)
-http://tornado-ultra.noip.me:8000/movie/Ciro/Ciro/8732.mkv
-#EXTINF:-1,Suburra (2015)
-http://tornado-ultra.noip.me:8000/movie/Ciro/Ciro/8735.mkv
-#EXTINF:-1,Southpaw L Ultima Sfida 2015
-http://tornado-ultra.noip.me:8000/movie/Ciro/Ciro/8737.mkv
-#EXTINF:-1,Soldato Semplice (2015)
-http://tornado-ultra.noip.me:8000/movie/Ciro/Ciro/8740.mkv
-#EXTINF:-1,Si Accettano Miracoli (2015)
-http://tornado-ultra.noip.me:8000/movie/Ciro/Ciro/8741.mkv
-#EXTINF:-1,Sei Mai Stata Sulla Luna (2015)
-http://tornado-ultra.noip.me:8000/movie/Ciro/Ciro/8742.mkv
-#EXTINF:-1,Nomi E Cognomi (2015)
-http://tornado-ultra.noip.me:8000/movie/Ciro/Ciro/8755.mkv
-#EXTINF:-1,No Escape Colpo Di Stato (2015)
-http://tornado-ultra.noip.me:8000/movie/Ciro/Ciro/8756.mkv
-#EXTINF:-1,Mission Impossible 5 Rogue Nation (2015)
-http://tornado-ultra.noip.me:8000/movie/Ciro/Ciro/8759.mkv
-#EXTINF:-1,La Prima Volta Di Mia Figlia (2015)
-http://tornado-ultra.noip.me:8000/movie/Ciro/Ciro/8770.mkv
-#EXTINF:-1,L.Esigenza Di Unirmi Ogni Volta Con Te (2015)
-http://tornado-ultra.noip.me:8000/movie/Ciro/Ciro/8774.mkv
-#EXTINF:-1,Italiano medio(2015)
-http://tornado-ultra.noip.me:8000/movie/Ciro/Ciro/8777.mkv
-#EXTINF:-1,Il principe abusivo (2015)
-http://tornado-ultra.noip.me:8000/movie/Ciro/Ciro/8782.mkv
-#EXTINF:-1,Humandroid (2015)
-http://tornado-ultra.noip.me:8000/movie/Ciro/Ciro/8784.mkv
-#EXTINF:-1,Hot movie (2015)
-http://tornado-ultra.noip.me:8000/movie/Ciro/Ciro/8785.mkv
-#EXTINF:-1,Ho ucciso napoleone (2015)
-http://tornado-ultra.noip.me:8000/movie/Ciro/Ciro/8786.mkv
-#EXTINF:-1,Hitman agent 47 (2015)
-http://tornado-ultra.noip.me:8000/movie/Ciro/Ciro/8787.mkv
-#EXTINF:-1,Fast and furious 7 (2015)
-http://tornado-ultra.noip.me:8000/movie/Ciro/Ciro/8792.mkv
-#EXTINF:-1,Curve (2015)
-http://tornado-ultra.noip.me:8000/movie/Ciro/Ciro/8798.mkv
-#EXTINF:-1,Crimson peak (2015)
-http://tornado-ultra.noip.me:8000/movie/Ciro/Ciro/8799.mkv
-#EXTINF:-1,Cinquanta sfumature di grigio (2015)
-http://tornado-ultra.noip.me:8000/movie/Ciro/Ciro/8804.mkv
-#EXTINF:-1,Avengers Age Of Ultron (2015)
-http://tornado-ultra.noip.me:8000/movie/Ciro/Ciro/8807.mkv
-#EXTINF:-1,Ant man (2015)
-http://tornado-ultra.noip.me:8000/movie/Ciro/Ciro/8810.mkv
-#EXTINF:-1,Una Donna Per Amica (2014)
-http://tornado-ultra.noip.me:8000/movie/Ciro/Ciro/8712.mkv
-#EXTINF:-1,Un Natale Stupefacente (2014)
-http://tornado-ultra.noip.me:8000/movie/Ciro/Ciro/8714.mkv
-#EXTINF:-1,Un Amore Senza Fine (2014)
-http://tornado-ultra.noip.me:8000/movie/Ciro/Ciro/8716.mkv
-#EXTINF:-1,Tutta Colpa Di Freud (2014)
-http://tornado-ultra.noip.me:8000/movie/Ciro/Ciro/8719.mkv
-#EXTINF:-1,The Calling (2014)
-http://tornado-ultra.noip.me:8000/movie/Ciro/Ciro/8730.mkv
-#EXTINF:-1,Sotto Una Buona Stella (2014)
-http://tornado-ultra.noip.me:8000/movie/Ciro/Ciro/8738.mkv
-#EXTINF:-1,Scusate Se Esisto (2014)
-http://tornado-ultra.noip.me:8000/movie/Ciro/Ciro/8744.mkv
-#EXTINF:-1,Sapore Di Te (2014)
-http://tornado-ultra.noip.me:8000/movie/Ciro/Ciro/8746.mkv
-#EXTINF:-1,Reclaim (2014)
-http://tornado-ultra.noip.me:8000/movie/Ciro/Ciro/8748.mkv
-#EXTINF:-1,Predestination (2014)
-http://tornado-ultra.noip.me:8000/movie/Ciro/Ciro/8751.mkv
-#EXTINF:-1,Need for Speed (2014)
-http://tornado-ultra.noip.me:8000/movie/Ciro/Ciro/8757.mkv
-#EXTINF:-1,Messi Storia Di Un Campione (2014)
-http://tornado-ultra.noip.me:8000/movie/Ciro/Ciro/8760.mkv
-#EXTINF:-1,Ma Tu Di Che Segno Sei (2014)
-http://tornado-ultra.noip.me:8000/movie/Ciro/Ciro/8764.mkv
-#EXTINF:-1,La Vita E Facile Ad Occhi Chiusi (2014)
-http://tornado-ultra.noip.me:8000/movie/Ciro/Ciro/8767.mkv
-#EXTINF:-1,La Regola Del Gioco (2014)
-http://tornado-ultra.noip.me:8000/movie/Ciro/Ciro/8769.mkv
-#EXTINF:-1,La Mossa Del Pinguino (2014)
-http://tornado-ultra.noip.me:8000/movie/Ciro/Ciro/8771.mkv
-#EXTINF:-1,Il ragazzo invisibile (2014)
-http://tornado-ultra.noip.me:8000/movie/Ciro/Ciro/8781.mkv
-#EXTINF:-1,Forza maggiore (2014)
-http://tornado-ultra.noip.me:8000/movie/Ciro/Ciro/8791.mkv
-#EXTINF:-1,Confusi e felici (2014)
-http://tornado-ultra.noip.me:8000/movie/Ciro/Ciro/8800.mkv
-#EXTINF:-1,Colpa delle stelle (2014)
-http://tornado-ultra.noip.me:8000/movie/Ciro/Ciro/8803.mkv
-#EXTINF:-1,Andiamo a quel paese (2014)
-http://tornado-ultra.noip.me:8000/movie/Ciro/Ciro/8811.mkv
-#EXTINF:-1,Amici come noi (2014)
-http://tornado-ultra.noip.me:8000/movie/Ciro/Ciro/8818.mkv
-#EXTINF:-1,American Sniper (2014)
-http://tornado-ultra.noip.me:8000/movie/Ciro/Ciro/8821.mkv
-#EXTINF:-1,American Party (2004)
-http://tornado-ultra.noip.me:8000/movie/Ciro/Ciro/8822.mkv
-#EXTINF:-1,Una Piccola Impresa Meridionale (2013)
-http://tornado-ultra.noip.me:8000/movie/Ciro/Ciro/8582.mkv
-#EXTINF:-1,Una poltrona per due
-http://tornado-ultra.noip.me:8000/movie/Ciro/Ciro/8581.mkv
-#EXTINF:-1,Universitari Molto Piu Che Amici (2013)
-http://tornado-ultra.noip.me:8000/movie/Ciro/Ciro/8580.mkv
-#EXTINF:-1,Una Notte Da Leoni 3 (2013)
-http://tornado-ultra.noip.me:8000/movie/Ciro/Ciro/8709.mkv
-#EXTINF:-1,Thor The Dark World (2013)
-http://tornado-ultra.noip.me:8000/movie/Ciro/Ciro/8722.mkv
-#EXTINF:-1,The Host (2013)
-http://tornado-ultra.noip.me:8000/movie/Ciro/Ciro/8725.mkv
-#EXTINF:-1,Sx Tape (2013)
-http://tornado-ultra.noip.me:8000/movie/Ciro/Ciro/8733.mkv
-#EXTINF:-1,Stai Lontana Da Me (2013)
-http://tornado-ultra.noip.me:8000/movie/Ciro/Ciro/8736.mkv
-#EXTINF:-1,Sole A Catinelle (2013)
-http://tornado-ultra.noip.me:8000/movie/Ciro/Ciro/8739.mkv
-#EXTINF:-1,Rush (2013)
-http://tornado-ultra.noip.me:8000/movie/Ciro/Ciro/8747.mkv
-#EXTINF:-1,Pazze Di Me (2013)
-http://tornado-ultra.noip.me:8000/movie/Ciro/Ciro/8754.mkv
-#EXTINF:-1,La Moglie Del Sarto (2013)
-http://tornado-ultra.noip.me:8000/movie/Ciro/Ciro/8772.mkv
-#EXTINF:-1,L Alba Di Un Impero (2013)
-http://tornado-ultra.noip.me:8000/movie/Ciro/Ciro/8775.mkv
-#EXTINF:-1,Indovina chi viene a natale(2013)
-http://tornado-ultra.noip.me:8000/movie/Ciro/Ciro/8779.mkv
-#EXTINF:-1,Ghost movie (2013)
-http://tornado-ultra.noip.me:8000/movie/Ciro/Ciro/8789.mkv
-#EXTINF:-1,Fuga di cervelli (2013)
-http://tornado-ultra.noip.me:8000/movie/Ciro/Ciro/8790.mkv
-#EXTINF:-1,Fast and furious 6 (2013)
-http://tornado-ultra.noip.me:8000/movie/Ciro/Ciro/8793.mkv
-#EXTINF:-1,Due agenti molti speciali (2013)
-http://tornado-ultra.noip.me:8000/movie/Ciro/Ciro/8796.mkv
-#EXTINF:-1,Come ti spaccio la famiglia (2013)
-http://tornado-ultra.noip.me:8000/movie/Ciro/Ciro/8801.mkv
-#EXTINF:-1,Colpi di fortuna (2013)
-http://tornado-ultra.noip.me:8000/movie/Ciro/Ciro/8802.mkv
-#EXTINF:-1,Benvenuto presidente (2013)
-http://tornado-ultra.noip.me:8000/movie/Ciro/Ciro/8805.mkv
-#EXTINF:-1,Aspirante vedovo (2013)
-http://tornado-ultra.noip.me:8000/movie/Ciro/Ciro/8808.mkv
-#EXTINF:-1,Una Notte Da Leoni 2 (2011)
-http://tornado-ultra.noip.me:8000/movie/Ciro/Ciro/8710.mkv
-#EXTINF:-1,Thor (2011)
-http://tornado-ultra.noip.me:8000/movie/Ciro/Ciro/8723.mkv
-#EXTINF:-1,The Howling Reborn (2011)
-http://tornado-ultra.noip.me:8000/movie/Ciro/Ciro/8724.mkv
-#EXTINF:-1,The Fast And The Furious 5 (2011)
-http://tornado-ultra.noip.me:8000/movie/Ciro/Ciro/8727.mkv
-#EXTINF:-1,Baciato dalla fortuna (2011)
-http://tornado-ultra.noip.me:8000/movie/Ciro/Ciro/8806.mkv
-#EXTINF:-1,Amici di letto (2011)
-http://tornado-ultra.noip.me:8000/movie/Ciro/Ciro/8817.mkv
-#EXTINF:-1,Amici amanti e (2011)
-http://tornado-ultra.noip.me:8000/movie/Ciro/Ciro/8819.mkv
-#EXTINF:-1,Vacanze Di Natale A Cortina (2011)
-http://tornado-ultra.noip.me:8000/movie/Ciro/Ciro/8579.mkv
-#EXTINF:-1,----- FILM BAMBINI -----
-http://tornado-ultra.noip.me:8000/live/Ciro/Ciro/3750.ts
-#EXTINF:-1,Sword Of The Stranger
-http://tornado-ultra.noip.me:8000/movie/Ciro/Ciro/8633.mkv
-#EXTINF:-1,Super buddies
-http://tornado-ultra.noip.me:8000/movie/Ciro/Ciro/8634.mkv
-#EXTINF:-1,Strange Magic
-http://tornado-ultra.noip.me:8000/movie/Ciro/Ciro/8635.mkv
-#EXTINF:-1,Yellowbird
-http://tornado-ultra.noip.me:8000/movie/Ciro/Ciro/8629.mkv
-#EXTINF:-1,Epic: Il mondo segreto
-http://tornado-ultra.noip.me:8000/movie/Ciro/Ciro/8680.mkv
-#EXTINF:-1,Winx club: Il mistero degli abissi
-http://tornado-ultra.noip.me:8000/movie/Ciro/Ciro/8630.mkv
-#EXTINF:-1,Uno zoo in fuga
-http://tornado-ultra.noip.me:8000/movie/Ciro/Ciro/8631.mkv
-#EXTINF:-1,Scooby Doo
-http://tornado-ultra.noip.me:8000/movie/Ciro/Ciro/8636.mkv
-#EXTINF:-1,Red e Tody nemiciamici
-http://tornado-ultra.noip.me:8000/movie/Ciro/Ciro/8637.mkv
-#EXTINF:-1,Ralph Spaccatutto (2012)
-http://tornado-ultra.noip.me:8000/movie/Ciro/Ciro/8749.mkv
-#EXTINF:-1,Postino pat
-http://tornado-ultra.noip.me:8000/movie/Ciro/Ciro/8638.mkv
-#EXTINF:-1,Porco rosso
-http://tornado-ultra.noip.me:8000/movie/Ciro/Ciro/8639.mkv
-#EXTINF:-1,Polar express
-http://tornado-ultra.noip.me:8000/movie/Ciro/Ciro/8640.mkv
-#EXTINF:-1,Pocahontas
-http://tornado-ultra.noip.me:8000/movie/Ciro/Ciro/8641.mkv
-#EXTINF:-1,Pixies
-http://tornado-ultra.noip.me:8000/movie/Ciro/Ciro/8642.mkv
-#EXTINF:-1,Piovono polpette
-http://tornado-ultra.noip.me:8000/movie/Ciro/Ciro/8643.mkv
-#EXTINF:-1,Pinocchio
-http://tornado-ultra.noip.me:8000/movie/Ciro/Ciro/8644.mkv
-#EXTINF:-1,Paddington
-http://tornado-ultra.noip.me:8000/movie/Ciro/Ciro/8645.mkv
-#EXTINF:-1,Oliver & Company
-http://tornado-ultra.noip.me:8000/movie/Ciro/Ciro/8646.mkv
-#EXTINF:-1,Naruto: Shippuden il maestro e il discepolo
-http://tornado-ultra.noip.me:8000/movie/Ciro/Ciro/8647.mkv
-#EXTINF:-1,Mune: Il gurdiano della luna
-http://tornado-ultra.noip.me:8000/movie/Ciro/Ciro/8648.mkv
-#EXTINF:-1,Monster High: Haunted
-http://tornado-ultra.noip.me:8000/movie/Ciro/Ciro/8649.mkv
-#EXTINF:-1,Monster High: Freaky Fusion
-http://tornado-ultra.noip.me:8000/movie/Ciro/Ciro/8650.mkv
-#EXTINF:-1,Monster High: Ciak si Grida
-http://tornado-ultra.noip.me:8000/movie/Ciro/Ciro/8651.mkv
-#EXTINF:-1,Monster High: 13 Wishes
-http://tornado-ultra.noip.me:8000/movie/Ciro/Ciro/8652.mkv
-#EXTINF:-1,Minions
-http://tornado-ultra.noip.me:8000/movie/Ciro/Ciro/8653.mkv
-#EXTINF:-1,Lilo & Stitch
-http://tornado-ultra.noip.me:8000/movie/Ciro/Ciro/8654.mkv
-#EXTINF:-1,Lilli e il vagabondo 2
-http://tornado-ultra.noip.me:8000/movie/Ciro/Ciro/8655.mkv
-#EXTINF:-1,Lilli e il vagabondo
-http://tornado-ultra.noip.me:8000/movie/Ciro/Ciro/8656.mkv
-#EXTINF:-1,Lego Super Heroes: Justice League Vs Bizarro League
-http://tornado-ultra.noip.me:8000/movie/Ciro/Ciro/8657.mkv
-#EXTINF:-1,Le avventure di Peter Pan
-http://tornado-ultra.noip.me:8000/movie/Ciro/Ciro/8658.mkv
-#EXTINF:-1,LA spada nella roccia
-http://tornado-ultra.noip.me:8000/movie/Ciro/Ciro/8659.mkv
-#EXTINF:-1,La sirenetta
-http://tornado-ultra.noip.me:8000/movie/Ciro/Ciro/8660.mkv
-#EXTINF:-1,La bella e la bestia
-http://tornado-ultra.noip.me:8000/movie/Ciro/Ciro/8661.mkv
-#EXTINF:-1,La bella addormentata nel bosco
-http://tornado-ultra.noip.me:8000/movie/Ciro/Ciro/8662.mkv
-#EXTINF:-1,L'attacco dei Giganti: P. 1
-http://tornado-ultra.noip.me:8000/movie/Ciro/Ciro/8663.mkv
-#EXTINF:-1,Ken il guerriero: La leggenda di Raoul
-http://tornado-ultra.noip.me:8000/movie/Ciro/Ciro/8664.mkv
-#EXTINF:-1,Inside out
-http://tornado-ultra.noip.me:8000/movie/Ciro/Ciro/8665.mkv
-#EXTINF:-1,Il re leone
-http://tornado-ultra.noip.me:8000/movie/Ciro/Ciro/8666.mkv
-#EXTINF:-1,Il mio amico gicante
-http://tornado-ultra.noip.me:8000/movie/Ciro/Ciro/8667.mkv
-#EXTINF:-1,Il maestro e il discepolo
-http://tornado-ultra.noip.me:8000/movie/Ciro/Ciro/8620.mkv
-#EXTINF:-1,Il libro della vita
-http://tornado-ultra.noip.me:8000/movie/Ciro/Ciro/8668.mkv
-#EXTINF:-1,Il gobbo di notre:dame
-http://tornado-ultra.noip.me:8000/movie/Ciro/Ciro/8669.mkv
-#EXTINF:-1,Il gatto con gli stivali
-http://tornado-ultra.noip.me:8000/movie/Ciro/Ciro/8670.mkv
-#EXTINF:-1,Il castello nel cielo
-http://tornado-ultra.noip.me:8000/movie/Ciro/Ciro/8671.mkv
-#EXTINF:-1,Il bianco natale di topolino
-http://tornado-ultra.noip.me:8000/movie/Ciro/Ciro/8672.mkv
-#EXTINF:-1,Hotel Transylvania 2
-http://tornado-ultra.noip.me:8000/movie/Ciro/Ciro/8673.mkv
-#EXTINF:-1,Hotel transylvania
-http://tornado-ultra.noip.me:8000/movie/Ciro/Ciro/8674.mkv
-#EXTINF:-1,Halo: La caduta di Reach
-http://tornado-ultra.noip.me:8000/movie/Ciro/Ciro/8675.mkv
-#EXTINF:-1,Frozen: Il regno di ghiaccio
-http://tornado-ultra.noip.me:8000/movie/Ciro/Ciro/8676.mkv
-#EXTINF:-1,Frozen: fever
-http://tornado-ultra.noip.me:8000/movie/Ciro/Ciro/8677.mkv
-#EXTINF:-1,Fantasia: walt Disney
-http://tornado-ultra.noip.me:8000/movie/Ciro/Ciro/8678.mkv
-#EXTINF:-1,Fantasia: 2000
-http://tornado-ultra.noip.me:8000/movie/Ciro/Ciro/8679.mkv
-#EXTINF:-1,Dumbo
-http://tornado-ultra.noip.me:8000/movie/Ciro/Ciro/8681.mkv
-#EXTINF:-1,Dragon trainer
-http://tornado-ultra.noip.me:8000/movie/Ciro/Ciro/8682.mkv
-#EXTINF:-1,Dragon Ball Z: La rerurrezione di F
-http://tornado-ultra.noip.me:8000/movie/Ciro/Ciro/8683.mkv
-#EXTINF:-1,Dino e la macchina del tempo
-http://tornado-ultra.noip.me:8000/movie/Ciro/Ciro/8684.mkv
-#EXTINF:-1,Cenerentola
-http://tornado-ultra.noip.me:8000/movie/Ciro/Ciro/8685.mkv
-#EXTINF:-1,Cattivissimo Me 2
-http://tornado-ultra.noip.me:8000/movie/Ciro/Ciro/8686.mkv
-#EXTINF:-1,Cattivissimo Me
-http://tornado-ultra.noip.me:8000/movie/Ciro/Ciro/8687.mkv
-#EXTINF:-1,Cars motori ruggenti
-http://tornado-ultra.noip.me:8000/movie/Ciro/Ciro/8688.mkv
-#EXTINF:-1,Boo York
-http://tornado-ultra.noip.me:8000/movie/Ciro/Ciro/8689.mkv
-#EXTINF:-1,Big hero 6
-http://tornado-ultra.noip.me:8000/movie/Ciro/Ciro/8690.mkv
-#EXTINF:-1,Bianca e Bernie nella terra dei canguri
-http://tornado-ultra.noip.me:8000/movie/Ciro/Ciro/8691.mkv
-#EXTINF:-1,Barbie: Principessa rock
-http://tornado-ultra.noip.me:8000/movie/Ciro/Ciro/8692.mkv
-#EXTINF:-1,Barbie Mariposa and the Fairy Princess
-http://tornado-ultra.noip.me:8000/movie/Ciro/Ciro/8693.mkv
-#EXTINF:-1,Barbie e la principessa delle perle
-http://tornado-ultra.noip.me:8000/movie/Ciro/Ciro/8694.mkv
-#EXTINF:-1,Barbie e il tesoro dei cuccioli
-http://tornado-ultra.noip.me:8000/movie/Ciro/Ciro/8695.mkv
-#EXTINF:-1,Barbie e il regno segreto
-http://tornado-ultra.noip.me:8000/movie/Ciro/Ciro/8696.mkv
-#EXTINF:-1,Atlantis: L'impero Perduto
-http://tornado-ultra.noip.me:8000/movie/Ciro/Ciro/8697.mkv
-#EXTINF:-1,Albert e il diamante magico
-http://tornado-ultra.noip.me:8000/movie/Ciro/Ciro/8698.mkv
-#EXTINF:-1,----- ONDEMAND FILM 3D -----
-http://tornado-ultra.noip.me:8000/live/Ciro/Ciro/3675.ts
-#EXTINF:-1,Wolverine l'immortale 3D
-http://tornado-ultra.noip.me:8000/movie/Ciro/Ciro/8855.mkv
-#EXTINF:-1,Viaggio nell'isola misteriosa 3D
-http://tornado-ultra.noip.me:8000/movie/Ciro/Ciro/8856.mkv
-#EXTINF:-1,Transcendence 3D
-http://tornado-ultra.noip.me:8000/movie/Ciro/Ciro/8857.mkv
-#EXTINF:-1,The Amazing Spiderman 3D
-http://tornado-ultra.noip.me:8000/movie/Ciro/Ciro/8859.mkv
-#EXTINF:-1,The Amazing Spider Man 2 3D
-http://tornado-ultra.noip.me:8000/movie/Ciro/Ciro/8858.mkv
-#EXTINF:-1,Scontro tra titani 3D
-http://tornado-ultra.noip.me:8000/movie/Ciro/Ciro/8860.mkv
-#EXTINF:-1,La Leggenda del cacciatore di vampiri 3D
-http://tornado-ultra.noip.me:8000/movie/Ciro/Ciro/8861.mkv
-#EXTINF:-1,L'uomo d'acciaio 3D
-http://tornado-ultra.noip.me:8000/movie/Ciro/Ciro/8863.mkv
-#EXTINF:-1,Jupiter il destino dell universo 3D
-http://tornado-ultra.noip.me:8000/movie/Ciro/Ciro/8862.mkv
-#EXTINF:-1,Il settimo figlio 3D
-http://tornado-ultra.noip.me:8000/movie/Ciro/Ciro/8864.mkv
-#EXTINF:-1,I Viaggi di Gulliver 3D
-http://tornado-ultra.noip.me:8000/movie/Ciro/Ciro/8865.mkv
-#EXTINF:-1,I tre Moschettieri 3D
-http://tornado-ultra.noip.me:8000/movie/Ciro/Ciro/8853.mkv
-#EXTINF:-1,Exodus Dei e Re 3D
-http://tornado-ultra.noip.me:8000/movie/Ciro/Ciro/8854.mkv
-#EXTINF:-1,Conan Il Barbaro 3D
-http://tornado-ultra.noip.me:8000/movie/Ciro/Ciro/8851.mkv
-#EXTINF:-1,Capitan Harlock 3D
-http://tornado-ultra.noip.me:8000/movie/Ciro/Ciro/8852.mkv
-#EXTINF:-1,Big Hero 6 3D
-http://tornado-ultra.noip.me:8000/movie/Ciro/Ciro/8866.mkv
-#EXTINF:-1,Arn L'ultimo cavaliere 3D
-http://tornado-ultra.noip.me:8000/movie/Ciro/Ciro/8849.mkv
-#EXTINF:-1,Apes Revolution  Il pianeta delle scimmie 3D
-http://tornado-ultra.noip.me:8000/movie/Ciro/Ciro/8850.mkv
-#EXTINF:-1,Kristy 3D
-http://tornado-ultra.noip.me:8000/movie/Ciro/Ciro/8585.mkv
-#EXTINF:-1,Jurassic World 3D
-http://tornado-ultra.noip.me:8000/movie/Ciro/Ciro/8586.mkv
-#EXTINF:-1,Il re leone 3D
-http://tornado-ultra.noip.me:8000/movie/Ciro/Ciro/8587.mkv
-#EXTINF:-1,Il mistero dei teschi di cristallo 3D
-http://tornado-ultra.noip.me:8000/movie/Ciro/Ciro/8588.mkv
-#EXTINF:-1,Il Magico Mondo Di Oz 3D
-http://tornado-ultra.noip.me:8000/movie/Ciro/Ciro/8589.mkv
-#EXTINF:-1,Il libro della vita 3D
-http://tornado-ultra.noip.me:8000/movie/Ciro/Ciro/8590.mkv
-#EXTINF:-1,Godzilla 3D
-http://tornado-ultra.noip.me:8000/movie/Ciro/Ciro/8591.mkv
-#EXTINF:-1,300 L'alba di un impero 3D
-http://tornado-ultra.noip.me:8000/movie/Ciro/Ciro/8592.mkv
-#EXTINF:-1,3 Headed Shark Attac 3D
-http://tornado-ultra.noip.me:8000/movie/Ciro/Ciro/8593.mkv
-#EXTINF:-1,--- SERIE: GOMORRA ---
-http://tornado-ultra.noip.me:8000/live/Ciro/Ciro/6261.ts
-#EXTINF:-1,Gomorra 1x01
-http://tornado-ultra.noip.me:8000/movie/Ciro/Ciro/9033.mkv
-#EXTINF:-1,Gomorra 1x02
-http://tornado-ultra.noip.me:8000/movie/Ciro/Ciro/9034.mkv
-#EXTINF:-1,Gomorra 1x03
-http://tornado-ultra.noip.me:8000/movie/Ciro/Ciro/9035.mkv
-#EXTINF:-1,Gomorra 1x04
-http://tornado-ultra.noip.me:8000/movie/Ciro/Ciro/9036.mkv
-#EXTINF:-1,Gomorra 1x05
-http://tornado-ultra.noip.me:8000/movie/Ciro/Ciro/9037.mkv
-#EXTINF:-1,Gomorra 1x06
-http://tornado-ultra.noip.me:8000/movie/Ciro/Ciro/9038.mkv
-#EXTINF:-1,Gomorra 1x07
-http://tornado-ultra.noip.me:8000/movie/Ciro/Ciro/9039.mkv
-#EXTINF:-1,Gomorra 1x08
-http://tornado-ultra.noip.me:8000/movie/Ciro/Ciro/9040.mkv
-#EXTINF:-1,Gomorra 1x09
-http://tornado-ultra.noip.me:8000/movie/Ciro/Ciro/9041.mkv
-#EXTINF:-1,Gomorra 1x10
-http://tornado-ultra.noip.me:8000/movie/Ciro/Ciro/9042.mkv
-#EXTINF:-1,Gomorra 1x11
-http://tornado-ultra.noip.me:8000/movie/Ciro/Ciro/9043.mkv
-#EXTINF:-1,Gomorra 1x12
-http://tornado-ultra.noip.me:8000/movie/Ciro/Ciro/9044.mkv
-#EXTINF:-1,----- SERIE: ROMANZO CRIMINALE -----
-http://tornado-ultra.noip.me:8000/live/Ciro/Ciro/9032.ts
-#EXTINF:-1,Romanzo Criminale 1x01
-http://tornado-ultra.noip.me:8000/movie/Ciro/Ciro/8889.mkv
-#EXTINF:-1,Romanzo Criminale 1x02
-http://tornado-ultra.noip.me:8000/movie/Ciro/Ciro/8888.mkv
-#EXTINF:-1,Romanzo Criminale 1x03
-http://tornado-ultra.noip.me:8000/movie/Ciro/Ciro/8887.mkv
-#EXTINF:-1,Romanzo Criminale 1x04
-http://tornado-ultra.noip.me:8000/movie/Ciro/Ciro/8886.mkv
-#EXTINF:-1,Romanzo Criminale 1x05
-http://tornado-ultra.noip.me:8000/movie/Ciro/Ciro/8885.mkv
-#EXTINF:-1,Romanzo Criminale.1x06
-http://tornado-ultra.noip.me:8000/movie/Ciro/Ciro/8884.mkv
-#EXTINF:-1,Romanzo Criminale 1x07
-http://tornado-ultra.noip.me:8000/movie/Ciro/Ciro/8883.mkv
-#EXTINF:-1,Romanzo Criminale 1x08
-http://tornado-ultra.noip.me:8000/movie/Ciro/Ciro/8882.mkv
-#EXTINF:-1,Romanzo Criminale 1x09
-http://tornado-ultra.noip.me:8000/movie/Ciro/Ciro/8881.mkv
-#EXTINF:-1,Romanzo Criminale 1x10
-http://tornado-ultra.noip.me:8000/movie/Ciro/Ciro/8880.mkv
-#EXTINF:-1,Romanzo Criminale 1x11
-http://tornado-ultra.noip.me:8000/movie/Ciro/Ciro/8879.mkv
-#EXTINF:-1,Romanzo Criminale 1x12
-http://tornado-ultra.noip.me:8000/movie/Ciro/Ciro/8878.mkv
-#EXTINF:-1,Romanzo Criminale 2x01
-http://tornado-ultra.noip.me:8000/movie/Ciro/Ciro/8877.mkv
-#EXTINF:-1,Romanzo Criminale 2x02
-http://tornado-ultra.noip.me:8000/movie/Ciro/Ciro/8876.mkv
-#EXTINF:-1,Romanzo Criminale 2x03
-http://tornado-ultra.noip.me:8000/movie/Ciro/Ciro/8875.mkv
-#EXTINF:-1,Romanzo Criminale 2x04
-http://tornado-ultra.noip.me:8000/movie/Ciro/Ciro/8874.mkv
-#EXTINF:-1,Romanzo Criminale 2x05
-http://tornado-ultra.noip.me:8000/movie/Ciro/Ciro/8873.mkv
-#EXTINF:-1,Romanzo Criminale 2x06
-http://tornado-ultra.noip.me:8000/movie/Ciro/Ciro/8872.mkv
-#EXTINF:-1,Romanzo Criminale 2x07
-http://tornado-ultra.noip.me:8000/movie/Ciro/Ciro/8871.mkv
-#EXTINF:-1,Romanzo Criminale 2x08
-http://tornado-ultra.noip.me:8000/movie/Ciro/Ciro/8870.mkv
-#EXTINF:-1,Romanzo Criminale 2x09
-http://tornado-ultra.noip.me:8000/movie/Ciro/Ciro/8869.mkv
-#EXTINF:-1,Romanzo Criminale 2x10
-http://tornado-ultra.noip.me:8000/movie/Ciro/Ciro/8868.mkv
-#EXTINF:-1,----- SERIE: 1992 SKY CINEMA -----
-http://tornado-ultra.noip.me:8000/live/Ciro/Ciro/6789.ts
-#EXTINF:-1,1992 1x01
-http://tornado-ultra.noip.me:8000/movie/Ciro/Ciro/8699.mkv
-#EXTINF:-1,1992 1x02
-http://tornado-ultra.noip.me:8000/movie/Ciro/Ciro/8700.mkv
-#EXTINF:-1,1992 1x03
-http://tornado-ultra.noip.me:8000/movie/Ciro/Ciro/8701.mkv
-#EXTINF:-1,1992 1x04
-http://tornado-ultra.noip.me:8000/movie/Ciro/Ciro/8702.mkv
-#EXTINF:-1,1992 1x05
-http://tornado-ultra.noip.me:8000/movie/Ciro/Ciro/8703.mkv
-#EXTINF:-1,1992 1x06
-http://tornado-ultra.noip.me:8000/movie/Ciro/Ciro/8704.mkv
-#EXTINF:-1,1992 1x07
-http://tornado-ultra.noip.me:8000/movie/Ciro/Ciro/8705.mkv
-#EXTINF:-1,1992 1x08
-http://tornado-ultra.noip.me:8000/movie/Ciro/Ciro/8706.mkv
-#EXTINF:-1,1992 1x09
-http://tornado-ultra.noip.me:8000/movie/Ciro/Ciro/8707.mkv
-#EXTINF:-1,1992 1x10
-http://tornado-ultra.noip.me:8000/movie/Ciro/Ciro/8708.mkv
-#EXTINF:-1,----- SERIE: IL CAPO DEI CAPI -----
-http://tornado-ultra.noip.me:8000/live/Ciro/Ciro/9051.ts
-#EXTINF:-1,Il capo dei capi 1X1
-http://tornado-ultra.noip.me:8000/movie/Ciro/Ciro/9045.mkv
-#EXTINF:-1,Il capo dei capi 1X2
-http://tornado-ultra.noip.me:8000/movie/Ciro/Ciro/9046.mkv
-#EXTINF:-1,Il capo dei capi 1X3
-http://tornado-ultra.noip.me:8000/movie/Ciro/Ciro/9047.mkv
-#EXTINF:-1,Il capo dei capi 1X4
-http://tornado-ultra.noip.me:8000/movie/Ciro/Ciro/9048.mkv
-#EXTINF:-1,Il capo dei capi 1X5
-http://tornado-ultra.noip.me:8000/movie/Ciro/Ciro/9049.mkv
-#EXTINF:-1,Il capo dei capi 1X6
-http://tornado-ultra.noip.me:8000/movie/Ciro/Ciro/9050.mkv
-#EXTINF:-1,----- SERIE: NETFLIX -----
-http://tornado-ultra.noip.me:8000/live/Ciro/Ciro/9089.ts
-#EXTINF:-1,bojack horseman 1x01 La storia di BoJack Horseman
-http://tornado-ultra.noip.me:8000/movie/Ciro/Ciro/9090.mkv
-#EXTINF:-1,bojack horseman 1x02 Bojack traditore della patria
-http://tornado-ultra.noip.me:8000/movie/Ciro/Ciro/9091.mkv
-#EXTINF:-1,bojack horseman 1x03 Il ritorno di Sarah
-http://tornado-ultra.noip.me:8000/movie/Ciro/Ciro/9092.mkv
-#EXTINF:-1,bojack horseman 1x04 Tra Zoe e Zelda
-http://tornado-ultra.noip.me:8000/movie/Ciro/Ciro/9093.mkv
-#EXTINF:-1,bojack horseman 1x05 Corri Diane Nguyne corri
-http://tornado-ultra.noip.me:8000/movie/Ciro/Ciro/9094.mkv
-#EXTINF:-1,bojack horseman 1x06 La lettera D
-http://tornado-ultra.noip.me:8000/movie/Ciro/Ciro/9095.mkv
-#EXTINF:-1,bojack horseman 1x07 Di qualcosa
-http://tornado-ultra.noip.me:8000/movie/Ciro/Ciro/9096.mkv
-#EXTINF:-1,bojack horseman 1x08 Il telescopio
-http://tornado-ultra.noip.me:8000/movie/Ciro/Ciro/9097.mkv
-#EXTINF:-1,bojack horseman 1x09 A caval donato non si guarda in bocca
-http://tornado-ultra.noip.me:8000/movie/Ciro/Ciro/9098.mkv
-#EXTINF:-1,bojack horseman 1x10 Un mezzo cavallo
-http://tornado-ultra.noip.me:8000/movie/Ciro/Ciro/9099.mkv
-#EXTINF:-1,bojack horseman 1x11 Finale deprimente
-http://tornado-ultra.noip.me:8000/movie/Ciro/Ciro/9100.mkv
-#EXTINF:-1,bojack horseman 1x12 Piu avanti
-http://tornado-ultra.noip.me:8000/movie/Ciro/Ciro/9101.mkv
-#EXTINF:-1,bojack horseman 2x01 Il divano nuovo
-http://tornado-ultra.noip.me:8000/movie/Ciro/Ciro/9102.mkv
-#EXTINF:-1,bojack horseman 2x02 Yesterdayland
-http://tornado-ultra.noip.me:8000/movie/Ciro/Ciro/9103.mkv
-#EXTINF:-1,bojack horseman 2x03 Ancora rotto
-http://tornado-ultra.noip.me:8000/movie/Ciro/Ciro/9104.mkv
-#EXTINF:-1,bojack horseman 2x04 Dopo la festa
-http://tornado-ultra.noip.me:8000/movie/Ciro/Ciro/9105.mkv
-#EXTINF:-1,bojack horseman 2x05 Galline
-http://tornado-ultra.noip.me:8000/movie/Ciro/Ciro/9106.mkv
-#EXTINF:-1,bojack horseman 2x06 Il lato oscuro di Hank
-http://tornado-ultra.noip.me:8000/movie/Ciro/Ciro/9107.mkv
-#EXTINF:-1,bojack horseman 2x07 Vero amore
-http://tornado-ultra.noip.me:8000/movie/Ciro/Ciro/9108.mkv
-#EXTINF:-1,bojack horseman 2x08 Scopriamolo
-http://tornado-ultra.noip.me:8000/movie/Ciro/Ciro/9109.mkv
-#EXTINF:-1,bojack horseman 2x09 La ripresa
-http://tornado-ultra.noip.me:8000/movie/Ciro/Ciro/9110.mkv
-#EXTINF:-1,bojack horseman 2x10 Si e...
-http://tornado-ultra.noip.me:8000/movie/Ciro/Ciro/9111.mkv
-#EXTINF:-1,bojack horseman 2x11 Fuga da  la
-http://tornado-ultra.noip.me:8000/movie/Ciro/Ciro/9112.mkv
-#EXTINF:-1,bojack horseman 2x12 In altro mare
-http://tornado-ultra.noip.me:8000/movie/Ciro/Ciro/9113.mkv
-#EXTINF:-1,Bloodline 1x01
-http://tornado-ultra.noip.me:8000/movie/Ciro/Ciro/9076.mkv
-#EXTINF:-1,Bloodline 1x02
-http://tornado-ultra.noip.me:8000/movie/Ciro/Ciro/9077.mkv
-#EXTINF:-1,Bloodline 1x03
-http://tornado-ultra.noip.me:8000/movie/Ciro/Ciro/9078.mkv
-#EXTINF:-1,Bloodline 1x04
-http://tornado-ultra.noip.me:8000/movie/Ciro/Ciro/9079.mkv
-#EXTINF:-1,Bloodline 1x05
-http://tornado-ultra.noip.me:8000/movie/Ciro/Ciro/9080.mkv
-#EXTINF:-1,Bloodline 1x06
-http://tornado-ultra.noip.me:8000/movie/Ciro/Ciro/9081.mkv
-#EXTINF:-1,Bloodline 1x07
-http://tornado-ultra.noip.me:8000/movie/Ciro/Ciro/9082.mkv
-#EXTINF:-1,Bloodline 1x08
-http://tornado-ultra.noip.me:8000/movie/Ciro/Ciro/9083.mkv
-#EXTINF:-1,Bloodline 1x09
-http://tornado-ultra.noip.me:8000/movie/Ciro/Ciro/9084.mkv
-#EXTINF:-1,Bloodline 1x10
-http://tornado-ultra.noip.me:8000/movie/Ciro/Ciro/9085.mkv
-#EXTINF:-1,Bloodline 1x11
-http://tornado-ultra.noip.me:8000/movie/Ciro/Ciro/9086.mkv
-#EXTINF:-1,Bloodline 1x12
-http://tornado-ultra.noip.me:8000/movie/Ciro/Ciro/9087.mkv
-#EXTINF:-1,Bloodline 1x13
-http://tornado-ultra.noip.me:8000/movie/Ciro/Ciro/9088.mkv
-#EXTINF:-1,Batter call saul 1x01 Uno
-http://tornado-ultra.noip.me:8000/movie/Ciro/Ciro/9066.mkv
-#EXTINF:-1,Batter call saul 1x02 Mijo
-http://tornado-ultra.noip.me:8000/movie/Ciro/Ciro/9067.mkv
-#EXTINF:-1,Batter call saul 1x03 Nacho
-http://tornado-ultra.noip.me:8000/movie/Ciro/Ciro/9069.mkv
-#EXTINF:-1,Batter call saul 1x04 Eroe
-http://tornado-ultra.noip.me:8000/movie/Ciro/Ciro/9068.mkv
-#EXTINF:-1,Batter call saul 1x05 Il pastorello delle alpi
-http://tornado-ultra.noip.me:8000/movie/Ciro/Ciro/9070.mkv
-#EXTINF:-1,Batter call saul 1x06 poliziotti
-http://tornado-ultra.noip.me:8000/movie/Ciro/Ciro/9071.mkv
-#EXTINF:-1,Batter call saul 1x07 Bingo
-http://tornado-ultra.noip.me:8000/movie/Ciro/Ciro/9072.mkv
-#EXTINF:-1,Batter call saul 1x08 Rico
-http://tornado-ultra.noip.me:8000/movie/Ciro/Ciro/9073.mkv
-#EXTINF:-1,Batter call saul 1x09 Pimento
-http://tornado-ultra.noip.me:8000/movie/Ciro/Ciro/9074.mkv
-#EXTINF:-1,Batter call saul 1x10 Marco
-http://tornado-ultra.noip.me:8000/movie/Ciro/Ciro/9075.mkv
-#EXTINF:-1,---- ADULTI LIVE----
-http://tornado-ultra.noip.me:8000/live/Ciro/Ciro/3672.ts
-#EXTINF:-1,HOT 1
-http://tornado-ultra.noip.me:8000/live/Ciro/Ciro/8890.ts
-#EXTINF:-1,HOT 2
-http://tornado-ultra.noip.me:8000/live/Ciro/Ciro/8891.ts
-#EXTINF:-1,HOT 3
-http://tornado-ultra.noip.me:8000/live/Ciro/Ciro/8892.ts
-#EXTINF:-1,HOT 4
-http://tornado-ultra.noip.me:8000/live/Ciro/Ciro/8893.ts
-#EXTINF:-1,HOT 5
-http://tornado-ultra.noip.me:8000/live/Ciro/Ciro/8894.ts
-#EXTINF:-1,HOT 6
-http://tornado-ultra.noip.me:8000/live/Ciro/Ciro/8895.ts
-#EXTINF:-1,HOT 7
-http://tornado-ultra.noip.me:8000/live/Ciro/Ciro/8896.ts
-#EXTINF:-1,HOT 8
-http://tornado-ultra.noip.me:8000/live/Ciro/Ciro/8897.ts
-#EXTINF:-1,HOT 9
-http://tornado-ultra.noip.me:8000/live/Ciro/Ciro/8898.ts
-#EXTINF:-1,HOT 10
-http://tornado-ultra.noip.me:8000/live/Ciro/Ciro/8899.ts
-#EXTINF:-1,HOT 11
-http://tornado-ultra.noip.me:8000/live/Ciro/Ciro/8900.ts
-#EXTINF:-1,HOT 12
-http://tornado-ultra.noip.me:8000/live/Ciro/Ciro/8901.ts
-#EXTINF:-1,Dorcel
-http://tornado-ultra.noip.me:8000/live/Ciro/Ciro/4621.ts
-#EXTINF:-1,----- ONDEMAND FILM XXX ADULTI -----
-http://tornado-ultra.noip.me:8000/live/Ciro/Ciro/3749.ts
-#EXTINF:-1,Il Camionista
-http://tornado-ultra.noip.me:8000/movie/Ciro/Ciro/8840.mkv
-#EXTINF:-1,Horny Sluts Love To Work Out
-http://tornado-ultra.noip.me:8000/movie/Ciro/Ciro/8841.mkv
-#EXTINF:-1,Fleshly Divas XXX
-http://tornado-ultra.noip.me:8000/movie/Ciro/Ciro/8842.mkv
-#EXTINF:-1,Evita Pozzi
-http://tornado-ultra.noip.me:8000/movie/Ciro/Ciro/8848.mkv
-#EXTINF:-1,Ejacula La Vampira
-http://tornado-ultra.noip.me:8000/movie/Ciro/Ciro/8843.mkv
-#EXTINF:-1,Creampied teens
-http://tornado-ultra.noip.me:8000/movie/Ciro/Ciro/8844.mkv
-#EXTINF:-1,Cazzi in culo al campeggio
-http://tornado-ultra.noip.me:8000/movie/Ciro/Ciro/8845.mkv
-#EXTINF:-1,Cavanni Pack
-http://tornado-ultra.noip.me:8000/movie/Ciro/Ciro/8846.mkv
-#EXTINF:-1,Cattivi
-http://tornado-ultra.noip.me:8000/movie/Ciro/Ciro/8847.mkv
-#EXTINF:-1,CasoIncest
-http://tornado-ultra.noip.me:8000/movie/Ciro/Ciro/8837.mkv
-#EXTINF:-1,Batman vs Superman
-http://tornado-ultra.noip.me:8000/movie/Ciro/Ciro/8836.mkv
-#EXTINF:-1,Apprendiste Infermiere
-http://tornado-ultra.noip.me:8000/movie/Ciro/Ciro/8839.mkv
-#EXTINF:-1,----- CANALI TEDESCHI LIVE -----
-http://tornado-ultra.noip.me:8000/live/Ciro/Ciro/4114.ts
+http://luckyiptv.ddns.net:23000/live/Gavino/Gavino/2447.ts
+#EXTINF:-1,Premium Calcio 7 HD
+http://luckyiptv.ddns.net:23000/live/Gavino/Gavino/13122.ts
+#EXTINF:-1,Premium Disney +1
+http://luckyiptv.ddns.net:23000/live/Gavino/Gavino/2458.ts
+#EXTINF:-1,Premium Disney Junior
+http://luckyiptv.ddns.net:23000/live/Gavino/Gavino/3645.ts
+#EXTINF:-1,Premium Disney Channel
+http://luckyiptv.ddns.net:23000/live/Gavino/Gavino/2457.ts
+#EXTINF:-1,Premium Carton Network
+http://luckyiptv.ddns.net:23000/live/Gavino/Gavino/2449.ts
+#EXTINF:-1,Videolina
+http://luckyiptv.ddns.net:23000/live/Gavino/Gavino/9286.ts
+#EXTINF:-1,TV luna
+http://luckyiptv.ddns.net:23000/live/Gavino/Gavino/9289.ts
+#EXTINF:-1,Telemia
+http://luckyiptv.ddns.net:23000/live/Gavino/Gavino/9284.ts
+#EXTINF:-1,Sardegna 1
+http://luckyiptv.ddns.net:23000/live/Gavino/Gavino/9285.ts
+#EXTINF:-1,R3
+http://luckyiptv.ddns.net:23000/live/Gavino/Gavino/9283.ts
+#EXTINF:-1,Italia 7 gold
+http://luckyiptv.ddns.net:23000/live/Gavino/Gavino/9280.ts
+#EXTINF:-1,Clb classic Italia
+http://luckyiptv.ddns.net:23000/live/Gavino/Gavino/9282.ts
+#EXTINF:-1,Canale 8
+http://luckyiptv.ddns.net:23000/live/Gavino/Gavino/9288.ts
+#EXTINF:-1,Canale 21
+http://luckyiptv.ddns.net:23000/live/Gavino/Gavino/9287.ts
+#EXTINF:-1,UK: Vevo 3
+http://luckyiptv.ddns.net:23000/live/Gavino/Gavino/12545.ts
+#EXTINF:-1,UK: Vevo 2
+http://luckyiptv.ddns.net:23000/live/Gavino/Gavino/12546.ts
+#EXTINF:-1,UK: Vevo 1
+http://luckyiptv.ddns.net:23000/live/Gavino/Gavino/12547.ts
+#EXTINF:-1,UK: Sky Sports News HD
+http://luckyiptv.ddns.net:23000/live/Gavino/Gavino/12548.ts
+#EXTINF:-1,UK: Sky Sports F1 HD
+http://luckyiptv.ddns.net:23000/live/Gavino/Gavino/12549.ts
+#EXTINF:-1,UK: Sky Sports 5 HD
+http://luckyiptv.ddns.net:23000/live/Gavino/Gavino/12550.ts
+#EXTINF:-1,UK: Sky Sports 4 HD
+http://luckyiptv.ddns.net:23000/live/Gavino/Gavino/12551.ts
+#EXTINF:-1,UK: Sky Sports 3 HD
+http://luckyiptv.ddns.net:23000/live/Gavino/Gavino/12552.ts
+#EXTINF:-1,UK: Sky Sports 2 HD
+http://luckyiptv.ddns.net:23000/live/Gavino/Gavino/12553.ts
+#EXTINF:-1,UK: Sky Sports 1 HD
+http://luckyiptv.ddns.net:23000/live/Gavino/Gavino/12554.ts
+#EXTINF:-1,UK: Sky One HD
+http://luckyiptv.ddns.net:23000/live/Gavino/Gavino/12555.ts
+#EXTINF:-1,UK: Sky Movies Thriller HD
+http://luckyiptv.ddns.net:23000/live/Gavino/Gavino/12556.ts
+#EXTINF:-1,UK: Sky Movies Select HD
+http://luckyiptv.ddns.net:23000/live/Gavino/Gavino/12557.ts
+#EXTINF:-1,UK: Sky Movies Premiere HD
+http://luckyiptv.ddns.net:23000/live/Gavino/Gavino/12558.ts
+#EXTINF:-1,UK: Sky Atlantic HD
+http://luckyiptv.ddns.net:23000/live/Gavino/Gavino/12559.ts
+#EXTINF:-1,UK: Setanta Ireland
+http://luckyiptv.ddns.net:23000/live/Gavino/Gavino/12560.ts
+#EXTINF:-1,UK: RTE 2 HD
+http://luckyiptv.ddns.net:23000/live/Gavino/Gavino/12561.ts
+#EXTINF:-1,UK: RTE 1 HD
+http://luckyiptv.ddns.net:23000/live/Gavino/Gavino/12562.ts
+#EXTINF:-1,UK: Racing UK
+http://luckyiptv.ddns.net:23000/live/Gavino/Gavino/12563.ts
+#EXTINF:-1,UK: Movies 4 Men
+http://luckyiptv.ddns.net:23000/live/Gavino/Gavino/12564.ts
+#EXTINF:-1,UK: Living UK
+http://luckyiptv.ddns.net:23000/live/Gavino/Gavino/12565.ts
+#EXTINF:-1,UK: Liverpool FC
+http://luckyiptv.ddns.net:23000/live/Gavino/Gavino/12566.ts
+#EXTINF:-1,UK: ITV 4 HD
+http://luckyiptv.ddns.net:23000/live/Gavino/Gavino/12567.ts
+#EXTINF:-1,UK: ITV 3 HD
+http://luckyiptv.ddns.net:23000/live/Gavino/Gavino/12568.ts
+#EXTINF:-1,UK: ITV 2 HD
+http://luckyiptv.ddns.net:23000/live/Gavino/Gavino/12569.ts
+#EXTINF:-1,UK: ITV 1 HD
+http://luckyiptv.ddns.net:23000/live/Gavino/Gavino/12570.ts
+#EXTINF:-1,UK: Gold
+http://luckyiptv.ddns.net:23000/live/Gavino/Gavino/12571.ts
+#EXTINF:-1,UK: Eurosport 2 HD
+http://luckyiptv.ddns.net:23000/live/Gavino/Gavino/12572.ts
+#EXTINF:-1,UK: Eurosport 1 HD
+http://luckyiptv.ddns.net:23000/live/Gavino/Gavino/12573.ts
+#EXTINF:-1,UK: ESPN HD
+http://luckyiptv.ddns.net:23000/live/Gavino/Gavino/12574.ts
+#EXTINF:-1,UK: Dmax
+http://luckyiptv.ddns.net:23000/live/Gavino/Gavino/12575.ts
+#EXTINF:-1,UK: Disney Channel
+http://luckyiptv.ddns.net:23000/live/Gavino/Gavino/12576.ts
+#EXTINF:-1,UK: Discovery
+http://luckyiptv.ddns.net:23000/live/Gavino/Gavino/12577.ts
+#EXTINF:-1,UK: Dave
+http://luckyiptv.ddns.net:23000/live/Gavino/Gavino/12578.ts
+#EXTINF:-1,UK: Colors
+http://luckyiptv.ddns.net:23000/live/Gavino/Gavino/12579.ts
+#EXTINF:-1,UK: ClubLand
+http://luckyiptv.ddns.net:23000/live/Gavino/Gavino/12580.ts
+#EXTINF:-1,UK: Chelsea FC
+http://luckyiptv.ddns.net:23000/live/Gavino/Gavino/12581.ts
+#EXTINF:-1,UK: BT Sports 2 HD
+http://luckyiptv.ddns.net:23000/live/Gavino/Gavino/12582.ts
+#EXTINF:-1,UK: BT Sports 1 HD
+http://luckyiptv.ddns.net:23000/live/Gavino/Gavino/12583.ts
+#EXTINF:-1,UK: BBC 4 HD
+http://luckyiptv.ddns.net:23000/live/Gavino/Gavino/12584.ts
+#EXTINF:-1,UK: BBC 3 HD
+http://luckyiptv.ddns.net:23000/live/Gavino/Gavino/12585.ts
+#EXTINF:-1,UK: BBC 2 HD
+http://luckyiptv.ddns.net:23000/live/Gavino/Gavino/12586.ts
+#EXTINF:-1,UK: BBC 1 HD
+http://luckyiptv.ddns.net:23000/live/Gavino/Gavino/12587.ts
+#EXTINF:-1,UK: At The Races UK
+http://luckyiptv.ddns.net:23000/live/Gavino/Gavino/12588.ts
+#EXTINF:-1,--------- GERMANIA ---------
+http://luckyiptv.ddns.net:23000/live/Gavino/Gavino/1151.ts
+#EXTINF:-1,DE: ARD HD
+http://luckyiptv.ddns.net:23000/live/Gavino/Gavino/5013.ts
+#EXTINF:-1,DE: ZDF HD
+http://luckyiptv.ddns.net:23000/live/Gavino/Gavino/3040.ts
+#EXTINF:-1,DE: RTL
+http://luckyiptv.ddns.net:23000/live/Gavino/Gavino/3054.ts
+#EXTINF:-1,DE: RTL 2
+http://luckyiptv.ddns.net:23000/live/Gavino/Gavino/3055.ts
+#EXTINF:-1,DE: Super RTL
+http://luckyiptv.ddns.net:23000/live/Gavino/Gavino/3057.ts
+#EXTINF:-1,DE:Rtl Crime
+http://luckyiptv.ddns.net:23000/live/Gavino/Gavino/11079.ts
+#EXTINF:-1,DE: RTL NITRO
+http://luckyiptv.ddns.net:23000/live/Gavino/Gavino/3056.ts
+#EXTINF:-1,DE: Sixx HD
+http://luckyiptv.ddns.net:23000/live/Gavino/Gavino/3498.ts
+#EXTINF:-1,DE: Pro7
+http://luckyiptv.ddns.net:23000/live/Gavino/Gavino/3058.ts
+#EXTINF:-1,DE:KABEL 1
+http://luckyiptv.ddns.net:23000/live/Gavino/Gavino/12016.ts
+#EXTINF:-1,DE:FOX
+http://luckyiptv.ddns.net:23000/live/Gavino/Gavino/11063.ts
+#EXTINF:-1,DE: VOX
+http://luckyiptv.ddns.net:23000/live/Gavino/Gavino/3063.ts
+#EXTINF:-1,DE: Sat 1
+http://luckyiptv.ddns.net:23000/live/Gavino/Gavino/6136.ts
+#EXTINF:-1,DE:Heima Kanal
+http://luckyiptv.ddns.net:23000/live/Gavino/Gavino/11077.ts
+#EXTINF:-1,DE: 3SAT HD
+http://luckyiptv.ddns.net:23000/live/Gavino/Gavino/3505.ts
+#EXTINF:-1,DE: Ndr HD
+http://luckyiptv.ddns.net:23000/live/Gavino/Gavino/3493.ts
+#EXTINF:-1,DE: DMAX
+http://luckyiptv.ddns.net:23000/live/Gavino/Gavino/3060.ts
+#EXTINF:-1,DE: SRF 1
+http://luckyiptv.ddns.net:23000/live/Gavino/Gavino/3052.ts
+#EXTINF:-1,DE:Extreame Sports
+http://luckyiptv.ddns.net:23000/live/Gavino/Gavino/11059.ts
+#EXTINF:-1,DE:Nat Geographic
+http://luckyiptv.ddns.net:23000/live/Gavino/Gavino/11078.ts
+#EXTINF:-1,DE:Nat Geo Wild
+http://luckyiptv.ddns.net:23000/live/Gavino/Gavino/11064.ts
+#EXTINF:-1,SRF 2 HD
+http://luckyiptv.ddns.net:23000/live/Gavino/Gavino/8898.ts
+#EXTINF:-1,DE: SYFY HD
+http://luckyiptv.ddns.net:23000/live/Gavino/Gavino/4460.ts
+#EXTINF:-1,DE: ORF 1 HD
+http://luckyiptv.ddns.net:23000/live/Gavino/Gavino/3091.ts
+#EXTINF:-1,DE: ORF 2 HD
+http://luckyiptv.ddns.net:23000/live/Gavino/Gavino/3092.ts
+#EXTINF:-1,DE: MGM HD
+http://luckyiptv.ddns.net:23000/live/Gavino/Gavino/3043.ts
+#EXTINF:-1,DE: Sky Cinema
+http://luckyiptv.ddns.net:23000/live/Gavino/Gavino/11067.ts
+#EXTINF:-1,DE: Sky Cinema 1
+http://luckyiptv.ddns.net:23000/live/Gavino/Gavino/3071.ts
+#EXTINF:-1,DE: Sky Cinema  24 HD
+http://luckyiptv.ddns.net:23000/live/Gavino/Gavino/3073.ts
+#EXTINF:-1,DE: Sky Germany Action
+http://luckyiptv.ddns.net:23000/live/Gavino/Gavino/3069.ts
+#EXTINF:-1,DE: sky action HD
+http://luckyiptv.ddns.net:23000/live/Gavino/Gavino/3075.ts
+#EXTINF:-1,DE: Sky Comedy
+http://luckyiptv.ddns.net:23000/live/Gavino/Gavino/3070.ts
+#EXTINF:-1,DE: Sky Emotion
+http://luckyiptv.ddns.net:23000/live/Gavino/Gavino/3076.ts
+#EXTINF:-1,DE: Sky Junior (de )
+http://luckyiptv.ddns.net:23000/live/Gavino/Gavino/11084.ts
+#EXTINF:-1,DE: Sky Germany Hits
+http://luckyiptv.ddns.net:23000/live/Gavino/Gavino/3064.ts
+#EXTINF:-1,DE: TNT Film HD
+http://luckyiptv.ddns.net:23000/live/Gavino/Gavino/3513.ts
+#EXTINF:-1,DE: Sky Germany TNT Serie HD
+http://luckyiptv.ddns.net:23000/live/Gavino/Gavino/3065.ts
+#EXTINF:-1,DE: Sky Germany TNT Film HD
+http://luckyiptv.ddns.net:23000/live/Gavino/Gavino/3066.ts
+#EXTINF:-1,DE: Sky Germany AXN HD
+http://luckyiptv.ddns.net:23000/live/Gavino/Gavino/3067.ts
+#EXTINF:-1,DE: SKY ATLANTIC
+http://luckyiptv.ddns.net:23000/live/Gavino/Gavino/3074.ts
+#EXTINF:-1,DE: Sky Krimi
+http://luckyiptv.ddns.net:23000/live/Gavino/Gavino/3044.ts
+#EXTINF:-1,DE:NickJr
+http://luckyiptv.ddns.net:23000/live/Gavino/Gavino/11060.ts
+#EXTINF:-1,Sky DE: CArtoon network
+http://luckyiptv.ddns.net:23000/live/Gavino/Gavino/7207.ts
+#EXTINF:-1,DE:Disney XD
+http://luckyiptv.ddns.net:23000/live/Gavino/Gavino/11062.ts
+#EXTINF:-1,DE:Discovery
+http://luckyiptv.ddns.net:23000/live/Gavino/Gavino/11061.ts
+#EXTINF:-1,DE: NatGeo Wild
+http://luckyiptv.ddns.net:23000/live/Gavino/Gavino/3042.ts
+#EXTINF:-1,DE: National Geo HD
+http://luckyiptv.ddns.net:23000/live/Gavino/Gavino/3093.ts
+#EXTINF:-1,DE: Discovery Channel
+http://luckyiptv.ddns.net:23000/live/Gavino/Gavino/3062.ts
+#EXTINF:-1,DE: SKY SELECT 1 HD
+http://luckyiptv.ddns.net:23000/live/Gavino/Gavino/12903.ts
+#EXTINF:-1,DE: SKY SELECT 2 HD
+http://luckyiptv.ddns.net:23000/live/Gavino/Gavino/12904.ts
+#EXTINF:-1,DE: SKY SELECT 3 HD
+http://luckyiptv.ddns.net:23000/live/Gavino/Gavino/12905.ts
+#EXTINF:-1,DE: SKY SELECT 4 HD
+http://luckyiptv.ddns.net:23000/live/Gavino/Gavino/12906.ts
+#EXTINF:-1,DE: SKY SELECT 5 HD
+http://luckyiptv.ddns.net:23000/live/Gavino/Gavino/12907.ts
+#EXTINF:-1,DE: SKY SELECT 6 HD
+http://luckyiptv.ddns.net:23000/live/Gavino/Gavino/12908.ts
+#EXTINF:-1,DE: SKY SELECT 7 HD
+http://luckyiptv.ddns.net:23000/live/Gavino/Gavino/12909.ts
+#EXTINF:-1,DE: SKY SELECT 8 HD
+http://luckyiptv.ddns.net:23000/live/Gavino/Gavino/12910.ts
+#EXTINF:-1,DE: EUROSPORT
+http://luckyiptv.ddns.net:23000/live/Gavino/Gavino/3500.ts
 #EXTINF:-1,DE:Sky Sport 1
-http://tornado-ultra.noip.me:8000/live/Ciro/Ciro/8451.ts
-#EXTINF:-1,DE:Sky Sport 2
-http://tornado-ultra.noip.me:8000/live/Ciro/Ciro/8450.ts
-#EXTINF:-1,DE:Sky Sport Austria
-http://tornado-ultra.noip.me:8000/live/Ciro/Ciro/8449.ts
+http://luckyiptv.ddns.net:23000/live/Gavino/Gavino/11072.ts
+#EXTINF:-1,DE: Sky Germany Bundesliga 1 HD
+http://luckyiptv.ddns.net:23000/live/Gavino/Gavino/3088.ts
+#EXTINF:-1,Sky Bundesliga HD 1
+http://luckyiptv.ddns.net:23000/live/Gavino/Gavino/8770.ts
+#EXTINF:-1,Sky Bundesliga HD 2
+http://luckyiptv.ddns.net:23000/live/Gavino/Gavino/8768.ts
+#EXTINF:-1,Sky Bundesliga HD 3
+http://luckyiptv.ddns.net:23000/live/Gavino/Gavino/8767.ts
+#EXTINF:-1,Sky Bundesliga HD 4
+http://luckyiptv.ddns.net:23000/live/Gavino/Gavino/8766.ts
+#EXTINF:-1,Sky Bundesliga HD 5
+http://luckyiptv.ddns.net:23000/live/Gavino/Gavino/8765.ts
+#EXTINF:-1,Sky Bundesliga HD 6
+http://luckyiptv.ddns.net:23000/live/Gavino/Gavino/8764.ts
+#EXTINF:-1,Sky Bundesliga HD 7
+http://luckyiptv.ddns.net:23000/live/Gavino/Gavino/8763.ts
+#EXTINF:-1,Sky Bundesliga HD 8
+http://luckyiptv.ddns.net:23000/live/Gavino/Gavino/8762.ts
+#EXTINF:-1,Sky Bundesliga HD 9
+http://luckyiptv.ddns.net:23000/live/Gavino/Gavino/8761.ts
+#EXTINF:-1,Sky Bundesliga HD 10
+http://luckyiptv.ddns.net:23000/live/Gavino/Gavino/8769.ts
+#EXTINF:-1,Sky Germany Sport 2 HD
+http://luckyiptv.ddns.net:23000/live/Gavino/Gavino/8778.ts
+#EXTINF:-1,Sky Germany Sport 3 HD
+http://luckyiptv.ddns.net:23000/live/Gavino/Gavino/8777.ts
+#EXTINF:-1,Sky Germany Sport 4 HD
+http://luckyiptv.ddns.net:23000/live/Gavino/Gavino/8776.ts
+#EXTINF:-1,Sky Germany Sport 5 HD
+http://luckyiptv.ddns.net:23000/live/Gavino/Gavino/8775.ts
+#EXTINF:-1,Sky Germany Sport 6 HD
+http://luckyiptv.ddns.net:23000/live/Gavino/Gavino/8774.ts
+#EXTINF:-1,Sky Germany Sport 7 HD
+http://luckyiptv.ddns.net:23000/live/Gavino/Gavino/8773.ts
+#EXTINF:-1,Sky Germany Sport 8 HD
+http://luckyiptv.ddns.net:23000/live/Gavino/Gavino/8772.ts
+#EXTINF:-1,Sky Germany Sport 9 HD
+http://luckyiptv.ddns.net:23000/live/Gavino/Gavino/8771.ts
+#EXTINF:-1,Sky Germany Sport 10 HD
+http://luckyiptv.ddns.net:23000/live/Gavino/Gavino/8780.ts
+#EXTINF:-1,Sky Germany Sport 11 HD
+http://luckyiptv.ddns.net:23000/live/Gavino/Gavino/8779.ts
+#EXTINF:-1,DE: Sky Sports 1 HD
+http://luckyiptv.ddns.net:23000/live/Gavino/Gavino/3089.ts
+#EXTINF:-1,DE: Sky Sports 2 HD
+http://luckyiptv.ddns.net:23000/live/Gavino/Gavino/3090.ts
 #EXTINF:-1,Teleclub Sport 1
-http://tornado-ultra.noip.me:8000/live/Ciro/Ciro/4669.ts
+http://luckyiptv.ddns.net:23000/live/Gavino/Gavino/7440.ts
 #EXTINF:-1,Teleclub Sport 2
-http://tornado-ultra.noip.me:8000/live/Ciro/Ciro/4668.ts
+http://luckyiptv.ddns.net:23000/live/Gavino/Gavino/7441.ts
 #EXTINF:-1,Teleclub Sport 3
-http://tornado-ultra.noip.me:8000/live/Ciro/Ciro/4667.ts
-#EXTINF:-1,ExtreamSports DE
-http://tornado-ultra.noip.me:8000/live/Ciro/Ciro/4603.ts
-#EXTINF:-1,DE:Eurosport HD
-http://tornado-ultra.noip.me:8000/live/Ciro/Ciro/8565.ts
-#EXTINF:-1,DE:Sky Cinema
-http://tornado-ultra.noip.me:8000/live/Ciro/Ciro/8465.ts
-#EXTINF:-1,DE:SKY Cinema 1
-http://tornado-ultra.noip.me:8000/live/Ciro/Ciro/8466.ts
-#EXTINF:-1,DE:Sky Cinema 24
-http://tornado-ultra.noip.me:8000/live/Ciro/Ciro/8467.ts
-#EXTINF:-1,DE:SKY Cinema Emotion
-http://tornado-ultra.noip.me:8000/live/Ciro/Ciro/8464.ts
-#EXTINF:-1,Teleclub cinema
-http://tornado-ultra.noip.me:8000/live/Ciro/Ciro/4566.ts
-#EXTINF:-1,Teleclub crime
-http://tornado-ultra.noip.me:8000/live/Ciro/Ciro/4567.ts
-#EXTINF:-1,Teleclub star
-http://tornado-ultra.noip.me:8000/live/Ciro/Ciro/4568.ts
-#EXTINF:-1,DE:Sky Comedy
-http://tornado-ultra.noip.me:8000/live/Ciro/Ciro/8463.ts
-#EXTINF:-1,DE:Sky TNT Serie
-http://tornado-ultra.noip.me:8000/live/Ciro/Ciro/8448.ts
-#EXTINF:-1,DE:Sky Natgeo Wild
-http://tornado-ultra.noip.me:8000/live/Ciro/Ciro/8454.ts
-#EXTINF:-1,DE:SKY NatGeo
-http://tornado-ultra.noip.me:8000/live/Ciro/Ciro/8455.ts
-#EXTINF:-1,DE:Sky Sci-Fi
-http://tornado-ultra.noip.me:8000/live/Ciro/Ciro/8452.ts
-#EXTINF:-1,DE:SKY Nostalgie
-http://tornado-ultra.noip.me:8000/live/Ciro/Ciro/8453.ts
-#EXTINF:-1,DE:Sky Krimi
-http://tornado-ultra.noip.me:8000/live/Ciro/Ciro/8456.ts
-#EXTINF:-1,DE:SKY Junior
-http://tornado-ultra.noip.me:8000/live/Ciro/Ciro/8457.ts
-#EXTINF:-1,DE:Sky Disney XD
-http://tornado-ultra.noip.me:8000/live/Ciro/Ciro/8461.ts
-#EXTINF:-1,DE:Nick Jr
-http://tornado-ultra.noip.me:8000/live/Ciro/Ciro/8472.ts
-#EXTINF:-1,DE:Disney Channel
-http://tornado-ultra.noip.me:8000/live/Ciro/Ciro/8568.ts
-#EXTINF:-1,DE:Sky Hits
-http://tornado-ultra.noip.me:8000/live/Ciro/Ciro/8458.ts
-#EXTINF:-1,DE:Sky Heimakanal
-http://tornado-ultra.noip.me:8000/live/Ciro/Ciro/8459.ts
-#EXTINF:-1,DE:Sky Fox
-http://tornado-ultra.noip.me:8000/live/Ciro/Ciro/8460.ts
-#EXTINF:-1,DE:Sky Discovery
-http://tornado-ultra.noip.me:8000/live/Ciro/Ciro/8462.ts
-#EXTINF:-1,DE:Sky Atlantic
-http://tornado-ultra.noip.me:8000/live/Ciro/Ciro/8468.ts
-#EXTINF:-1,DE:Sky Action
-http://tornado-ultra.noip.me:8000/live/Ciro/Ciro/8469.ts
-#EXTINF:-1,DE:RTL Passion
-http://tornado-ultra.noip.me:8000/live/Ciro/Ciro/8470.ts
-#EXTINF:-1,DE:RTL Crime
-http://tornado-ultra.noip.me:8000/live/Ciro/Ciro/8471.ts
-#EXTINF:-1,DE:MGM
-http://tornado-ultra.noip.me:8000/live/Ciro/Ciro/8473.ts
-#EXTINF:-1,DE:Arte HD
-http://tornado-ultra.noip.me:8000/live/Ciro/Ciro/5208.ts
-#EXTINF:-1,DE:Animal Plan
-http://tornado-ultra.noip.me:8000/live/Ciro/Ciro/8474.ts
-#EXTINF:-1,DE: Sky Planet HD
-http://tornado-ultra.noip.me:8000/live/Ciro/Ciro/4607.ts
-#EXTINF:-1,DE: FOX HD
-http://tornado-ultra.noip.me:8000/live/Ciro/Ciro/4601.ts
-#EXTINF:-1,DE:Zdf HD
-http://tornado-ultra.noip.me:8000/live/Ciro/Ciro/8526.ts
-#EXTINF:-1,DE:WDR HD
-http://tornado-ultra.noip.me:8000/live/Ciro/Ciro/8527.ts
-#EXTINF:-1,DE:Vox
-http://tornado-ultra.noip.me:8000/live/Ciro/Ciro/8528.ts
-#EXTINF:-1,DE:Universal Channel HD
-http://tornado-ultra.noip.me:8000/live/Ciro/Ciro/8529.ts
-#EXTINF:-1,DE:TNT Film HD
-http://tornado-ultra.noip.me:8000/live/Ciro/Ciro/8530.ts
-#EXTINF:-1,DE:SYFY HD
-http://tornado-ultra.noip.me:8000/live/Ciro/Ciro/8531.ts
-#EXTINF:-1,DE:Sky Action HD
-http://tornado-ultra.noip.me:8000/live/Ciro/Ciro/8542.ts
-#EXTINF:-1,DE:Sixx
-http://tornado-ultra.noip.me:8000/live/Ciro/Ciro/8553.ts
-#EXTINF:-1,DE:Sat 1
-http://tornado-ultra.noip.me:8000/live/Ciro/Ciro/8554.ts
-#EXTINF:-1,DE:RTL Nitro
-http://tornado-ultra.noip.me:8000/live/Ciro/Ciro/8555.ts
-#EXTINF:-1,DE:RTL 2
-http://tornado-ultra.noip.me:8000/live/Ciro/Ciro/8556.ts
-#EXTINF:-1,DE:RTL
-http://tornado-ultra.noip.me:8000/live/Ciro/Ciro/8557.ts
-#EXTINF:-1,DE:Pro 7 HD
-http://tornado-ultra.noip.me:8000/live/Ciro/Ciro/8558.ts
-#EXTINF:-1,DE:N-TV
-http://tornado-ultra.noip.me:8000/live/Ciro/Ciro/8560.ts
-#EXTINF:-1,DE:MGM HD
-http://tornado-ultra.noip.me:8000/live/Ciro/Ciro/8561.ts
-#EXTINF:-1,DE:M6 HD
-http://tornado-ultra.noip.me:8000/live/Ciro/Ciro/8562.ts
-#EXTINF:-1,DE:Kabel 1
-http://tornado-ultra.noip.me:8000/live/Ciro/Ciro/8563.ts
-#EXTINF:-1,DE:History  HD
-http://tornado-ultra.noip.me:8000/live/Ciro/Ciro/8564.ts
-#EXTINF:-1,DE:Discovery Channel HD
-http://tornado-ultra.noip.me:8000/live/Ciro/Ciro/8569.ts
-#EXTINF:-1,DE:Axn HD
-http://tornado-ultra.noip.me:8000/live/Ciro/Ciro/8571.ts
-#EXTINF:-1,DE:Ard
-http://tornado-ultra.noip.me:8000/live/Ciro/Ciro/8572.ts
-#EXTINF:-1,DE:A&E
-http://tornado-ultra.noip.me:8000/live/Ciro/Ciro/8573.ts
-#EXTINF:-1,DE:7 Maxx
-http://tornado-ultra.noip.me:8000/live/Ciro/Ciro/8574.ts
-#EXTINF:-1,DE:3 Sat HD
-http://tornado-ultra.noip.me:8000/live/Ciro/Ciro/8575.ts
-#EXTINF:-1,DE:Sky Select 1
-http://tornado-ultra.noip.me:8000/live/Ciro/Ciro/8541.ts
-#EXTINF:-1,DE:Sky Select 2
-http://tornado-ultra.noip.me:8000/live/Ciro/Ciro/8540.ts
-#EXTINF:-1,DE:Sky Select 3
-http://tornado-ultra.noip.me:8000/live/Ciro/Ciro/8539.ts
-#EXTINF:-1,DE:Sky Select 4
-http://tornado-ultra.noip.me:8000/live/Ciro/Ciro/8538.ts
-#EXTINF:-1,DE:Sky Select 5
-http://tornado-ultra.noip.me:8000/live/Ciro/Ciro/8537.ts
-#EXTINF:-1,DE:Sky Select 6
-http://tornado-ultra.noip.me:8000/live/Ciro/Ciro/8536.ts
-#EXTINF:-1,DE:Sky Select 7
-http://tornado-ultra.noip.me:8000/live/Ciro/Ciro/8535.ts
-#EXTINF:-1,DE:Sky Select 8
-http://tornado-ultra.noip.me:8000/live/Ciro/Ciro/8534.ts
-#EXTINF:-1,DE:Sky Bundesliga 1 HD
-http://tornado-ultra.noip.me:8000/live/Ciro/Ciro/8552.ts
-#EXTINF:-1,DE:Sky Bundesliga 2 HD
-http://tornado-ultra.noip.me:8000/live/Ciro/Ciro/8550.ts
-#EXTINF:-1,DE:Sky Bundesliga 3 HD
-http://tornado-ultra.noip.me:8000/live/Ciro/Ciro/8549.ts
-#EXTINF:-1,DE:Sky Bundesliga 4 HD
-http://tornado-ultra.noip.me:8000/live/Ciro/Ciro/8548.ts
-#EXTINF:-1,DE:Sky Bundesliga 5 HD
-http://tornado-ultra.noip.me:8000/live/Ciro/Ciro/8547.ts
-#EXTINF:-1,DE:Sky Bundesliga 6 HD
-http://tornado-ultra.noip.me:8000/live/Ciro/Ciro/8546.ts
-#EXTINF:-1,DE:Sky Bundesliga 7 HD
-http://tornado-ultra.noip.me:8000/live/Ciro/Ciro/8545.ts
-#EXTINF:-1,DE:Sky Bundesliga 8 HD
-http://tornado-ultra.noip.me:8000/live/Ciro/Ciro/8544.ts
-#EXTINF:-1,DE:Sky Bundesliga 9 HD
-http://tornado-ultra.noip.me:8000/live/Ciro/Ciro/8543.ts
-#EXTINF:-1,DE:Sky Bundesliga 10 HD
-http://tornado-ultra.noip.me:8000/live/Ciro/Ciro/8551.ts
-#EXTINF:-1,----- FRANCESI -----
-http://tornado-ultra.noip.me:8000/live/Ciro/Ciro/8902.ts
-#EXTINF:-1,FR TMC
-http://tornado-ultra.noip.me:8000/live/Ciro/Ciro/8921.ts
-#EXTINF:-1,FR TF1
-http://tornado-ultra.noip.me:8000/live/Ciro/Ciro/8903.ts
-#EXTINF:-1,FR RMC DÃ©couverte
-http://tornado-ultra.noip.me:8000/live/Ciro/Ciro/8938.ts
-#EXTINF:-1,FR PLANETE CI
-http://tornado-ultra.noip.me:8000/live/Ciro/Ciro/8942.ts
-#EXTINF:-1,FR PLANETE
-http://tornado-ultra.noip.me:8000/live/Ciro/Ciro/8941.ts
-#EXTINF:-1,FR PIWI
-http://tornado-ultra.noip.me:8000/live/Ciro/Ciro/8927.ts
-#EXTINF:-1,FR OCS MAX
-http://tornado-ultra.noip.me:8000/live/Ciro/Ciro/8961.ts
-#EXTINF:-1,FR OCS GÃ©ants HD
-http://tornado-ultra.noip.me:8000/live/Ciro/Ciro/8960.ts
-#EXTINF:-1,FR NT1
-http://tornado-ultra.noip.me:8000/live/Ciro/Ciro/8923.ts
-#EXTINF:-1,FR NRJ 12
-http://tornado-ultra.noip.me:8000/live/Ciro/Ciro/8912.ts
-#EXTINF:-1,FR NAT GEO WILD
-http://tornado-ultra.noip.me:8000/live/Ciro/Ciro/8939.ts
-#EXTINF:-1,FR NAT GEO HD
-http://tornado-ultra.noip.me:8000/live/Ciro/Ciro/8940.ts
-#EXTINF:-1,FR MA CHAINE SPORT
-http://tornado-ultra.noip.me:8000/live/Ciro/Ciro/8984.ts
-#EXTINF:-1,FR M6
-http://tornado-ultra.noip.me:8000/live/Ciro/Ciro/8908.ts
-#EXTINF:-1,FR LCI
-http://tornado-ultra.noip.me:8000/live/Ciro/Ciro/8937.ts
-#EXTINF:-1,FR INFOSPORT
-http://tornado-ultra.noip.me:8000/live/Ciro/Ciro/8985.ts
-#EXTINF:-1,FR GULLI
-http://tornado-ultra.noip.me:8000/live/Ciro/Ciro/8928.ts
-#EXTINF:-1,FR FRANCE 5
-http://tornado-ultra.noip.me:8000/live/Ciro/Ciro/8907.ts
-#EXTINF:-1,FR FRANCE 4
-http://tornado-ultra.noip.me:8000/live/Ciro/Ciro/8906.ts
-#EXTINF:-1,FR FRANCE 3
-http://tornado-ultra.noip.me:8000/live/Ciro/Ciro/8905.ts
-#EXTINF:-1,FR France 2
-http://tornado-ultra.noip.me:8000/live/Ciro/Ciro/8904.ts
-#EXTINF:-1,FR DISNEY JUNIOR
-http://tornado-ultra.noip.me:8000/live/Ciro/Ciro/8934.ts
-#EXTINF:-1,FR DISNEY CHANNEL 1
-http://tornado-ultra.noip.me:8000/live/Ciro/Ciro/8933.ts
-#EXTINF:-1,FR DISNEY CHANNEL
-http://tornado-ultra.noip.me:8000/live/Ciro/Ciro/8932.ts
-#EXTINF:-1,FR DISCOVERY SCIENCES
-http://tornado-ultra.noip.me:8000/live/Ciro/Ciro/8946.ts
-#EXTINF:-1,FR DISCOVERY HD
-http://tornado-ultra.noip.me:8000/live/Ciro/Ciro/8945.ts
-#EXTINF:-1,FR D17
-http://tornado-ultra.noip.me:8000/live/Ciro/Ciro/8915.ts
-#EXTINF:-1,FR COMEDIE
-http://tornado-ultra.noip.me:8000/live/Ciro/Ciro/8954.ts
-#EXTINF:-1,FR CINE  FRISSON
-http://tornado-ultra.noip.me:8000/live/Ciro/Ciro/8953.ts
-#EXTINF:-1,FR CINE  Emotion
-http://tornado-ultra.noip.me:8000/live/Ciro/Ciro/8957.ts
-#EXTINF:-1,FR CINE   Premier
-http://tornado-ultra.noip.me:8000/live/Ciro/Ciro/8955.ts
-#EXTINF:-1,FR CARTOON NETWORK
-http://tornado-ultra.noip.me:8000/live/Ciro/Ciro/8926.ts
-#EXTINF:-1,FR CANAL  SPORT
-http://tornado-ultra.noip.me:8000/live/Ciro/Ciro/8978.ts
-#EXTINF:-1,FR Canal  Family
-http://tornado-ultra.noip.me:8000/live/Ciro/Ciro/8952.ts
-#EXTINF:-1,FR CANAL   SERIES
-http://tornado-ultra.noip.me:8000/live/Ciro/Ciro/8951.ts
-#EXTINF:-1,FR CANAL   CINEMA
-http://tornado-ultra.noip.me:8000/live/Ciro/Ciro/8950.ts
-#EXTINF:-1,FR CANAL
-http://tornado-ultra.noip.me:8000/live/Ciro/Ciro/8949.ts
-#EXTINF:-1,FR BOOMRANG
-http://tornado-ultra.noip.me:8000/live/Ciro/Ciro/8935.ts
-#EXTINF:-1,FR BFM TV
-http://tornado-ultra.noip.me:8000/live/Ciro/Ciro/8936.ts
-#EXTINF:-1,FR BEINSPORT 3 HD
-http://tornado-ultra.noip.me:8000/live/Ciro/Ciro/8989.ts
-#EXTINF:-1,FR BEINSPORT 2 HD
-http://tornado-ultra.noip.me:8000/live/Ciro/Ciro/8988.ts
-#EXTINF:-1,FR BEINSPORT 1 HD
-http://tornado-ultra.noip.me:8000/live/Ciro/Ciro/8987.ts
-#EXTINF:-1,FR Arte
-http://tornado-ultra.noip.me:8000/live/Ciro/Ciro/8911.ts
-#EXTINF:-1,FR ACTION
-http://tornado-ultra.noip.me:8000/live/Ciro/Ciro/8917.ts
-#EXTINF:-1,FR A la Carte 9
-http://tornado-ultra.noip.me:8000/live/Ciro/Ciro/8975.ts
-#EXTINF:-1,FR A la Carte 8
-http://tornado-ultra.noip.me:8000/live/Ciro/Ciro/8974.ts
-#EXTINF:-1,FR A la Carte 7
-http://tornado-ultra.noip.me:8000/live/Ciro/Ciro/8973.ts
-#EXTINF:-1,FR A la Carte 6
-http://tornado-ultra.noip.me:8000/live/Ciro/Ciro/8972.ts
-#EXTINF:-1,FR A la Carte 5
-http://tornado-ultra.noip.me:8000/live/Ciro/Ciro/8971.ts
-#EXTINF:-1,FR A la Carte 4
-http://tornado-ultra.noip.me:8000/live/Ciro/Ciro/8970.ts
-#EXTINF:-1,FR A la Carte 3
-http://tornado-ultra.noip.me:8000/live/Ciro/Ciro/8969.ts
-#EXTINF:-1,FR A la Carte 2
-http://tornado-ultra.noip.me:8000/live/Ciro/Ciro/8968.ts
-#EXTINF:-1,FR A la Carte 10
-http://tornado-ultra.noip.me:8000/live/Ciro/Ciro/8976.ts
-#EXTINF:-1,FR A LA CARTE 1
-http://tornado-ultra.noip.me:8000/live/Ciro/Ciro/8967.ts
-#EXTINF:-1,FR 6Ter HD
-http://tornado-ultra.noip.me:8000/live/Ciro/Ciro/8913.ts
-#EXTINF:-1,FR 13eme RUE
-http://tornado-ultra.noip.me:8000/live/Ciro/Ciro/8918.ts
-#EXTINF:-1,----- SPAGNOLI -----
-http://tornado-ultra.noip.me:8000/live/Ciro/Ciro/8995.ts
-#EXTINF:-1,SP:TVE La 2
-http://tornado-ultra.noip.me:8000/live/Ciro/Ciro/9018.ts
-#EXTINF:-1,SP:TV3 Cat
-http://tornado-ultra.noip.me:8000/live/Ciro/Ciro/9019.ts
-#EXTINF:-1,SP:SYFY
-http://tornado-ultra.noip.me:8000/live/Ciro/Ciro/9009.ts
-#EXTINF:-1,SP:PARAMOUNT
-http://tornado-ultra.noip.me:8000/live/Ciro/Ciro/9011.ts
-#EXTINF:-1,SP:ODISEA HD
-http://tornado-ultra.noip.me:8000/live/Ciro/Ciro/9021.ts
-#EXTINF:-1,SP:NEOX
-http://tornado-ultra.noip.me:8000/live/Ciro/Ciro/9012.ts
-#EXTINF:-1,SP:NAT GEO HD
-http://tornado-ultra.noip.me:8000/live/Ciro/Ciro/9008.ts
-#EXTINF:-1,SP:LA SEXTA
-http://tornado-ultra.noip.me:8000/live/Ciro/Ciro/9007.ts
-#EXTINF:-1,SP:La 2
-http://tornado-ultra.noip.me:8000/live/Ciro/Ciro/9013.ts
-#EXTINF:-1,SP:LA 1
-http://tornado-ultra.noip.me:8000/live/Ciro/Ciro/9004.ts
-#EXTINF:-1,SP:HOLLYWOOD
-http://tornado-ultra.noip.me:8000/live/Ciro/Ciro/9006.ts
-#EXTINF:-1,SP:HISTORY
-http://tornado-ultra.noip.me:8000/live/Ciro/Ciro/9022.ts
-#EXTINF:-1,SP:FOX Family
-http://tornado-ultra.noip.me:8000/live/Ciro/Ciro/9023.ts
-#EXTINF:-1,SP:FDF
-http://tornado-ultra.noip.me:8000/live/Ciro/Ciro/9005.ts
-#EXTINF:-1,SP:ESPORT 3 Cat
-http://tornado-ultra.noip.me:8000/live/Ciro/Ciro/9025.ts
-#EXTINF:-1,SP:DISNEY Channel
-http://tornado-ultra.noip.me:8000/live/Ciro/Ciro/9026.ts
-#EXTINF:-1,SP:DISCOVERYMAX
-http://tornado-ultra.noip.me:8000/live/Ciro/Ciro/9014.ts
-#EXTINF:-1,SP:CUATRO
-http://tornado-ultra.noip.me:8000/live/Ciro/Ciro/9003.ts
-#EXTINF:-1,SP:CLAN TVE
-http://tornado-ultra.noip.me:8000/live/Ciro/Ciro/9002.ts
-#EXTINF:-1,SP:CANAL  LIGA
-http://tornado-ultra.noip.me:8000/live/Ciro/Ciro/8999.ts
-#EXTINF:-1,SP:CANAL  Futbol
-http://tornado-ultra.noip.me:8000/live/Ciro/Ciro/8998.ts
-#EXTINF:-1,SP:CANAL  Estrenos
-http://tornado-ultra.noip.me:8000/live/Ciro/Ciro/9027.ts
-#EXTINF:-1,SP:CANAL  DCine
-http://tornado-ultra.noip.me:8000/live/Ciro/Ciro/9028.ts
-#EXTINF:-1,SP:CANAL  Comedia
-http://tornado-ultra.noip.me:8000/live/Ciro/Ciro/9000.ts
-#EXTINF:-1,SP:CANAL   Golf
-http://tornado-ultra.noip.me:8000/live/Ciro/Ciro/9029.ts
-#EXTINF:-1,SP:C XTRA
-http://tornado-ultra.noip.me:8000/live/Ciro/Ciro/9001.ts
-#EXTINF:-1,SP:C DEPORT 2
-http://tornado-ultra.noip.me:8000/live/Ciro/Ciro/9015.ts
-#EXTINF:-1,SP:C  DEPORTES
-http://tornado-ultra.noip.me:8000/live/Ciro/Ciro/8997.ts
-#EXTINF:-1,SP:Antiguo NICK JR
-http://tornado-ultra.noip.me:8000/live/Ciro/Ciro/9016.ts
-#EXTINF:-1,SP:ANTENA 3
-http://tornado-ultra.noip.me:8000/live/Ciro/Ciro/9017.ts
-#EXTINF:-1,SP:BARCA TV
-http://tornado-ultra.noip.me:8000/live/Ciro/Ciro/9030.ts
-#EXTINF:-1,SP:AXN HD
-http://tornado-ultra.noip.me:8000/live/Ciro/Ciro/8996.ts
-#EXTINF:-1,SP:AXN White
-http://tornado-ultra.noip.me:8000/live/Ciro/Ciro/9031.ts
+http://luckyiptv.ddns.net:23000/live/Gavino/Gavino/7442.ts
+#EXTINF:-1,DE: Disney Cinemagic
+http://luckyiptv.ddns.net:23000/live/Gavino/Gavino/3061.ts
+#EXTINF:-1,K-TV
+http://luckyiptv.ddns.net:23000/live/Gavino/Gavino/6959.ts
+#EXTINF:-1,----- AFRICA -----
+http://luckyiptv.ddns.net:23000/live/Gavino/Gavino/12461.ts
+#EXTINF:-1,AF:TPA Angola
+http://luckyiptv.ddns.net:23000/live/Gavino/Gavino/12642.ts
+#EXTINF:-1,AF: Walf TV Senegal
+http://luckyiptv.ddns.net:23000/live/Gavino/Gavino/12643.ts
+#EXTINF:-1,AF: TVC
+http://luckyiptv.ddns.net:23000/live/Gavino/Gavino/12644.ts
+#EXTINF:-1,AF: TV Somali HD
+http://luckyiptv.ddns.net:23000/live/Gavino/Gavino/12645.ts
+#EXTINF:-1,AF: TV Mana-Maputo
+http://luckyiptv.ddns.net:23000/live/Gavino/Gavino/12646.ts
+#EXTINF:-1,AF: TCV ( Nigeria )
+http://luckyiptv.ddns.net:23000/live/Gavino/Gavino/12647.ts
+#EXTINF:-1,AF: Star TV ( Somalia )
+http://luckyiptv.ddns.net:23000/live/Gavino/Gavino/12648.ts
+#EXTINF:-1,AF: Somali Cable TV
+http://luckyiptv.ddns.net:23000/live/Gavino/Gavino/12649.ts
+#EXTINF:-1,AF: Somali Broadcasting
+http://luckyiptv.ddns.net:23000/live/Gavino/Gavino/12650.ts
+#EXTINF:-1,AF: Somali Africa TV4
+http://luckyiptv.ddns.net:23000/live/Gavino/Gavino/12651.ts
+#EXTINF:-1,AF: Rave TV ( Nigeria )
+http://luckyiptv.ddns.net:23000/live/Gavino/Gavino/12652.ts
+#EXTINF:-1,AF: R2TV
+http://luckyiptv.ddns.net:23000/live/Gavino/Gavino/12653.ts
+#EXTINF:-1,AF: Mfm TV
+http://luckyiptv.ddns.net:23000/live/Gavino/Gavino/12654.ts
+#EXTINF:-1,AF: LC2 Benin
+http://luckyiptv.ddns.net:23000/live/Gavino/Gavino/12655.ts
+#EXTINF:-1,AF: Kalsan TV Somali
+http://luckyiptv.ddns.net:23000/live/Gavino/Gavino/12656.ts
+#EXTINF:-1,AF: Joy News ( Ghana )
+http://luckyiptv.ddns.net:23000/live/Gavino/Gavino/12657.ts
+#EXTINF:-1,AF: Impact TV ( Burkina Faso )
+http://luckyiptv.ddns.net:23000/live/Gavino/Gavino/12658.ts
+#EXTINF:-1,AF: Fusion Plus TV
+http://luckyiptv.ddns.net:23000/live/Gavino/Gavino/12659.ts
+#EXTINF:-1,AF: Eraf Affrica
+http://luckyiptv.ddns.net:23000/live/Gavino/Gavino/12660.ts
+#EXTINF:-1,AF: Emmanuel TV ( Nigeria )
+http://luckyiptv.ddns.net:23000/live/Gavino/Gavino/12661.ts
+#EXTINF:-1,AF: Cnbc Africa
+http://luckyiptv.ddns.net:23000/live/Gavino/Gavino/12662.ts
+#EXTINF:-1,AF: Cinema Senegal
+http://luckyiptv.ddns.net:23000/live/Gavino/Gavino/12663.ts
+#EXTINF:-1,AF: Cine24 Gambia
+http://luckyiptv.ddns.net:23000/live/Gavino/Gavino/12664.ts
+#EXTINF:-1,AF: Chosen TV ( Nigeria )
+http://luckyiptv.ddns.net:23000/live/Gavino/Gavino/12665.ts
+#EXTINF:-1,AF: Canal 2
+http://luckyiptv.ddns.net:23000/live/Gavino/Gavino/12666.ts
+#EXTINF:-1,AF: ADBN ( South Africa )
+http://luckyiptv.ddns.net:23000/live/Gavino/Gavino/12667.ts
+#EXTINF:-1,AF: Aci TV ( OM5 TV )
+http://luckyiptv.ddns.net:23000/live/Gavino/Gavino/12668.ts
+#EXTINF:-1,AF: 2STV ( Senegal )
+http://luckyiptv.ddns.net:23000/live/Gavino/Gavino/12669.ts
+#EXTINF:-1,--------- ALBANIA ---------
+http://luckyiptv.ddns.net:23000/live/Gavino/Gavino/12336.ts
+#EXTINF:-1,ALB:Zjarr TV HD
+http://luckyiptv.ddns.net:23000/live/Gavino/Gavino/13004.ts
+#EXTINF:-1,ALB:Vizion
+http://luckyiptv.ddns.net:23000/live/Gavino/Gavino/13005.ts
+#EXTINF:-1,ALB:TV Vitia
+http://luckyiptv.ddns.net:23000/live/Gavino/Gavino/13006.ts
+#EXTINF:-1,ALB:TV Tema
+http://luckyiptv.ddns.net:23000/live/Gavino/Gavino/13007.ts
+#EXTINF:-1,ALB:TV Shenja
+http://luckyiptv.ddns.net:23000/live/Gavino/Gavino/13008.ts
+#EXTINF:-1,ALB:TV Sharri HD
+http://luckyiptv.ddns.net:23000/live/Gavino/Gavino/13009.ts
+#EXTINF:-1,ALB:TV Rozafa
+http://luckyiptv.ddns.net:23000/live/Gavino/Gavino/13010.ts
+#EXTINF:-1,ALB:TV R
+http://luckyiptv.ddns.net:23000/live/Gavino/Gavino/13011.ts
+#EXTINF:-1,ALB:TV Liria (Test)
+http://luckyiptv.ddns.net:23000/live/Gavino/Gavino/13012.ts
+#EXTINF:-1,ALB:TV Kutia (test)
+http://luckyiptv.ddns.net:23000/live/Gavino/Gavino/13013.ts
+#EXTINF:-1,ALB:TV Gurra (Test)
+http://luckyiptv.ddns.net:23000/live/Gavino/Gavino/13014.ts
+#EXTINF:-1,ALB:TV CM Besa Berlin
+http://luckyiptv.ddns.net:23000/live/Gavino/Gavino/13015.ts
+#EXTINF:-1,ALB:TV 2
+http://luckyiptv.ddns.net:23000/live/Gavino/Gavino/13016.ts
+#EXTINF:-1,ALB:Turbo Channel (Test)
+http://luckyiptv.ddns.net:23000/live/Gavino/Gavino/13017.ts
+#EXTINF:-1,ALB:Tring Super
+http://luckyiptv.ddns.net:23000/live/Gavino/Gavino/13018.ts
+#EXTINF:-1,ALB:Tring Max
+http://luckyiptv.ddns.net:23000/live/Gavino/Gavino/13019.ts
+#EXTINF:-1,ALB:Tring Life
+http://luckyiptv.ddns.net:23000/live/Gavino/Gavino/13020.ts
+#EXTINF:-1,ALB:Tring 3
+http://luckyiptv.ddns.net:23000/live/Gavino/Gavino/13021.ts
+#EXTINF:-1,ALB:Tribuna TV
+http://luckyiptv.ddns.net:23000/live/Gavino/Gavino/13022.ts
+#EXTINF:-1,ALB:Top Channel HD
+http://luckyiptv.ddns.net:23000/live/Gavino/Gavino/13023.ts
+#EXTINF:-1,ALB:Tirana TV
+http://luckyiptv.ddns.net:23000/live/Gavino/Gavino/13024.ts
+#EXTINF:-1,ALB:Tip TV
+http://luckyiptv.ddns.net:23000/live/Gavino/Gavino/13025.ts
+#EXTINF:-1,ALB:T HD
+http://luckyiptv.ddns.net:23000/live/Gavino/Gavino/13026.ts
+#EXTINF:-1,ALB:SuperSonic TV HD
+http://luckyiptv.ddns.net:23000/live/Gavino/Gavino/13027.ts
+#EXTINF:-1,ALB:Star Plus
+http://luckyiptv.ddns.net:23000/live/Gavino/Gavino/13028.ts
+#EXTINF:-1,ALB:Sole TV
+http://luckyiptv.ddns.net:23000/live/Gavino/Gavino/13029.ts
+#EXTINF:-1,ALB:Smile
+http://luckyiptv.ddns.net:23000/live/Gavino/Gavino/13030.ts
+#EXTINF:-1,ALB:RTV Islam
+http://luckyiptv.ddns.net:23000/live/Gavino/Gavino/13031.ts
+#EXTINF:-1,ALB:RTV Iliria (Test)
+http://luckyiptv.ddns.net:23000/live/Gavino/Gavino/13032.ts
+#EXTINF:-1,ALB:RTV 21 Popullore HD
+http://luckyiptv.ddns.net:23000/live/Gavino/Gavino/13033.ts
+#EXTINF:-1,ALB:RTV 21 Plus HD
+http://luckyiptv.ddns.net:23000/live/Gavino/Gavino/13034.ts
+#EXTINF:-1,ALB:RTV 21 MK HD
+http://luckyiptv.ddns.net:23000/live/Gavino/Gavino/13035.ts
+#EXTINF:-1,ALB:RTV 21 Junior
+http://luckyiptv.ddns.net:23000/live/Gavino/Gavino/13036.ts
+#EXTINF:-1,ALB:RTV 21 HD
+http://luckyiptv.ddns.net:23000/live/Gavino/Gavino/13037.ts
+#EXTINF:-1,ALB:RTV 21
+http://luckyiptv.ddns.net:23000/live/Gavino/Gavino/13038.ts
+#EXTINF:-1,ALB:RTSH Sport
+http://luckyiptv.ddns.net:23000/live/Gavino/Gavino/13039.ts
+#EXTINF:-1,ALB:RTSH Muzike
+http://luckyiptv.ddns.net:23000/live/Gavino/Gavino/13040.ts
+#EXTINF:-1,ALB:RTSH HD
+http://luckyiptv.ddns.net:23000/live/Gavino/Gavino/13041.ts
+#EXTINF:-1,ALB:RTK 4 (Test)
+http://luckyiptv.ddns.net:23000/live/Gavino/Gavino/13042.ts
+#EXTINF:-1,ALB:RTK 3 (Test)
+http://luckyiptv.ddns.net:23000/live/Gavino/Gavino/13043.ts
+#EXTINF:-1,ALB:RTK 2 (Test)
+http://luckyiptv.ddns.net:23000/live/Gavino/Gavino/13044.ts
+#EXTINF:-1,ALB:RTK 1 HD
+http://luckyiptv.ddns.net:23000/live/Gavino/Gavino/13045.ts
+#EXTINF:-1,ALB:RTK 1
+http://luckyiptv.ddns.net:23000/live/Gavino/Gavino/13046.ts
+#EXTINF:-1,ALB:Radio Vati
+http://luckyiptv.ddns.net:23000/live/Gavino/Gavino/13047.ts
+#EXTINF:-1,ALB:Radio Pendimi
+http://luckyiptv.ddns.net:23000/live/Gavino/Gavino/13048.ts
+#EXTINF:-1,ALB:Radio Ora
+http://luckyiptv.ddns.net:23000/live/Gavino/Gavino/13049.ts
+#EXTINF:-1,ALB:Radio Mergimi
+http://luckyiptv.ddns.net:23000/live/Gavino/Gavino/13050.ts
+#EXTINF:-1,ALB:Radio Marimanga
+http://luckyiptv.ddns.net:23000/live/Gavino/Gavino/13051.ts
+#EXTINF:-1,ALB:Radio Kosova E Lire
+http://luckyiptv.ddns.net:23000/live/Gavino/Gavino/13052.ts
+#EXTINF:-1,ALB:Radio K4
+http://luckyiptv.ddns.net:23000/live/Gavino/Gavino/13053.ts
+#EXTINF:-1,ALB:Radio Islami ZÃƒÂ¼rich
+http://luckyiptv.ddns.net:23000/live/Gavino/Gavino/13054.ts
+#EXTINF:-1,ALB:Radio Fonana
+http://luckyiptv.ddns.net:23000/live/Gavino/Gavino/13055.ts
+#EXTINF:-1,ALB:Radio Fama Tetove
+http://luckyiptv.ddns.net:23000/live/Gavino/Gavino/13056.ts
+#EXTINF:-1,ALB:Radio Dugagjini
+http://luckyiptv.ddns.net:23000/live/Gavino/Gavino/13057.ts
+#EXTINF:-1,ALB:Radio City FM
+http://luckyiptv.ddns.net:23000/live/Gavino/Gavino/13058.ts
+#EXTINF:-1,ALB:Quran TV
+http://luckyiptv.ddns.net:23000/live/Gavino/Gavino/13059.ts
+#EXTINF:-1,ALB:MRTV2 SAT
+http://luckyiptv.ddns.net:23000/live/Gavino/Gavino/13060.ts
+#EXTINF:-1,ALB:Mekka Live
+http://luckyiptv.ddns.net:23000/live/Gavino/Gavino/13061.ts
+#EXTINF:-1,ALB:Medina Live
+http://luckyiptv.ddns.net:23000/live/Gavino/Gavino/13062.ts
+#EXTINF:-1,ALB:Klan Plus
+http://luckyiptv.ddns.net:23000/live/Gavino/Gavino/13063.ts
+#EXTINF:-1,ALB:Kino Thriller HD
+http://luckyiptv.ddns.net:23000/live/Gavino/Gavino/13064.ts
+#EXTINF:-1,ALB:Kino Sci-Fi HD
+http://luckyiptv.ddns.net:23000/live/Gavino/Gavino/13065.ts
+#EXTINF:-1,ALB:Kino Romance HD
+http://luckyiptv.ddns.net:23000/live/Gavino/Gavino/13066.ts
+#EXTINF:-1,ALB:Kino Premiere 3 HD
+http://luckyiptv.ddns.net:23000/live/Gavino/Gavino/13067.ts
+#EXTINF:-1,ALB:Kino Premiere 2 HD
+http://luckyiptv.ddns.net:23000/live/Gavino/Gavino/13068.ts
+#EXTINF:-1,ALB:Kino Premiere 1 HD
+http://luckyiptv.ddns.net:23000/live/Gavino/Gavino/13069.ts
+#EXTINF:-1,ALB:Kino Komedi HD
+http://luckyiptv.ddns.net:23000/live/Gavino/Gavino/13070.ts
+#EXTINF:-1,ALB:Kino Family HD
+http://luckyiptv.ddns.net:23000/live/Gavino/Gavino/13071.ts
+#EXTINF:-1,ALB:Kino Drama HD
+http://luckyiptv.ddns.net:23000/live/Gavino/Gavino/13072.ts
+#EXTINF:-1,ALB:Kino Dark HD
+http://luckyiptv.ddns.net:23000/live/Gavino/Gavino/13073.ts
+#EXTINF:-1,ALB:Kino Action HD
+http://luckyiptv.ddns.net:23000/live/Gavino/Gavino/13074.ts
+#EXTINF:-1,ALB:K Sport 2 (Test)
+http://luckyiptv.ddns.net:23000/live/Gavino/Gavino/13075.ts
+#EXTINF:-1,ALB:K Sport 1 (Test)
+http://luckyiptv.ddns.net:23000/live/Gavino/Gavino/13076.ts
+#EXTINF:-1,ALB:Digi Gold 3
+http://luckyiptv.ddns.net:23000/live/Gavino/Gavino/13077.ts
+#EXTINF:-1,ALB:Digi Gold 2
+http://luckyiptv.ddns.net:23000/live/Gavino/Gavino/13078.ts
+#EXTINF:-1,ALB:Digi Gold 1
+http://luckyiptv.ddns.net:23000/live/Gavino/Gavino/13079.ts
+#EXTINF:-1,ALB:Cameria TV
+http://luckyiptv.ddns.net:23000/live/Gavino/Gavino/13080.ts
+#EXTINF:-1,ALB:Ballkanika
+http://luckyiptv.ddns.net:23000/live/Gavino/Gavino/13081.ts
+#EXTINF:-1,ALB:ART Kanal
+http://luckyiptv.ddns.net:23000/live/Gavino/Gavino/13082.ts
+#EXTINF:-1,ALB:Apollon
+http://luckyiptv.ddns.net:23000/live/Gavino/Gavino/13083.ts
+#EXTINF:-1,ALB:Amol TV (test)
+http://luckyiptv.ddns.net:23000/live/Gavino/Gavino/13084.ts
+#EXTINF:-1,ALB:Alsat M HD
+http://luckyiptv.ddns.net:23000/live/Gavino/Gavino/13085.ts
+#EXTINF:-1,ALB:Alsat M
+http://luckyiptv.ddns.net:23000/live/Gavino/Gavino/13086.ts
+#EXTINF:-1,ALB:Alpo (Test)
+http://luckyiptv.ddns.net:23000/live/Gavino/Gavino/13087.ts
+#EXTINF:-1,ALB:ALB Koncert HD
+http://luckyiptv.ddns.net:23000/live/Gavino/Gavino/13088.ts
+#EXTINF:-1,ALB:ALB Humor 2
+http://luckyiptv.ddns.net:23000/live/Gavino/Gavino/13089.ts
+#EXTINF:-1,ALB:ALB Humor
+http://luckyiptv.ddns.net:23000/live/Gavino/Gavino/13090.ts
+#EXTINF:-1,ALB:ALB Folk HD
+http://luckyiptv.ddns.net:23000/live/Gavino/Gavino/13091.ts
+#EXTINF:-1,ALB:ALB Film
+http://luckyiptv.ddns.net:23000/live/Gavino/Gavino/13092.ts
+#EXTINF:-1,ALB:ALB Cifteli HD
+http://luckyiptv.ddns.net:23000/live/Gavino/Gavino/13093.ts
+#EXTINF:-1,ALB:3
+http://luckyiptv.ddns.net:23000/live/Gavino/Gavino/13094.ts
+#EXTINF:-1,ALB: Zico TV
+http://luckyiptv.ddns.net:23000/live/Gavino/Gavino/12339.ts
+#EXTINF:-1,ALB: Vizion
+http://luckyiptv.ddns.net:23000/live/Gavino/Gavino/12340.ts
+#EXTINF:-1,ALB: TVSH
+http://luckyiptv.ddns.net:23000/live/Gavino/Gavino/12341.ts
+#EXTINF:-1,ALB: TV Tetova HD
+http://luckyiptv.ddns.net:23000/live/Gavino/Gavino/12342.ts
+#EXTINF:-1,ALB: TV Sharri HD
+http://luckyiptv.ddns.net:23000/live/Gavino/Gavino/12343.ts
+#EXTINF:-1,ALB: TV R
+http://luckyiptv.ddns.net:23000/live/Gavino/Gavino/12344.ts
+#EXTINF:-1,ALB: TV Presheva (test Sinjal)
+http://luckyiptv.ddns.net:23000/live/Gavino/Gavino/12345.ts
+#EXTINF:-1,ALB: TV Opoja
+http://luckyiptv.ddns.net:23000/live/Gavino/Gavino/12346.ts
+#EXTINF:-1,ALB: TV Liret
+http://luckyiptv.ddns.net:23000/live/Gavino/Gavino/12347.ts
+#EXTINF:-1,ALB: TV Lezha
+http://luckyiptv.ddns.net:23000/live/Gavino/Gavino/12348.ts
+#EXTINF:-1,ALB: TV Kosova
+http://luckyiptv.ddns.net:23000/live/Gavino/Gavino/12349.ts
+#EXTINF:-1,ALB: TV Istogu
+http://luckyiptv.ddns.net:23000/live/Gavino/Gavino/12350.ts
+#EXTINF:-1,ALB: TV Globi Gostivar
+http://luckyiptv.ddns.net:23000/live/Gavino/Gavino/12351.ts
+#EXTINF:-1,ALB: TV Era
+http://luckyiptv.ddns.net:23000/live/Gavino/Gavino/12352.ts
+#EXTINF:-1,ALB: TV Dukagjini
+http://luckyiptv.ddns.net:23000/live/Gavino/Gavino/12353.ts
+#EXTINF:-1,ALB: TV Bujanoc (test Sinjal)
+http://luckyiptv.ddns.net:23000/live/Gavino/Gavino/12354.ts
+#EXTINF:-1,ALB: TV Aldi (test Sinjal)
+http://luckyiptv.ddns.net:23000/live/Gavino/Gavino/12355.ts
+#EXTINF:-1,ALB: Tring World
+http://luckyiptv.ddns.net:23000/live/Gavino/Gavino/12356.ts
+#EXTINF:-1,ALB: Tring Tring
+http://luckyiptv.ddns.net:23000/live/Gavino/Gavino/12357.ts
+#EXTINF:-1,ALB: Tring Super
+http://luckyiptv.ddns.net:23000/live/Gavino/Gavino/12358.ts
+#EXTINF:-1,ALB: Tring Sport News HD
+http://luckyiptv.ddns.net:23000/live/Gavino/Gavino/12359.ts
+#EXTINF:-1,ALB: Tring Sport 4 HD
+http://luckyiptv.ddns.net:23000/live/Gavino/Gavino/12450.ts
+#EXTINF:-1,ALB: Tring Sport 3 HD
+http://luckyiptv.ddns.net:23000/live/Gavino/Gavino/12449.ts
+#EXTINF:-1,ALB: Tring Sport 2 HD
+http://luckyiptv.ddns.net:23000/live/Gavino/Gavino/12448.ts
+#EXTINF:-1,ALB: Tring Sport 1 HD
+http://luckyiptv.ddns.net:23000/live/Gavino/Gavino/12447.ts
+#EXTINF:-1,ALB: Tring Shqip
+http://luckyiptv.ddns.net:23000/live/Gavino/Gavino/12360.ts
+#EXTINF:-1,ALB: Tring Planet
+http://luckyiptv.ddns.net:23000/live/Gavino/Gavino/12361.ts
+#EXTINF:-1,ALB: Tring Max
+http://luckyiptv.ddns.net:23000/live/Gavino/Gavino/12362.ts
+#EXTINF:-1,ALB: Tring History
+http://luckyiptv.ddns.net:23000/live/Gavino/Gavino/12363.ts
+#EXTINF:-1,ALB: Tring Festa
+http://luckyiptv.ddns.net:23000/live/Gavino/Gavino/12364.ts
+#EXTINF:-1,ALB: Tring Fantasy
+http://luckyiptv.ddns.net:23000/live/Gavino/Gavino/12365.ts
+#EXTINF:-1,ALB: Tring Comedy
+http://luckyiptv.ddns.net:23000/live/Gavino/Gavino/12366.ts
+#EXTINF:-1,ALB: Tring 3
+http://luckyiptv.ddns.net:23000/live/Gavino/Gavino/12367.ts
+#EXTINF:-1,ALB: Tribuna TV
+http://luckyiptv.ddns.net:23000/live/Gavino/Gavino/12368.ts
+#EXTINF:-1,ALB: Top News
+http://luckyiptv.ddns.net:23000/live/Gavino/Gavino/12369.ts
+#EXTINF:-1,ALB: Top Channel
+http://luckyiptv.ddns.net:23000/live/Gavino/Gavino/12370.ts
+#EXTINF:-1,ALB: Tirana TV
+http://luckyiptv.ddns.net:23000/live/Gavino/Gavino/12371.ts
+#EXTINF:-1,ALB: Tip TV
+http://luckyiptv.ddns.net:23000/live/Gavino/Gavino/12372.ts
+#EXTINF:-1,ALB: Tele Sport
+http://luckyiptv.ddns.net:23000/live/Gavino/Gavino/12373.ts
+#EXTINF:-1,ALB: T HD
+http://luckyiptv.ddns.net:23000/live/Gavino/Gavino/12374.ts
+#EXTINF:-1,ALB: Syri Vizion
+http://luckyiptv.ddns.net:23000/live/Gavino/Gavino/12375.ts
+#EXTINF:-1,ALB: SuperSonic TV HD
+http://luckyiptv.ddns.net:23000/live/Gavino/Gavino/12376.ts
+#EXTINF:-1,ALB: Super Sport Kosova 2 HD
+http://luckyiptv.ddns.net:23000/live/Gavino/Gavino/12452.ts
+#EXTINF:-1,ALB: Super Sport Kosova 1 HD
+http://luckyiptv.ddns.net:23000/live/Gavino/Gavino/12451.ts
+#EXTINF:-1,ALB: Super Sport 5 HD
+http://luckyiptv.ddns.net:23000/live/Gavino/Gavino/12457.ts
+#EXTINF:-1,ALB: Super Sport 4 HD
+http://luckyiptv.ddns.net:23000/live/Gavino/Gavino/12456.ts
+#EXTINF:-1,ALB: Super Sport 3 HD
+http://luckyiptv.ddns.net:23000/live/Gavino/Gavino/12455.ts
+#EXTINF:-1,ALB: Super Sport 2 HD
+http://luckyiptv.ddns.net:23000/live/Gavino/Gavino/12454.ts
+#EXTINF:-1,ALB: Super Sport 1 HD
+http://luckyiptv.ddns.net:23000/live/Gavino/Gavino/12453.ts
+#EXTINF:-1,ALB: Star Plus
+http://luckyiptv.ddns.net:23000/live/Gavino/Gavino/12377.ts
+#EXTINF:-1,ALB: Smile
+http://luckyiptv.ddns.net:23000/live/Gavino/Gavino/12378.ts
+#EXTINF:-1,ALB: RTV Islam
+http://luckyiptv.ddns.net:23000/live/Gavino/Gavino/12379.ts
+#EXTINF:-1,ALB: RTV 21 Popullore HD
+http://luckyiptv.ddns.net:23000/live/Gavino/Gavino/12380.ts
+#EXTINF:-1,ALB: RTV 21 Plus HD
+http://luckyiptv.ddns.net:23000/live/Gavino/Gavino/12381.ts
+#EXTINF:-1,ALB: RTV 21 MK HD
+http://luckyiptv.ddns.net:23000/live/Gavino/Gavino/12382.ts
+#EXTINF:-1,ALB: RTV 21 Junior
+http://luckyiptv.ddns.net:23000/live/Gavino/Gavino/12383.ts
+#EXTINF:-1,ALB: RTV 21 HD
+http://luckyiptv.ddns.net:23000/live/Gavino/Gavino/12384.ts
+#EXTINF:-1,ALB: RTK 4
+http://luckyiptv.ddns.net:23000/live/Gavino/Gavino/12389.ts
+#EXTINF:-1,ALB: RTK 3
+http://luckyiptv.ddns.net:23000/live/Gavino/Gavino/12388.ts
+#EXTINF:-1,ALB: RTK 1 Tokesor
+http://luckyiptv.ddns.net:23000/live/Gavino/Gavino/12387.ts
+#EXTINF:-1,ALB: RTK 1 HD
+http://luckyiptv.ddns.net:23000/live/Gavino/Gavino/12386.ts
+#EXTINF:-1,ALB: RTK 1
+http://luckyiptv.ddns.net:23000/live/Gavino/Gavino/12385.ts
+#EXTINF:-1,ALB: Rrokum HD
+http://luckyiptv.ddns.net:23000/live/Gavino/Gavino/12390.ts
+#EXTINF:-1,ALB: Plus HD
+http://luckyiptv.ddns.net:23000/live/Gavino/Gavino/12391.ts
+#EXTINF:-1,ALB: Peace TV
+http://luckyiptv.ddns.net:23000/live/Gavino/Gavino/12392.ts
+#EXTINF:-1,ALB: Ora News
+http://luckyiptv.ddns.net:23000/live/Gavino/Gavino/12393.ts
+#EXTINF:-1,ALB: News 24
+http://luckyiptv.ddns.net:23000/live/Gavino/Gavino/12394.ts
+#EXTINF:-1,ALB: My Music
+http://luckyiptv.ddns.net:23000/live/Gavino/Gavino/12395.ts
+#EXTINF:-1,ALB: Muse
+http://luckyiptv.ddns.net:23000/live/Gavino/Gavino/12396.ts
+#EXTINF:-1,ALB: MRTV 2 HD
+http://luckyiptv.ddns.net:23000/live/Gavino/Gavino/12397.ts
+#EXTINF:-1,ALB: Mekka Live
+http://luckyiptv.ddns.net:23000/live/Gavino/Gavino/12398.ts
+#EXTINF:-1,ALB: Medina Live
+http://luckyiptv.ddns.net:23000/live/Gavino/Gavino/12399.ts
+#EXTINF:-1,ALB: Luxe Tv
+http://luckyiptv.ddns.net:23000/live/Gavino/Gavino/12400.ts
+#EXTINF:-1,ALB: Lugina Sci-Fi HD
+http://luckyiptv.ddns.net:23000/live/Gavino/Gavino/12401.ts
+#EXTINF:-1,ALB: Lugina Premiere 3 HD
+http://luckyiptv.ddns.net:23000/live/Gavino/Gavino/12404.ts
+#EXTINF:-1,ALB: Lugina Premiere 2 HD
+http://luckyiptv.ddns.net:23000/live/Gavino/Gavino/12403.ts
+#EXTINF:-1,ALB: Lugina Premiere 1 HD
+http://luckyiptv.ddns.net:23000/live/Gavino/Gavino/12402.ts
+#EXTINF:-1,ALB: Living HD
+http://luckyiptv.ddns.net:23000/live/Gavino/Gavino/12405.ts
+#EXTINF:-1,ALB: KTV  HD
+http://luckyiptv.ddns.net:23000/live/Gavino/Gavino/12406.ts
+#EXTINF:-1,ALB: KTV
+http://luckyiptv.ddns.net:23000/live/Gavino/Gavino/12407.ts
+#EXTINF:-1,ALB: Koha TV
+http://luckyiptv.ddns.net:23000/live/Gavino/Gavino/12408.ts
+#EXTINF:-1,ALB: Klan Kosova HD
+http://luckyiptv.ddns.net:23000/live/Gavino/Gavino/12337.ts
+#EXTINF:-1,ALB: Klan HD
+http://luckyiptv.ddns.net:23000/live/Gavino/Gavino/12338.ts
+#EXTINF:-1,ALB: Kanali 7
+http://luckyiptv.ddns.net:23000/live/Gavino/Gavino/12409.ts
+#EXTINF:-1,ALB: Jug TV
+http://luckyiptv.ddns.net:23000/live/Gavino/Gavino/12410.ts
+#EXTINF:-1,ALB: Jolly HD
+http://luckyiptv.ddns.net:23000/live/Gavino/Gavino/12411.ts
+#EXTINF:-1,ALB: Folklorit
+http://luckyiptv.ddns.net:23000/live/Gavino/Gavino/12412.ts
+#EXTINF:-1,ALB: Folk
+http://luckyiptv.ddns.net:23000/live/Gavino/Gavino/12413.ts
+#EXTINF:-1,ALB: First Channel
+http://luckyiptv.ddns.net:23000/live/Gavino/Gavino/12414.ts
+#EXTINF:-1,ALB: Film Thriller
+http://luckyiptv.ddns.net:23000/live/Gavino/Gavino/12415.ts
+#EXTINF:-1,ALB: Film Stinet
+http://luckyiptv.ddns.net:23000/live/Gavino/Gavino/12416.ts
+#EXTINF:-1,ALB: Film Nje HD
+http://luckyiptv.ddns.net:23000/live/Gavino/Gavino/12417.ts
+#EXTINF:-1,ALB: Film Komedi
+http://luckyiptv.ddns.net:23000/live/Gavino/Gavino/12418.ts
+#EXTINF:-1,ALB: Film Junior
+http://luckyiptv.ddns.net:23000/live/Gavino/Gavino/12419.ts
+#EXTINF:-1,ALB: Film Hits 1
+http://luckyiptv.ddns.net:23000/live/Gavino/Gavino/12420.ts
+#EXTINF:-1,ALB: Film Hits
+http://luckyiptv.ddns.net:23000/live/Gavino/Gavino/12421.ts
+#EXTINF:-1,ALB: Film Dy HD
+http://luckyiptv.ddns.net:23000/live/Gavino/Gavino/12422.ts
+#EXTINF:-1,ALB: Film Drame
+http://luckyiptv.ddns.net:23000/live/Gavino/Gavino/12423.ts
+#EXTINF:-1,ALB: Film Autor
+http://luckyiptv.ddns.net:23000/live/Gavino/Gavino/12424.ts
+#EXTINF:-1,ALB: Film Aksion
+http://luckyiptv.ddns.net:23000/live/Gavino/Gavino/12425.ts
+#EXTINF:-1,ALB: Explorer Shkenca
+http://luckyiptv.ddns.net:23000/live/Gavino/Gavino/12426.ts
+#EXTINF:-1,ALB: Explorer Natyra
+http://luckyiptv.ddns.net:23000/live/Gavino/Gavino/12427.ts
+#EXTINF:-1,ALB: Explorer Histori
+http://luckyiptv.ddns.net:23000/live/Gavino/Gavino/12428.ts
+#EXTINF:-1,ALB: Elrodi TV
+http://luckyiptv.ddns.net:23000/live/Gavino/Gavino/12429.ts
+#EXTINF:-1,ALB: DIGI Sofia
+http://luckyiptv.ddns.net:23000/live/Gavino/Gavino/12430.ts
+#EXTINF:-1,ALB: DIGI Gold
+http://luckyiptv.ddns.net:23000/live/Gavino/Gavino/12431.ts
+#EXTINF:-1,ALB: Dasma TV
+http://luckyiptv.ddns.net:23000/live/Gavino/Gavino/12432.ts
+#EXTINF:-1,ALB: Cufo
+http://luckyiptv.ddns.net:23000/live/Gavino/Gavino/12433.ts
+#EXTINF:-1,ALB: Besa
+http://luckyiptv.ddns.net:23000/live/Gavino/Gavino/12434.ts
+#EXTINF:-1,ALB: BBF Music
+http://luckyiptv.ddns.net:23000/live/Gavino/Gavino/12435.ts
+#EXTINF:-1,ALB: BangBang
+http://luckyiptv.ddns.net:23000/live/Gavino/Gavino/12436.ts
+#EXTINF:-1,ALB: Ballkan TV
+http://luckyiptv.ddns.net:23000/live/Gavino/Gavino/12437.ts
+#EXTINF:-1,ALB: Alsat M HD
+http://luckyiptv.ddns.net:23000/live/Gavino/Gavino/13095.ts
+#EXTINF:-1,ALB: Alsat M
+http://luckyiptv.ddns.net:23000/live/Gavino/Gavino/13096.ts
+#EXTINF:-1,ALB: Alsat HD
+http://luckyiptv.ddns.net:23000/live/Gavino/Gavino/12438.ts
+#EXTINF:-1,ALB: Alsat
+http://luckyiptv.ddns.net:23000/live/Gavino/Gavino/12439.ts
+#EXTINF:-1,ALB: ALB Music
+http://luckyiptv.ddns.net:23000/live/Gavino/Gavino/12440.ts
+#EXTINF:-1,ALB: ALB Kids
+http://luckyiptv.ddns.net:23000/live/Gavino/Gavino/12441.ts
+#EXTINF:-1,ALB: ALB Hits
+http://luckyiptv.ddns.net:23000/live/Gavino/Gavino/12442.ts
+#EXTINF:-1,ALB: ABC News
+http://luckyiptv.ddns.net:23000/live/Gavino/Gavino/12443.ts
+#EXTINF:-1,ALB: A1 Shqiptare
+http://luckyiptv.ddns.net:23000/live/Gavino/Gavino/12444.ts
+#EXTINF:-1,ALB: A1 Report
+http://luckyiptv.ddns.net:23000/live/Gavino/Gavino/12445.ts
+#EXTINF:-1,ALB: A1 Islam
+http://luckyiptv.ddns.net:23000/live/Gavino/Gavino/12446.ts
+#EXTINF:-1,------- SPAGNA -------
+http://luckyiptv.ddns.net:23000/live/Gavino/Gavino/12316.ts
+#EXTINF:-1,ES:Telecino HD
+http://luckyiptv.ddns.net:23000/live/Gavino/Gavino/12319.ts
+#EXTINF:-1,ES:Syfy
+http://luckyiptv.ddns.net:23000/live/Gavino/Gavino/12325.ts
+#EXTINF:-1,ES:Real Madrid TV
+http://luckyiptv.ddns.net:23000/live/Gavino/Gavino/12333.ts
+#EXTINF:-1,ES:Moviestar MotoGP
+http://luckyiptv.ddns.net:23000/live/Gavino/Gavino/12334.ts
+#EXTINF:-1,ES:Moviestar F1
+http://luckyiptv.ddns.net:23000/live/Gavino/Gavino/12335.ts
+#EXTINF:-1,ES:La_Sexta
+http://luckyiptv.ddns.net:23000/live/Gavino/Gavino/12326.ts
+#EXTINF:-1,ES:LA_2
+http://luckyiptv.ddns.net:23000/live/Gavino/Gavino/12318.ts
+#EXTINF:-1,ES:LA_1
+http://luckyiptv.ddns.net:23000/live/Gavino/Gavino/12317.ts
+#EXTINF:-1,ES:Fox
+http://luckyiptv.ddns.net:23000/live/Gavino/Gavino/12327.ts
+#EXTINF:-1,ES:Cuatro HD
+http://luckyiptv.ddns.net:23000/live/Gavino/Gavino/12321.ts
+#EXTINF:-1,ES:CANAL _Xtra
+http://luckyiptv.ddns.net:23000/live/Gavino/Gavino/12329.ts
+#EXTINF:-1,ES:Canal Comedia HD
+http://luckyiptv.ddns.net:23000/live/Gavino/Gavino/12322.ts
+#EXTINF:-1,ES:CANAL 1
+http://luckyiptv.ddns.net:23000/live/Gavino/Gavino/12328.ts
+#EXTINF:-1,ES:Canal  Liga 2 HD
+http://luckyiptv.ddns.net:23000/live/Gavino/Gavino/12331.ts
+#EXTINF:-1,ES:BARCA_TV
+http://luckyiptv.ddns.net:23000/live/Gavino/Gavino/12332.ts
+#EXTINF:-1,ES:AXN White HD
+http://luckyiptv.ddns.net:23000/live/Gavino/Gavino/12323.ts
+#EXTINF:-1,ES:AXN
+http://luckyiptv.ddns.net:23000/live/Gavino/Gavino/12324.ts
+#EXTINF:-1,ES:Antena3 HD
+http://luckyiptv.ddns.net:23000/live/Gavino/Gavino/12320.ts
+#EXTINF:-1,ES:ANAL _DCine
+http://luckyiptv.ddns.net:23000/live/Gavino/Gavino/12330.ts
+#EXTINF:-1,ES: LA-SEXTA-HD
+http://luckyiptv.ddns.net:23000/live/Gavino/Gavino/6786.ts
+#EXTINF:-1,ES: Hollywood
+http://luckyiptv.ddns.net:23000/live/Gavino/Gavino/6787.ts
+#EXTINF:-1,ES: DISNEY-JR
+http://luckyiptv.ddns.net:23000/live/Gavino/Gavino/6788.ts
+#EXTINF:-1,ES: Disney-Channel
+http://luckyiptv.ddns.net:23000/live/Gavino/Gavino/6789.ts
+#EXTINF:-1,ES: Canal  Toros
+http://luckyiptv.ddns.net:23000/live/Gavino/Gavino/6773.ts
+#EXTINF:-1,ES: Canal  Liga
+http://luckyiptv.ddns.net:23000/live/Gavino/Gavino/6772.ts
+#EXTINF:-1,ES: Canal  Futbol
+http://luckyiptv.ddns.net:23000/live/Gavino/Gavino/6774.ts
+#EXTINF:-1,ES: Canal  Estrenos
+http://luckyiptv.ddns.net:23000/live/Gavino/Gavino/6775.ts
+#EXTINF:-1,ES: Canal  Deportes
+http://luckyiptv.ddns.net:23000/live/Gavino/Gavino/6776.ts
+#EXTINF:-1,ES: Canal  Dcine
+http://luckyiptv.ddns.net:23000/live/Gavino/Gavino/6779.ts
+#EXTINF:-1,ES: Canal  Accion
+http://luckyiptv.ddns.net:23000/live/Gavino/Gavino/6770.ts
+#EXTINF:-1,ES: Canal
+http://luckyiptv.ddns.net:23000/live/Gavino/Gavino/6769.ts
+#EXTINF:-1,------- PORTOGHESI -------
+http://luckyiptv.ddns.net:23000/live/Gavino/Gavino/12017.ts
+#EXTINF:-1,PT: VeVo 3 HD
+http://luckyiptv.ddns.net:23000/live/Gavino/Gavino/12018.ts
+#EXTINF:-1,PT: VeVo 2 HD
+http://luckyiptv.ddns.net:23000/live/Gavino/Gavino/12019.ts
+#EXTINF:-1,PT: VeVo 1 HD
+http://luckyiptv.ddns.net:23000/live/Gavino/Gavino/12020.ts
+#EXTINF:-1,PT: Tvi ficcao
+http://luckyiptv.ddns.net:23000/live/Gavino/Gavino/12021.ts
+#EXTINF:-1,PT: TVI 24
+http://luckyiptv.ddns.net:23000/live/Gavino/Gavino/12022.ts
+#EXTINF:-1,PT: TVI
+http://luckyiptv.ddns.net:23000/live/Gavino/Gavino/12023.ts
+#EXTINF:-1,PT: TVCine 4 HD
+http://luckyiptv.ddns.net:23000/live/Gavino/Gavino/12024.ts
+#EXTINF:-1,PT: TVCine 3 HD
+http://luckyiptv.ddns.net:23000/live/Gavino/Gavino/12025.ts
+#EXTINF:-1,PT: TVCine 2 HD
+http://luckyiptv.ddns.net:23000/live/Gavino/Gavino/12026.ts
+#EXTINF:-1,PT: TVCine 1 HD
+http://luckyiptv.ddns.net:23000/live/Gavino/Gavino/12027.ts
+#EXTINF:-1,PT: TV Series SD/HD
+http://luckyiptv.ddns.net:23000/live/Gavino/Gavino/12028.ts
+#EXTINF:-1,PT: TV Record
+http://luckyiptv.ddns.net:23000/live/Gavino/Gavino/12029.ts
+#EXTINF:-1,PT: TV Globo Premium
+http://luckyiptv.ddns.net:23000/live/Gavino/Gavino/12030.ts
+#EXTINF:-1,PT: TV Globo
+http://luckyiptv.ddns.net:23000/live/Gavino/Gavino/12031.ts
+#EXTINF:-1,PT: TPA
+http://luckyiptv.ddns.net:23000/live/Gavino/Gavino/12032.ts
+#EXTINF:-1,PT: Toros TV
+http://luckyiptv.ddns.net:23000/live/Gavino/Gavino/12033.ts
+#EXTINF:-1,PT: Sy-Fy
+http://luckyiptv.ddns.net:23000/live/Gavino/Gavino/12034.ts
+#EXTINF:-1,PT: SportTV 5
+http://luckyiptv.ddns.net:23000/live/Gavino/Gavino/12035.ts
+#EXTINF:-1,PT: SportTV 4 HD/SD
+http://luckyiptv.ddns.net:23000/live/Gavino/Gavino/12036.ts
+#EXTINF:-1,PT: SportTV 3
+http://luckyiptv.ddns.net:23000/live/Gavino/Gavino/12037.ts
+#EXTINF:-1,PT: SportTV 2 HD/SD
+http://luckyiptv.ddns.net:23000/live/Gavino/Gavino/12038.ts
+#EXTINF:-1,PT: SportTV 1 HD/SD
+http://luckyiptv.ddns.net:23000/live/Gavino/Gavino/12039.ts
+#EXTINF:-1,PT: Sporting TV HD
+http://luckyiptv.ddns.net:23000/live/Gavino/Gavino/12040.ts
+#EXTINF:-1,PT: SPORT TV AMERICA
+http://luckyiptv.ddns.net:23000/live/Gavino/Gavino/12041.ts
+#EXTINF:-1,PT: SIC Noticias
+http://luckyiptv.ddns.net:23000/live/Gavino/Gavino/12042.ts
+#EXTINF:-1,PT: SIC Kids
+http://luckyiptv.ddns.net:23000/live/Gavino/Gavino/12043.ts
+#EXTINF:-1,PT: SIC
+http://luckyiptv.ddns.net:23000/live/Gavino/Gavino/12044.ts
+#EXTINF:-1,PT: RTP Memoria
+http://luckyiptv.ddns.net:23000/live/Gavino/Gavino/12045.ts
+#EXTINF:-1,PT: RTP Madeira
+http://luckyiptv.ddns.net:23000/live/Gavino/Gavino/12046.ts
+#EXTINF:-1,PT: RTP ÃƒÂfrica
+http://luckyiptv.ddns.net:23000/live/Gavino/Gavino/12047.ts
+#EXTINF:-1,PT: RTP Acores
+http://luckyiptv.ddns.net:23000/live/Gavino/Gavino/12048.ts
+#EXTINF:-1,PT: RTP 3
+http://luckyiptv.ddns.net:23000/live/Gavino/Gavino/12049.ts
+#EXTINF:-1,PT: RTP 2
+http://luckyiptv.ddns.net:23000/live/Gavino/Gavino/12050.ts
+#EXTINF:-1,PT: RTP 1 SD/HD
+http://luckyiptv.ddns.net:23000/live/Gavino/Gavino/12051.ts
+#EXTINF:-1,PT: Real Madrid TV HD
+http://luckyiptv.ddns.net:23000/live/Gavino/Gavino/12052.ts
+#EXTINF:-1,PT: Porto Canal
+http://luckyiptv.ddns.net:23000/live/Gavino/Gavino/12053.ts
+#EXTINF:-1,PT: Plus TVI
+http://luckyiptv.ddns.net:23000/live/Gavino/Gavino/12054.ts
+#EXTINF:-1,PT: PFC HD
+http://luckyiptv.ddns.net:23000/live/Gavino/Gavino/12055.ts
+#EXTINF:-1,PT: Panda Biggs
+http://luckyiptv.ddns.net:23000/live/Gavino/Gavino/12056.ts
+#EXTINF:-1,PT: Odisseia
+http://luckyiptv.ddns.net:23000/live/Gavino/Gavino/12057.ts
+#EXTINF:-1,PT: Niclelodeon
+http://luckyiptv.ddns.net:23000/live/Gavino/Gavino/12058.ts
+#EXTINF:-1,PT: Nat Geographic Channel
+http://luckyiptv.ddns.net:23000/live/Gavino/Gavino/12059.ts
+#EXTINF:-1,PT: Nat Geo Wild
+http://luckyiptv.ddns.net:23000/live/Gavino/Gavino/12060.ts
+#EXTINF:-1,PT: MOV HD
+http://luckyiptv.ddns.net:23000/live/Gavino/Gavino/12061.ts
+#EXTINF:-1,PT: Motors TV
+http://luckyiptv.ddns.net:23000/live/Gavino/Gavino/12062.ts
+#EXTINF:-1,PT: HollyWood SD/HD
+http://luckyiptv.ddns.net:23000/live/Gavino/Gavino/12063.ts
+#EXTINF:-1,PT: FX
+http://luckyiptv.ddns.net:23000/live/Gavino/Gavino/12064.ts
+#EXTINF:-1,PT: FOX Movies
+http://luckyiptv.ddns.net:23000/live/Gavino/Gavino/12065.ts
+#EXTINF:-1,PT: Fox Life HD
+http://luckyiptv.ddns.net:23000/live/Gavino/Gavino/12066.ts
+#EXTINF:-1,PT: Fox HD
+http://luckyiptv.ddns.net:23000/live/Gavino/Gavino/12067.ts
+#EXTINF:-1,PT: FOX Crime HD
+http://luckyiptv.ddns.net:23000/live/Gavino/Gavino/12068.ts
+#EXTINF:-1,PT: EuroSport 1 HD/SD
+http://luckyiptv.ddns.net:23000/live/Gavino/Gavino/12069.ts
+#EXTINF:-1,PT: Economico TV
+http://luckyiptv.ddns.net:23000/live/Gavino/Gavino/12070.ts
+#EXTINF:-1,PT: E! Entertaunment
+http://luckyiptv.ddns.net:23000/live/Gavino/Gavino/12071.ts
+#EXTINF:-1,PT: Disney Junior
+http://luckyiptv.ddns.net:23000/live/Gavino/Gavino/12072.ts
+#EXTINF:-1,PT: Disney Channel
+http://luckyiptv.ddns.net:23000/live/Gavino/Gavino/12073.ts
+#EXTINF:-1,PT: Discovery HD
+http://luckyiptv.ddns.net:23000/live/Gavino/Gavino/12074.ts
+#EXTINF:-1,PT: CMTV
+http://luckyiptv.ddns.net:23000/live/Gavino/Gavino/12075.ts
+#EXTINF:-1,PT: CineMundo
+http://luckyiptv.ddns.net:23000/live/Gavino/Gavino/12076.ts
+#EXTINF:-1,PT: CBS Reality
+http://luckyiptv.ddns.net:23000/live/Gavino/Gavino/12077.ts
+#EXTINF:-1,PT: Cartoon NetWork
+http://luckyiptv.ddns.net:23000/live/Gavino/Gavino/12078.ts
+#EXTINF:-1,PT: Cancao Nova
+http://luckyiptv.ddns.net:23000/live/Gavino/Gavino/12079.ts
+#EXTINF:-1,PT: CANAL PANDA
+http://luckyiptv.ddns.net:23000/live/Gavino/Gavino/12080.ts
+#EXTINF:-1,PT: Canal Historia HD
+http://luckyiptv.ddns.net:23000/live/Gavino/Gavino/12081.ts
+#EXTINF:-1,PT: Caca & Pesca
+http://luckyiptv.ddns.net:23000/live/Gavino/Gavino/12082.ts
+#EXTINF:-1,PT: BTV 1 HD
+http://luckyiptv.ddns.net:23000/live/Gavino/Gavino/12083.ts
+#EXTINF:-1,PT: Benfica TV 2 HD
+http://luckyiptv.ddns.net:23000/live/Gavino/Gavino/12084.ts
+#EXTINF:-1,PT: Benfica TV 1 Full HD
+http://luckyiptv.ddns.net:23000/live/Gavino/Gavino/12085.ts
+#EXTINF:-1,PT: AXN WHITE HD
+http://luckyiptv.ddns.net:23000/live/Gavino/Gavino/12086.ts
+#EXTINF:-1,PT: AXN HD
+http://luckyiptv.ddns.net:23000/live/Gavino/Gavino/12087.ts
+#EXTINF:-1,PT: AXN Black HD
+http://luckyiptv.ddns.net:23000/live/Gavino/Gavino/12088.ts
+#EXTINF:-1,PT: AFRO MUSIC HD
+http://luckyiptv.ddns.net:23000/live/Gavino/Gavino/12089.ts
+#EXTINF:-1,PT: Abola TV
+http://luckyiptv.ddns.net:23000/live/Gavino/Gavino/12090.ts
+#EXTINF:-1,PT: A&E
+http://luckyiptv.ddns.net:23000/live/Gavino/Gavino/12091.ts
+#EXTINF:-1,PT: 24 Kitchen
+http://luckyiptv.ddns.net:23000/live/Gavino/Gavino/12092.ts
+#EXTINF:-1,------- TURCHIA -------
+http://luckyiptv.ddns.net:23000/live/Gavino/Gavino/12093.ts
+#EXTINF:-1,TR:ULKE TV HD
+http://luckyiptv.ddns.net:23000/live/Gavino/Gavino/12841.ts
+#EXTINF:-1,TR:TV8 HD
+http://luckyiptv.ddns.net:23000/live/Gavino/Gavino/12842.ts
+#EXTINF:-1,TR:TRT TURK HD
+http://luckyiptv.ddns.net:23000/live/Gavino/Gavino/12843.ts
+#EXTINF:-1,TR:TRT SPORT HD
+http://luckyiptv.ddns.net:23000/live/Gavino/Gavino/12844.ts
+#EXTINF:-1,TR:TRT HABER HD
+http://luckyiptv.ddns.net:23000/live/Gavino/Gavino/12845.ts
+#EXTINF:-1,TR:TRT COCUK HD
+http://luckyiptv.ddns.net:23000/live/Gavino/Gavino/12846.ts
+#EXTINF:-1,TR:TRT BELGESEL HD
+http://luckyiptv.ddns.net:23000/live/Gavino/Gavino/12847.ts
+#EXTINF:-1,TR:TRT 1 HD
+http://luckyiptv.ddns.net:23000/live/Gavino/Gavino/12848.ts
+#EXTINF:-1,TR:TIVIBUSPOR 2 HD
+http://luckyiptv.ddns.net:23000/live/Gavino/Gavino/12849.ts
+#EXTINF:-1,TR:TIVIBUSPOR 1 HD
+http://luckyiptv.ddns.net:23000/live/Gavino/Gavino/12850.ts
+#EXTINF:-1,TR:TGRT HABER HD
+http://luckyiptv.ddns.net:23000/live/Gavino/Gavino/12851.ts
+#EXTINF:-1,TR:TGRT BELGESEL HD
+http://luckyiptv.ddns.net:23000/live/Gavino/Gavino/12852.ts
+#EXTINF:-1,TR:TGRT AVRUPA HD
+http://luckyiptv.ddns.net:23000/live/Gavino/Gavino/12853.ts
+#EXTINF:-1,TR:STAR HD
+http://luckyiptv.ddns.net:23000/live/Gavino/Gavino/12854.ts
+#EXTINF:-1,TR:SINEMAX TURK HD
+http://luckyiptv.ddns.net:23000/live/Gavino/Gavino/12855.ts
+#EXTINF:-1,TR:SINEMAX NOSTALGIA HD
+http://luckyiptv.ddns.net:23000/live/Gavino/Gavino/12856.ts
+#EXTINF:-1,TR:SINEMAX COMEDY HD
+http://luckyiptv.ddns.net:23000/live/Gavino/Gavino/12857.ts
+#EXTINF:-1,TR:SHOWTV TURKIYE HD
+http://luckyiptv.ddns.net:23000/live/Gavino/Gavino/12858.ts
+#EXTINF:-1,TR:SHOWTV AVRUPA HD
+http://luckyiptv.ddns.net:23000/live/Gavino/Gavino/12859.ts
+#EXTINF:-1,TR:SALON 3 HD
+http://luckyiptv.ddns.net:23000/live/Gavino/Gavino/12860.ts
+#EXTINF:-1,TR:SALON 2 HD
+http://luckyiptv.ddns.net:23000/live/Gavino/Gavino/12861.ts
+#EXTINF:-1,TR:SALON 1 HD
+http://luckyiptv.ddns.net:23000/live/Gavino/Gavino/12862.ts
+#EXTINF:-1,TR:NTV TURKIYE HD
+http://luckyiptv.ddns.net:23000/live/Gavino/Gavino/12863.ts
+#EXTINF:-1,TR:NTV SPOR HD
+http://luckyiptv.ddns.net:23000/live/Gavino/Gavino/12864.ts
+#EXTINF:-1,TR:MINIKA COCUK HD
+http://luckyiptv.ddns.net:23000/live/Gavino/Gavino/12865.ts
+#EXTINF:-1,TR:LOCA 3 HD
+http://luckyiptv.ddns.net:23000/live/Gavino/Gavino/12866.ts
+#EXTINF:-1,TR:LOCA 2 HD
+http://luckyiptv.ddns.net:23000/live/Gavino/Gavino/12867.ts
+#EXTINF:-1,TR:LOCA 1 HD
+http://luckyiptv.ddns.net:23000/live/Gavino/Gavino/12868.ts
+#EXTINF:-1,TR:LIGTV 3 YEDEK
+http://luckyiptv.ddns.net:23000/live/Gavino/Gavino/12869.ts
+#EXTINF:-1,TR:LIGTV 3 VIP
+http://luckyiptv.ddns.net:23000/live/Gavino/Gavino/12870.ts
+#EXTINF:-1,TR:LIGTV 3 HD
+http://luckyiptv.ddns.net:23000/live/Gavino/Gavino/12871.ts
+#EXTINF:-1,TR:LIGTV 2 YEDEK
+http://luckyiptv.ddns.net:23000/live/Gavino/Gavino/12872.ts
+#EXTINF:-1,TR:LIGTV 2 VIP
+http://luckyiptv.ddns.net:23000/live/Gavino/Gavino/12873.ts
+#EXTINF:-1,TR:LIGTV 2 HD
+http://luckyiptv.ddns.net:23000/live/Gavino/Gavino/12874.ts
+#EXTINF:-1,TR:LIGTV 1 YEDEK
+http://luckyiptv.ddns.net:23000/live/Gavino/Gavino/12875.ts
+#EXTINF:-1,TR:LIGTV 1 VIP
+http://luckyiptv.ddns.net:23000/live/Gavino/Gavino/12876.ts
+#EXTINF:-1,TR:LIGTV 1 HD
+http://luckyiptv.ddns.net:23000/live/Gavino/Gavino/12877.ts
+#EXTINF:-1,TR:KANALTURK HD
+http://luckyiptv.ddns.net:23000/live/Gavino/Gavino/12878.ts
+#EXTINF:-1,TR:KANAL 7 HD
+http://luckyiptv.ddns.net:23000/live/Gavino/Gavino/12879.ts
+#EXTINF:-1,TR:HABERTURK HD
+http://luckyiptv.ddns.net:23000/live/Gavino/Gavino/12880.ts
+#EXTINF:-1,TR:FOX TV HD
+http://luckyiptv.ddns.net:23000/live/Gavino/Gavino/12881.ts
+#EXTINF:-1,TR:FLASH TV HD
+http://luckyiptv.ddns.net:23000/live/Gavino/Gavino/12882.ts
+#EXTINF:-1,TR:DREAM TV HD
+http://luckyiptv.ddns.net:23000/live/Gavino/Gavino/12883.ts
+#EXTINF:-1,TR:CNN TURK HD
+http://luckyiptv.ddns.net:23000/live/Gavino/Gavino/12884.ts
+#EXTINF:-1,TR:CINEGOLD WESTERN HD
+http://luckyiptv.ddns.net:23000/live/Gavino/Gavino/12885.ts
+#EXTINF:-1,TR:CINEGOLD VIZYON HD
+http://luckyiptv.ddns.net:23000/live/Gavino/Gavino/12886.ts
+#EXTINF:-1,TR:CINEGOLD TURK HD
+http://luckyiptv.ddns.net:23000/live/Gavino/Gavino/12887.ts
+#EXTINF:-1,TR:CINEGOLD SPESIAL HD
+http://luckyiptv.ddns.net:23000/live/Gavino/Gavino/12888.ts
+#EXTINF:-1,TR:CINEGOLD KORKU HD
+http://luckyiptv.ddns.net:23000/live/Gavino/Gavino/12889.ts
+#EXTINF:-1,TR:CINEGOLD ASK HD
+http://luckyiptv.ddns.net:23000/live/Gavino/Gavino/12890.ts
+#EXTINF:-1,TR:CINEGOLD ANIMASYON HD
+http://luckyiptv.ddns.net:23000/live/Gavino/Gavino/12891.ts
+#EXTINF:-1,TR:CINEGOLD AKSIYON HD
+http://luckyiptv.ddns.net:23000/live/Gavino/Gavino/12892.ts
+#EXTINF:-1,TR:CINEGOLD 3 HD
+http://luckyiptv.ddns.net:23000/live/Gavino/Gavino/12893.ts
+#EXTINF:-1,TR:CINEGOLD 2 HD
+http://luckyiptv.ddns.net:23000/live/Gavino/Gavino/12894.ts
+#EXTINF:-1,TR:CINEGOLD 1 HD
+http://luckyiptv.ddns.net:23000/live/Gavino/Gavino/12895.ts
+#EXTINF:-1,TR:BUGUN TV HD
+http://luckyiptv.ddns.net:23000/live/Gavino/Gavino/12896.ts
+#EXTINF:-1,TR:BEYAZ TV HD
+http://luckyiptv.ddns.net:23000/live/Gavino/Gavino/12897.ts
+#EXTINF:-1,TR:ATV TURKIYE HD
+http://luckyiptv.ddns.net:23000/live/Gavino/Gavino/12898.ts
+#EXTINF:-1,TR:A SPOR HD
+http://luckyiptv.ddns.net:23000/live/Gavino/Gavino/12899.ts
+#EXTINF:-1,TR:A HABER HD
+http://luckyiptv.ddns.net:23000/live/Gavino/Gavino/12900.ts
+#EXTINF:-1,--------- FRANCESI ---------
+http://luckyiptv.ddns.net:23000/live/Gavino/Gavino/3640.ts
+#EXTINF:-1,FR: TF1 HD
+http://luckyiptv.ddns.net:23000/live/Gavino/Gavino/8619.ts
+#EXTINF:-1,FR: Teletoon
+http://luckyiptv.ddns.net:23000/live/Gavino/Gavino/7395.ts
+#EXTINF:-1,FR: TÃƒÂ©va HD
+http://luckyiptv.ddns.net:23000/live/Gavino/Gavino/7397.ts
+#EXTINF:-1,FR: Syfy HD
+http://luckyiptv.ddns.net:23000/live/Gavino/Gavino/7398.ts
+#EXTINF:-1,FR: RTS Deux
+http://luckyiptv.ddns.net:23000/live/Gavino/Gavino/7385.ts
+#EXTINF:-1,FR: OCS GÃƒÂ©ants HD
+http://luckyiptv.ddns.net:23000/live/Gavino/Gavino/7389.ts
+#EXTINF:-1,FR: OCS City HD
+http://luckyiptv.ddns.net:23000/live/Gavino/Gavino/7390.ts
+#EXTINF:-1,FR: Mcs
+http://luckyiptv.ddns.net:23000/live/Gavino/Gavino/7416.ts
+#EXTINF:-1,FR: Ma ChaÃƒÂ®ne Sport HD
+http://luckyiptv.ddns.net:23000/live/Gavino/Gavino/7359.ts
+#EXTINF:-1,FR: LTC
+http://luckyiptv.ddns.net:23000/live/Gavino/Gavino/7435.ts
+#EXTINF:-1,FR: I-Tele
+http://luckyiptv.ddns.net:23000/live/Gavino/Gavino/7386.ts
+#EXTINF:-1,FR: Gulli
+http://luckyiptv.ddns.net:23000/live/Gavino/Gavino/7425.ts
+#EXTINF:-1,FR: France 2
+http://luckyiptv.ddns.net:23000/live/Gavino/Gavino/7411.ts
+#EXTINF:-1,FR: France 5
+http://luckyiptv.ddns.net:23000/live/Gavino/Gavino/7414.ts
+#EXTINF:-1,FR: Eurosport 1 HD
+http://luckyiptv.ddns.net:23000/live/Gavino/Gavino/7356.ts
+#EXTINF:-1,FR: Eurosport 2 HD
+http://luckyiptv.ddns.net:23000/live/Gavino/Gavino/7357.ts
+#EXTINF:-1,FR: Enorme TV HD
+http://luckyiptv.ddns.net:23000/live/Gavino/Gavino/7382.ts
+#EXTINF:-1,FR: D 17
+http://luckyiptv.ddns.net:23000/live/Gavino/Gavino/7392.ts
+#EXTINF:-1,FR: Cine  Fil
+http://luckyiptv.ddns.net:23000/live/Gavino/Gavino/7378.ts
+#EXTINF:-1,FR: Cine  Classic
+http://luckyiptv.ddns.net:23000/live/Gavino/Gavino/7379.ts
+#EXTINF:-1,FR: Canal  Sport
+http://luckyiptv.ddns.net:23000/live/Gavino/Gavino/7360.ts
+#EXTINF:-1,FR: Canal  Serie
+http://luckyiptv.ddns.net:23000/live/Gavino/Gavino/7380.ts
+#EXTINF:-1,FR: Boomerang
+http://luckyiptv.ddns.net:23000/live/Gavino/Gavino/7406.ts
+#EXTINF:-1,FR: BFM Business
+http://luckyiptv.ddns.net:23000/live/Gavino/Gavino/7429.ts
+#EXTINF:-1,FR: Beinsport 1
+http://luckyiptv.ddns.net:23000/live/Gavino/Gavino/7353.ts
+#EXTINF:-1,FR: Beinsport 2
+http://luckyiptv.ddns.net:23000/live/Gavino/Gavino/7354.ts
+#EXTINF:-1,FR: Beinsport 3
+http://luckyiptv.ddns.net:23000/live/Gavino/Gavino/7355.ts
+#EXTINF:-1,FR: Arte
+http://luckyiptv.ddns.net:23000/live/Gavino/Gavino/7433.ts
+#EXTINF:-1,FR: A la Carte 2
+http://luckyiptv.ddns.net:23000/live/Gavino/Gavino/7363.ts
+#EXTINF:-1,FR: A la Carte 3
+http://luckyiptv.ddns.net:23000/live/Gavino/Gavino/7364.ts
+#EXTINF:-1,FR: A la Carte 4
+http://luckyiptv.ddns.net:23000/live/Gavino/Gavino/7365.ts
+#EXTINF:-1,FR: A la Carte 5
+http://luckyiptv.ddns.net:23000/live/Gavino/Gavino/7366.ts
+#EXTINF:-1,FR: A la Carte 6
+http://luckyiptv.ddns.net:23000/live/Gavino/Gavino/7367.ts
+#EXTINF:-1,FR: A la Carte 7
+http://luckyiptv.ddns.net:23000/live/Gavino/Gavino/7368.ts
+#EXTINF:-1,FR: A la Carte 10
+http://luckyiptv.ddns.net:23000/live/Gavino/Gavino/7371.ts
+#EXTINF:-1,FR: 6Ter HD
+http://luckyiptv.ddns.net:23000/live/Gavino/Gavino/7419.ts
+#EXTINF:-1,--------- BEIN SPORT ---------
+http://luckyiptv.ddns.net:23000/live/Gavino/Gavino/4135.ts
+#EXTINF:-1,AR: beINSport 1 HD
+http://luckyiptv.ddns.net:23000/live/Gavino/Gavino/7002.ts
+#EXTINF:-1,AR: beINSport 2 HD
+http://luckyiptv.ddns.net:23000/live/Gavino/Gavino/6995.ts
+#EXTINF:-1,AR: beINSport 3 HD
+http://luckyiptv.ddns.net:23000/live/Gavino/Gavino/6994.ts
+#EXTINF:-1,AR: beINSport 4 HD
+http://luckyiptv.ddns.net:23000/live/Gavino/Gavino/6993.ts
+#EXTINF:-1,AR: beINSport 5 HD
+http://luckyiptv.ddns.net:23000/live/Gavino/Gavino/6992.ts
+#EXTINF:-1,AR: beINSport 6 HD
+http://luckyiptv.ddns.net:23000/live/Gavino/Gavino/6991.ts
+#EXTINF:-1,AR: beINSport 7 HD
+http://luckyiptv.ddns.net:23000/live/Gavino/Gavino/6990.ts
+#EXTINF:-1,AR: beINSport 8 HD
+http://luckyiptv.ddns.net:23000/live/Gavino/Gavino/6989.ts
+#EXTINF:-1,AR: beINSport 9 HD
+http://luckyiptv.ddns.net:23000/live/Gavino/Gavino/6988.ts
+#EXTINF:-1,-------- UK ----------
+http://luckyiptv.ddns.net:23000/live/Gavino/Gavino/4134.ts
+#EXTINF:-1,---------- EX YU ----------
+http://luckyiptv.ddns.net:23000/live/Gavino/Gavino/3641.ts
+#EXTINF:-1,EX YU:HRT 1
+http://luckyiptv.ddns.net:23000/live/Gavino/Gavino/3450.ts
+#EXTINF:-1,EX YU:HRT 2
+http://luckyiptv.ddns.net:23000/live/Gavino/Gavino/3449.ts
+#EXTINF:-1,EX YU:HRT 3
+http://luckyiptv.ddns.net:23000/live/Gavino/Gavino/3448.ts
+#EXTINF:-1,EX YU: HRT 4
+http://luckyiptv.ddns.net:23000/live/Gavino/Gavino/3432.ts
+#EXTINF:-1,EX YU:RTL
+http://luckyiptv.ddns.net:23000/live/Gavino/Gavino/3442.ts
+#EXTINF:-1,EX YU:RTL 2
+http://luckyiptv.ddns.net:23000/live/Gavino/Gavino/3441.ts
+#EXTINF:-1,EX YU:RTS1
+http://luckyiptv.ddns.net:23000/live/Gavino/Gavino/3440.ts
+#EXTINF:-1,EX YU:RTS2
+http://luckyiptv.ddns.net:23000/live/Gavino/Gavino/3439.ts
+#EXTINF:-1,EX YU:NOVA TV
+http://luckyiptv.ddns.net:23000/live/Gavino/Gavino/3447.ts
+#EXTINF:-1,EX YU:HBO COMEDY
+http://luckyiptv.ddns.net:23000/live/Gavino/Gavino/3451.ts
+#EXTINF:-1,EX YU:HAYAT TV
+http://luckyiptv.ddns.net:23000/live/Gavino/Gavino/3484.ts
+#EXTINF:-1,EX YU:GRAND TV
+http://luckyiptv.ddns.net:23000/live/Gavino/Gavino/3452.ts
+#EXTINF:-1,EX YU:DOMA TV
+http://luckyiptv.ddns.net:23000/live/Gavino/Gavino/3454.ts
+#EXTINF:-1,EX YU:B92
+http://luckyiptv.ddns.net:23000/live/Gavino/Gavino/3487.ts
+#EXTINF:-1,EX YU: PRVA TV
+http://luckyiptv.ddns.net:23000/live/Gavino/Gavino/3443.ts
+#EXTINF:-1,EX YU: Minimax
+http://luckyiptv.ddns.net:23000/live/Gavino/Gavino/3457.ts
+#EXTINF:-1,EX YU: HBO Adria
+http://luckyiptv.ddns.net:23000/live/Gavino/Gavino/3459.ts
+#EXTINF:-1,EX YU: Hayat Plus
+http://luckyiptv.ddns.net:23000/live/Gavino/Gavino/3433.ts
+#EXTINF:-1,EX YU: FOX MOVIES
+http://luckyiptv.ddns.net:23000/live/Gavino/Gavino/3461.ts
+#EXTINF:-1,EX YU: FOX LIFE
+http://luckyiptv.ddns.net:23000/live/Gavino/Gavino/3453.ts
+#EXTINF:-1,EX YU: FOX CRIME
+http://luckyiptv.ddns.net:23000/live/Gavino/Gavino/3462.ts
+#EXTINF:-1,EX YU: FOX
+http://luckyiptv.ddns.net:23000/live/Gavino/Gavino/3463.ts
+#EXTINF:-1,EX YU: Face TV
+http://luckyiptv.ddns.net:23000/live/Gavino/Gavino/3434.ts
+#EXTINF:-1,EX YU: CMC
+http://luckyiptv.ddns.net:23000/live/Gavino/Gavino/3464.ts
+#EXTINF:-1,EX YU:CINEMAX
+http://luckyiptv.ddns.net:23000/live/Gavino/Gavino/3486.ts
+#EXTINF:-1,EX YU: CINEMAX 2
+http://luckyiptv.ddns.net:23000/live/Gavino/Gavino/3437.ts
+#EXTINF:-1,EX YU: CINESTAR PREMIERE 1
+http://luckyiptv.ddns.net:23000/live/Gavino/Gavino/3465.ts
+#EXTINF:-1,EX YU:CINESTAR PREMIERE 2
+http://luckyiptv.ddns.net:23000/live/Gavino/Gavino/3485.ts
+#EXTINF:-1,EX YU: BHT1
+http://luckyiptv.ddns.net:23000/live/Gavino/Gavino/3438.ts
+#EXTINF:-1,EX YU:PINK 2
+http://luckyiptv.ddns.net:23000/live/Gavino/Gavino/3483.ts
+#EXTINF:-1,EX YU:PINK 3
+http://luckyiptv.ddns.net:23000/live/Gavino/Gavino/3446.ts
+#EXTINF:-1,EX YU:PINK BH
+http://luckyiptv.ddns.net:23000/live/Gavino/Gavino/3445.ts
+#EXTINF:-1,EX YU: PINK ZABAVA
+http://luckyiptv.ddns.net:23000/live/Gavino/Gavino/3428.ts
+#EXTINF:-1,EX YU: Pink Pedia
+http://luckyiptv.ddns.net:23000/live/Gavino/Gavino/3429.ts
+#EXTINF:-1,EX YU: Pink Extra
+http://luckyiptv.ddns.net:23000/live/Gavino/Gavino/3431.ts
+#EXTINF:-1,EX YU: PINK CRIME & MYSTERY
+http://luckyiptv.ddns.net:23000/live/Gavino/Gavino/3455.ts
+#EXTINF:-1,EX YU:PINK PREMIUM
+http://luckyiptv.ddns.net:23000/live/Gavino/Gavino/3476.ts
+#EXTINF:-1,EX YU:PINK PLUS
+http://luckyiptv.ddns.net:23000/live/Gavino/Gavino/3477.ts
+#EXTINF:-1,EX YU:PINK KIDS
+http://luckyiptv.ddns.net:23000/live/Gavino/Gavino/3479.ts
+#EXTINF:-1,EX YU:PINK HOROR
+http://luckyiptv.ddns.net:23000/live/Gavino/Gavino/3480.ts
+#EXTINF:-1,EX YU:PINK FOLK 2
+http://luckyiptv.ddns.net:23000/live/Gavino/Gavino/3444.ts
+#EXTINF:-1,EX YU:PINK FOLK
+http://luckyiptv.ddns.net:23000/live/Gavino/Gavino/3481.ts
+#EXTINF:-1,EX YU:PINK FILM
+http://luckyiptv.ddns.net:23000/live/Gavino/Gavino/3482.ts
+#EXTINF:-1,EX YU:PINK SCI-FI & FANTASY
+http://luckyiptv.ddns.net:23000/live/Gavino/Gavino/3473.ts
+#EXTINF:-1,EX YU:PINK ROMANCE-
+http://luckyiptv.ddns.net:23000/live/Gavino/Gavino/3474.ts
+#EXTINF:-1,EX YU:PINK REALITY
+http://luckyiptv.ddns.net:23000/live/Gavino/Gavino/3475.ts
+#EXTINF:-1,EX YU:PINK WORLD
+http://luckyiptv.ddns.net:23000/live/Gavino/Gavino/3469.ts
+#EXTINF:-1,EX YU: Pink Music
+http://luckyiptv.ddns.net:23000/live/Gavino/Gavino/3430.ts
+#EXTINF:-1,EX YU: DISCOVERY
+http://luckyiptv.ddns.net:23000/live/Gavino/Gavino/3436.ts
+#EXTINF:-1,EX YU: HISTORY CHANNEL
+http://luckyiptv.ddns.net:23000/live/Gavino/Gavino/3458.ts
+#EXTINF:-1,EX YU: NATIONAL GEOGRAPHIC
+http://luckyiptv.ddns.net:23000/live/Gavino/Gavino/3456.ts
+#EXTINF:-1,EX YU: EUROSPORT 2
+http://luckyiptv.ddns.net:23000/live/Gavino/Gavino/3435.ts
+#EXTINF:-1,EX YU:SPORTKLUB 1
+http://luckyiptv.ddns.net:23000/live/Gavino/Gavino/3468.ts
+#EXTINF:-1,EX YU:SPORTKLUB 2
+http://luckyiptv.ddns.net:23000/live/Gavino/Gavino/3467.ts
+#EXTINF:-1,EX YU:SPORTKLUB 3
+http://luckyiptv.ddns.net:23000/live/Gavino/Gavino/3466.ts
+#EXTINF:-1,EX YU:  Arena Sport 1 (RS)
+http://luckyiptv.ddns.net:23000/live/Gavino/Gavino/3422.ts
+#EXTINF:-1,EX YU: Arena Sport 1 HD (HR)
+http://luckyiptv.ddns.net:23000/live/Gavino/Gavino/3427.ts
+#EXTINF:-1,EX YU: Arena Sport 2 (RS)
+http://luckyiptv.ddns.net:23000/live/Gavino/Gavino/3421.ts
+#EXTINF:-1,EX YU: Arena Sport 2 HD (HR)
+http://luckyiptv.ddns.net:23000/live/Gavino/Gavino/3426.ts
+#EXTINF:-1,EX YU: Arena Sport 3 (RS)
+http://luckyiptv.ddns.net:23000/live/Gavino/Gavino/3419.ts
+#EXTINF:-1,EX YU: Arena Sport 3 HD (HR)
+http://luckyiptv.ddns.net:23000/live/Gavino/Gavino/3425.ts
+#EXTINF:-1,EX YU:  Arena Sport 4 (RS)
+http://luckyiptv.ddns.net:23000/live/Gavino/Gavino/3420.ts
+#EXTINF:-1,EX YU: Arena Sport 4 HD (HR)
+http://luckyiptv.ddns.net:23000/live/Gavino/Gavino/3424.ts
+#EXTINF:-1,EX YU:ARENA SPORT 5
+http://luckyiptv.ddns.net:23000/live/Gavino/Gavino/3423.ts
+#EXTINF:-1,EX YU: Arena Sport 5 (RS)
+http://luckyiptv.ddns.net:23000/live/Gavino/Gavino/3418.ts
+#EXTINF:-1,---------- ROMANIA ----------
+http://luckyiptv.ddns.net:23000/live/Gavino/Gavino/13097.ts
+#EXTINF:-1,RO:Viasat Nature
+http://luckyiptv.ddns.net:23000/live/Gavino/Gavino/13098.ts
+#EXTINF:-1,RO:Viasat Explorer
+http://luckyiptv.ddns.net:23000/live/Gavino/Gavino/13099.ts
+#EXTINF:-1,RO:Nickelodeon
+http://luckyiptv.ddns.net:23000/live/Gavino/Gavino/13100.ts
+#EXTINF:-1,RO:National Geographic
+http://luckyiptv.ddns.net:23000/live/Gavino/Gavino/13101.ts
+#EXTINF:-1,RO:Megamax
+http://luckyiptv.ddns.net:23000/live/Gavino/Gavino/13102.ts
+#EXTINF:-1,RO:History Channel
+http://luckyiptv.ddns.net:23000/live/Gavino/Gavino/13103.ts
+#EXTINF:-1,RO:Eurosport 2
+http://luckyiptv.ddns.net:23000/live/Gavino/Gavino/13110.ts
+#EXTINF:-1,RO:Eurosport
+http://luckyiptv.ddns.net:23000/live/Gavino/Gavino/13109.ts
+#EXTINF:-1,RO:Dolce Sport 2
+http://luckyiptv.ddns.net:23000/live/Gavino/Gavino/13112.ts
+#EXTINF:-1,RO:Dolce Sport 1
+http://luckyiptv.ddns.net:23000/live/Gavino/Gavino/13111.ts
+#EXTINF:-1,RO:Disney Junior
+http://luckyiptv.ddns.net:23000/live/Gavino/Gavino/13104.ts
+#EXTINF:-1,RO:Disney Channel
+http://luckyiptv.ddns.net:23000/live/Gavino/Gavino/13105.ts
+#EXTINF:-1,RO:Digi World
+http://luckyiptv.ddns.net:23000/live/Gavino/Gavino/13106.ts
+#EXTINF:-1,RO:Digi Sport 4
+http://luckyiptv.ddns.net:23000/live/Gavino/Gavino/13116.ts
+#EXTINF:-1,RO:Digi Sport 3
+http://luckyiptv.ddns.net:23000/live/Gavino/Gavino/13115.ts
+#EXTINF:-1,RO:Digi Sport 2
+http://luckyiptv.ddns.net:23000/live/Gavino/Gavino/13114.ts
+#EXTINF:-1,RO:Digi Sport 1
+http://luckyiptv.ddns.net:23000/live/Gavino/Gavino/13113.ts
+#EXTINF:-1,RO:Digi Animal World
+http://luckyiptv.ddns.net:23000/live/Gavino/Gavino/13107.ts
+#EXTINF:-1,RO:Cinemax Ro
+http://luckyiptv.ddns.net:23000/live/Gavino/Gavino/13108.ts
+#EXTINF:-1,RO:AXN
+http://luckyiptv.ddns.net:23000/live/Gavino/Gavino/13117.ts
+#EXTINF:-1,-------- TV REGIONALI --------
+http://luckyiptv.ddns.net:23000/live/Gavino/Gavino/12671.ts
+#EXTINF:-1,Abruzzo_AB Channel
+http://luckyiptv.ddns.net:23000/live/Gavino/Gavino/12831.ts
+#EXTINF:-1,Abruzzo_Rete 8
+http://luckyiptv.ddns.net:23000/live/Gavino/Gavino/12830.ts
+#EXTINF:-1,Abruzzo_Rete 8 News 24 (chieti)
+http://luckyiptv.ddns.net:23000/live/Gavino/Gavino/12829.ts
+#EXTINF:-1,Abruzzo_Rete 8 Sport (chieti)
+http://luckyiptv.ddns.net:23000/live/Gavino/Gavino/12828.ts
+#EXTINF:-1,Abruzzo_Rete TV Italia (teramo)
+http://luckyiptv.ddns.net:23000/live/Gavino/Gavino/12827.ts
+#EXTINF:-1,Abruzzo_Tele 9
+http://luckyiptv.ddns.net:23000/live/Gavino/Gavino/12826.ts
+#EXTINF:-1,Abruzzo_Tele Ponte
+http://luckyiptv.ddns.net:23000/live/Gavino/Gavino/12825.ts
+#EXTINF:-1,Basilicata_Lucania TV
+http://luckyiptv.ddns.net:23000/live/Gavino/Gavino/12824.ts
+#EXTINF:-1,Basilicata_TRM TV
+http://luckyiptv.ddns.net:23000/live/Gavino/Gavino/12823.ts
+#EXTINF:-1,Calabria_8 Video Calabria
+http://luckyiptv.ddns.net:23000/live/Gavino/Gavino/12822.ts
+#EXTINF:-1,Calabria_Castrovillari TV (castrovillari)
+http://luckyiptv.ddns.net:23000/live/Gavino/Gavino/12820.ts
+#EXTINF:-1,Calabria_Tele Diogene
+http://luckyiptv.ddns.net:23000/live/Gavino/Gavino/12818.ts
+#EXTINF:-1,Calabria_Tele Mia
+http://luckyiptv.ddns.net:23000/live/Gavino/Gavino/12817.ts
+#EXTINF:-1,Calabria_Telejonio
+http://luckyiptv.ddns.net:23000/live/Gavino/Gavino/12816.ts
+#EXTINF:-1,Campania_Canale 8
+http://luckyiptv.ddns.net:23000/live/Gavino/Gavino/12815.ts
+#EXTINF:-1,Campania_Italia2 TV (salerno)
+http://luckyiptv.ddns.net:23000/live/Gavino/Gavino/12814.ts
+#EXTINF:-1,Campania_Lira TV (salerno)
+http://luckyiptv.ddns.net:23000/live/Gavino/Gavino/12813.ts
+#EXTINF:-1,Campania_Luna Sport (caserta)
+http://luckyiptv.ddns.net:23000/live/Gavino/Gavino/12812.ts
+#EXTINF:-1,Campania_Napoli canale21
+http://luckyiptv.ddns.net:23000/live/Gavino/Gavino/12811.ts
+#EXTINF:-1,Campania_Radio TV Napoli Emme
+http://luckyiptv.ddns.net:23000/live/Gavino/Gavino/12810.ts
+#EXTINF:-1,Campania_Sud TV
+http://luckyiptv.ddns.net:23000/live/Gavino/Gavino/12809.ts
+#EXTINF:-1,Campania_TCS Telecolore Salerno (salerno)
+http://luckyiptv.ddns.net:23000/live/Gavino/Gavino/12808.ts
+#EXTINF:-1,Campania_Tele Akery (napoli)
+http://luckyiptv.ddns.net:23000/live/Gavino/Gavino/12807.ts
+#EXTINF:-1,Campania_Tele Laser
+http://luckyiptv.ddns.net:23000/live/Gavino/Gavino/12806.ts
+#EXTINF:-1,Campania_Tele Luna 2 (caserta)
+http://luckyiptv.ddns.net:23000/live/Gavino/Gavino/12805.ts
+#EXTINF:-1,Campania_Teleischia (ischia)
+http://luckyiptv.ddns.net:23000/live/Gavino/Gavino/12804.ts
+#EXTINF:-1,Campania_Telenostra (avellino)
+http://luckyiptv.ddns.net:23000/live/Gavino/Gavino/12803.ts
+#EXTINF:-1,Campania_Telenuova2 (pagani)
+http://luckyiptv.ddns.net:23000/live/Gavino/Gavino/12802.ts
+#EXTINF:-1,Campania_Televomero (napoli)
+http://luckyiptv.ddns.net:23000/live/Gavino/Gavino/12801.ts
+#EXTINF:-1,Campania_Televuova (pagani)
+http://luckyiptv.ddns.net:23000/live/Gavino/Gavino/12800.ts
+#EXTINF:-1,Campania_TV Campane 1 (napoli)
+http://luckyiptv.ddns.net:23000/live/Gavino/Gavino/12799.ts
+#EXTINF:-1,Campania_TV Luna (napolo e caserta)
+http://luckyiptv.ddns.net:23000/live/Gavino/Gavino/12798.ts
+#EXTINF:-1,Campania_TV7 (benevento)
+http://luckyiptv.ddns.net:23000/live/Gavino/Gavino/12797.ts
+#EXTINF:-1,Emilia Romagna_Antenna Verde
+http://luckyiptv.ddns.net:23000/live/Gavino/Gavino/12796.ts
+#EXTINF:-1,Emilia Romagna_DI-TV
+http://luckyiptv.ddns.net:23000/live/Gavino/Gavino/12795.ts
+#EXTINF:-1,Emilia Romagna_ETV Antenna1 (modena)
+http://luckyiptv.ddns.net:23000/live/Gavino/Gavino/12794.ts
+#EXTINF:-1,Emilia Romagna_ETV Rete 7 (bologna)
+http://luckyiptv.ddns.net:23000/live/Gavino/Gavino/12793.ts
+#EXTINF:-1,Emilia Romagna_ETV Teletricolore
+http://luckyiptv.ddns.net:23000/live/Gavino/Gavino/12792.ts
+#EXTINF:-1,Emilia Romagna_Nettuno TV
+http://luckyiptv.ddns.net:23000/live/Gavino/Gavino/12791.ts
+#EXTINF:-1,Emilia Romagna_Radio Bruno TV (carpi)
+http://luckyiptv.ddns.net:23000/live/Gavino/Gavino/12790.ts
+#EXTINF:-1,Emilia Romagna_Sestarete 7 Gold
+http://luckyiptv.ddns.net:23000/live/Gavino/Gavino/12789.ts
+#EXTINF:-1,Emilia Romagna_Tele Argento
+http://luckyiptv.ddns.net:23000/live/Gavino/Gavino/12788.ts
+#EXTINF:-1,Emilia Romagna_Teleducato (parma e piacenza)
+http://luckyiptv.ddns.net:23000/live/Gavino/Gavino/12787.ts
+#EXTINF:-1,Emilia Romagna_Teleliberta' (piacenza)
+http://luckyiptv.ddns.net:23000/live/Gavino/Gavino/12786.ts
+#EXTINF:-1,Emilia Romagna_Teleromagna
+http://luckyiptv.ddns.net:23000/live/Gavino/Gavino/12785.ts
+#EXTINF:-1,Emilia Romagna_Teleromagna Mia
+http://luckyiptv.ddns.net:23000/live/Gavino/Gavino/12784.ts
+#EXTINF:-1,Emilia Romagna_Telestudio Modena (modena)
+http://luckyiptv.ddns.net:23000/live/Gavino/Gavino/12783.ts
+#EXTINF:-1,Emilia Romagna_TVparma (parma)
+http://luckyiptv.ddns.net:23000/live/Gavino/Gavino/12782.ts
+#EXTINF:-1,Friuli Venezia Giulia_A3News (triveneto)
+http://luckyiptv.ddns.net:23000/live/Gavino/Gavino/12781.ts
+#EXTINF:-1,Friuli Venezia Giulia_Antenna 3 nord-est
+http://luckyiptv.ddns.net:23000/live/Gavino/Gavino/12780.ts
+#EXTINF:-1,Friuli Venezia Giulia_Company TV
+http://luckyiptv.ddns.net:23000/live/Gavino/Gavino/12779.ts
+#EXTINF:-1,Friuli Venezia Giulia_Sportelevision (friuli e veneto)
+http://luckyiptv.ddns.net:23000/live/Gavino/Gavino/12778.ts
+#EXTINF:-1,Lazio_AGR TV
+http://luckyiptv.ddns.net:23000/live/Gavino/Gavino/12777.ts
+#EXTINF:-1,Lazio_Canale 10
+http://luckyiptv.ddns.net:23000/live/Gavino/Gavino/12776.ts
+#EXTINF:-1,Lazio_Canale 7
+http://luckyiptv.ddns.net:23000/live/Gavino/Gavino/12775.ts
+#EXTINF:-1,Lazio_Rete Oro (roma)
+http://luckyiptv.ddns.net:23000/live/Gavino/Gavino/12774.ts
+#EXTINF:-1,Lazio_Retesole
+http://luckyiptv.ddns.net:23000/live/Gavino/Gavino/12773.ts
+#EXTINF:-1,Lazio_Rieti News (rieti)
+http://luckyiptv.ddns.net:23000/live/Gavino/Gavino/12772.ts
+#EXTINF:-1,Lazio_Romauno
+http://luckyiptv.ddns.net:23000/live/Gavino/Gavino/12771.ts
+#EXTINF:-1,Lazio_Tele Radio Stereo (roma)
+http://luckyiptv.ddns.net:23000/live/Gavino/Gavino/12770.ts
+#EXTINF:-1,Lazio_TeleItalia 41
+http://luckyiptv.ddns.net:23000/live/Gavino/Gavino/12769.ts
+#EXTINF:-1,Lazio_Teleroma 56
+http://luckyiptv.ddns.net:23000/live/Gavino/Gavino/12768.ts
+#EXTINF:-1,Lazio_Teleuniverso
+http://luckyiptv.ddns.net:23000/live/Gavino/Gavino/12767.ts
+#EXTINF:-1,Lazio_TS 2000-Tele tuscia sabina
+http://luckyiptv.ddns.net:23000/live/Gavino/Gavino/12766.ts
+#EXTINF:-1,Liguria_Imperia TV (imperia e savona)
+http://luckyiptv.ddns.net:23000/live/Gavino/Gavino/12765.ts
+#EXTINF:-1,Liguria_Primocanale
+http://luckyiptv.ddns.net:23000/live/Gavino/Gavino/12764.ts
+#EXTINF:-1,Liguria_Telenord
+http://luckyiptv.ddns.net:23000/live/Gavino/Gavino/12763.ts
+#EXTINF:-1,Lombardia_Bergamo TV
+http://luckyiptv.ddns.net:23000/live/Gavino/Gavino/12762.ts
+#EXTINF:-1,Lombardia_Brescia Punto TV
+http://luckyiptv.ddns.net:23000/live/Gavino/Gavino/12761.ts
+#EXTINF:-1,Lombardia_Di-TV
+http://luckyiptv.ddns.net:23000/live/Gavino/Gavino/12760.ts
+#EXTINF:-1,Lombardia_Espansione TV
+http://luckyiptv.ddns.net:23000/live/Gavino/Gavino/12759.ts
+#EXTINF:-1,Lombardia_La 6 TV
+http://luckyiptv.ddns.net:23000/live/Gavino/Gavino/12758.ts
+#EXTINF:-1,Lombardia_Lombardia TV
+http://luckyiptv.ddns.net:23000/live/Gavino/Gavino/12757.ts
+#EXTINF:-1,Lombardia_Radio Number One TV (bergamo)
+http://luckyiptv.ddns.net:23000/live/Gavino/Gavino/12756.ts
+#EXTINF:-1,Lombardia_Rete 55 TV
+http://luckyiptv.ddns.net:23000/live/Gavino/Gavino/12755.ts
+#EXTINF:-1,Lombardia_Rete55 Sport
+http://luckyiptv.ddns.net:23000/live/Gavino/Gavino/12754.ts
+#EXTINF:-1,Lombardia_Saronno TV (saronno)
+http://luckyiptv.ddns.net:23000/live/Gavino/Gavino/12753.ts
+#EXTINF:-1,Lombardia_Studio 1
+http://luckyiptv.ddns.net:23000/live/Gavino/Gavino/12752.ts
+#EXTINF:-1,Lombardia_Super TV
+http://luckyiptv.ddns.net:23000/live/Gavino/Gavino/12751.ts
+#EXTINF:-1,Lombardia_Tekesettelaghi (varese)
+http://luckyiptv.ddns.net:23000/live/Gavino/Gavino/12750.ts
+#EXTINF:-1,Lombardia_Tele Pavia (pavia)
+http://luckyiptv.ddns.net:23000/live/Gavino/Gavino/12749.ts
+#EXTINF:-1,Lombardia_TeleMantova (mantova)
+http://luckyiptv.ddns.net:23000/live/Gavino/Gavino/12748.ts
+#EXTINF:-1,Lombardia_TeleMilano
+http://luckyiptv.ddns.net:23000/live/Gavino/Gavino/12747.ts
+#EXTINF:-1,Lombardia_Telemonteneve (valtellina)
+http://luckyiptv.ddns.net:23000/live/Gavino/Gavino/12746.ts
+#EXTINF:-1,Lombardia_Teleunica (lecco e sondrio)
+http://luckyiptv.ddns.net:23000/live/Gavino/Gavino/12745.ts
+#EXTINF:-1,Lombardia_TSN Livigno
+http://luckyiptv.ddns.net:23000/live/Gavino/Gavino/12744.ts
+#EXTINF:-1,Lombardia_Video Brescia
+http://luckyiptv.ddns.net:23000/live/Gavino/Gavino/12743.ts
+#EXTINF:-1,Marche_ETV Marche
+http://luckyiptv.ddns.net:23000/live/Gavino/Gavino/12742.ts
+#EXTINF:-1,Marche_Fano TV
+http://luckyiptv.ddns.net:23000/live/Gavino/Gavino/12741.ts
+#EXTINF:-1,Marche_TVRS
+http://luckyiptv.ddns.net:23000/live/Gavino/Gavino/12740.ts
+#EXTINF:-1,Marche_Vera TV
+http://luckyiptv.ddns.net:23000/live/Gavino/Gavino/12739.ts
+#EXTINF:-1,Molise_Radio Valentina Molise
+http://luckyiptv.ddns.net:23000/live/Gavino/Gavino/12738.ts
+#EXTINF:-1,Piemonte_Canale Arte
+http://luckyiptv.ddns.net:23000/live/Gavino/Gavino/12737.ts
+#EXTINF:-1,Piemonte_Quartarete Blu
+http://luckyiptv.ddns.net:23000/live/Gavino/Gavino/12736.ts
+#EXTINF:-1,Piemonte_Telesettelaghi (varese)
+http://luckyiptv.ddns.net:23000/live/Gavino/Gavino/12735.ts
+#EXTINF:-1,Piemonte_Vco Azzurra TV
+http://luckyiptv.ddns.net:23000/live/Gavino/Gavino/12734.ts
+#EXTINF:-1,Puglia_Antichita' Chiossone
+http://luckyiptv.ddns.net:23000/live/Gavino/Gavino/12733.ts
+#EXTINF:-1,Puglia_Foggia Sport 24
+http://luckyiptv.ddns.net:23000/live/Gavino/Gavino/12732.ts
+#EXTINF:-1,Puglia_Jo TV
+http://luckyiptv.ddns.net:23000/live/Gavino/Gavino/12731.ts
+#EXTINF:-1,Puglia_Punto TV
+http://luckyiptv.ddns.net:23000/live/Gavino/Gavino/12730.ts
+#EXTINF:-1,Puglia_Studio 100
+http://luckyiptv.ddns.net:23000/live/Gavino/Gavino/12729.ts
+#EXTINF:-1,Puglia_Tele Galatina (galatina)
+http://luckyiptv.ddns.net:23000/live/Gavino/Gavino/12728.ts
+#EXTINF:-1,Puglia_TeleBari (bari)
+http://luckyiptv.ddns.net:23000/live/Gavino/Gavino/12727.ts
+#EXTINF:-1,Puglia_TeleBlu (foggia)
+http://luckyiptv.ddns.net:23000/live/Gavino/Gavino/12726.ts
+#EXTINF:-1,Puglia_TeleOnda
+http://luckyiptv.ddns.net:23000/live/Gavino/Gavino/12725.ts
+#EXTINF:-1,Puglia_Teleradioerre (foggia)
+http://luckyiptv.ddns.net:23000/live/Gavino/Gavino/12724.ts
+#EXTINF:-1,Puglia_Teleregione
+http://luckyiptv.ddns.net:23000/live/Gavino/Gavino/12723.ts
+#EXTINF:-1,Puglia_TgNorba 24
+http://luckyiptv.ddns.net:23000/live/Gavino/Gavino/12722.ts
+#EXTINF:-1,Sardegna_Radio Iglesias TV
+http://luckyiptv.ddns.net:23000/live/Gavino/Gavino/12721.ts
+#EXTINF:-1,Sardegna_Sardegna1
+http://luckyiptv.ddns.net:23000/live/Gavino/Gavino/12720.ts
+#EXTINF:-1,Sardegna_Sassari TV
+http://luckyiptv.ddns.net:23000/live/Gavino/Gavino/12719.ts
+#EXTINF:-1,Sardegna_Super TV Oristano
+http://luckyiptv.ddns.net:23000/live/Gavino/Gavino/12718.ts
+#EXTINF:-1,Sicilia_Agrigento TV
+http://luckyiptv.ddns.net:23000/live/Gavino/Gavino/12717.ts
+#EXTINF:-1,Sicilia_Alpa Uno
+http://luckyiptv.ddns.net:23000/live/Gavino/Gavino/12716.ts
+#EXTINF:-1,Sicilia_Antenna Sicilia
+http://luckyiptv.ddns.net:23000/live/Gavino/Gavino/12715.ts
+#EXTINF:-1,Sicilia_Canale 33 (palermo)
+http://luckyiptv.ddns.net:23000/live/Gavino/Gavino/12714.ts
+#EXTINF:-1,Sicilia_Canale 46
+http://luckyiptv.ddns.net:23000/live/Gavino/Gavino/12713.ts
+#EXTINF:-1,Sicilia_Canale 8
+http://luckyiptv.ddns.net:23000/live/Gavino/Gavino/12712.ts
+#EXTINF:-1,Sicilia_FM Italia (siracusa)
+http://luckyiptv.ddns.net:23000/live/Gavino/Gavino/12711.ts
+#EXTINF:-1,Sicilia_Onda TV (messina)
+http://luckyiptv.ddns.net:23000/live/Gavino/Gavino/12710.ts
+#EXTINF:-1,Sicilia_Radio Taormina TV (taotmina)
+http://luckyiptv.ddns.net:23000/live/Gavino/Gavino/12709.ts
+#EXTINF:-1,Sicilia_Radio tivu' Azzurra (palermo)
+http://luckyiptv.ddns.net:23000/live/Gavino/Gavino/12708.ts
+#EXTINF:-1,Sicilia_Radio Universal TV
+http://luckyiptv.ddns.net:23000/live/Gavino/Gavino/12707.ts
+#EXTINF:-1,Sicilia_Sestarete
+http://luckyiptv.ddns.net:23000/live/Gavino/Gavino/12706.ts
+#EXTINF:-1,Sicilia_Sicilia TV (sicilia)
+http://luckyiptv.ddns.net:23000/live/Gavino/Gavino/12705.ts
+#EXTINF:-1,Sicilia_Studio90 Italia
+http://luckyiptv.ddns.net:23000/live/Gavino/Gavino/12704.ts
+#EXTINF:-1,Sicilia_TCF TV (messina)
+http://luckyiptv.ddns.net:23000/live/Gavino/Gavino/12703.ts
+#EXTINF:-1,Sicilia_Tele 8
+http://luckyiptv.ddns.net:23000/live/Gavino/Gavino/12702.ts
+#EXTINF:-1,Sicilia_Tele Radio Sciacca (sciacca)
+http://luckyiptv.ddns.net:23000/live/Gavino/Gavino/12701.ts
+#EXTINF:-1,Sicilia_Tele Sicilia
+http://luckyiptv.ddns.net:23000/live/Gavino/Gavino/12700.ts
+#EXTINF:-1,Sicilia_Tele90
+http://luckyiptv.ddns.net:23000/live/Gavino/Gavino/12699.ts
+#EXTINF:-1,Sicilia_Telecolor (catania)
+http://luckyiptv.ddns.net:23000/live/Gavino/Gavino/12698.ts
+#EXTINF:-1,Sicilia_Telesud 3 (trapani)
+http://luckyiptv.ddns.net:23000/live/Gavino/Gavino/12697.ts
+#EXTINF:-1,Sicilia_Video 2 (palermo)
+http://luckyiptv.ddns.net:23000/live/Gavino/Gavino/12696.ts
+#EXTINF:-1,Sicilia_Video66 (siracusa)
+http://luckyiptv.ddns.net:23000/live/Gavino/Gavino/12694.ts
+#EXTINF:-1,Sicilia_Video Mediterraneo (sicilia)
+http://luckyiptv.ddns.net:23000/live/Gavino/Gavino/12695.ts
+#EXTINF:-1,Toscana_Canale 3 Toscana
+http://luckyiptv.ddns.net:23000/live/Gavino/Gavino/12692.ts
+#EXTINF:-1,Toscana_Antenna 3 Toscana (massa carrara)
+http://luckyiptv.ddns.net:23000/live/Gavino/Gavino/12693.ts
+#EXTINF:-1,Toscana_Siena TV
+http://luckyiptv.ddns.net:23000/live/Gavino/Gavino/12691.ts
+#EXTINF:-1,Toscana_Tele Argento
+http://luckyiptv.ddns.net:23000/live/Gavino/Gavino/12690.ts
+#EXTINF:-1,Toscana_TRG
+http://luckyiptv.ddns.net:23000/live/Gavino/Gavino/12689.ts
+#EXTINF:-1,Toscana_TV9 Telemaremma (grosseto)
+http://luckyiptv.ddns.net:23000/live/Gavino/Gavino/12688.ts
+#EXTINF:-1,Trentino Alto Adige_Alto Adige TV
+http://luckyiptv.ddns.net:23000/live/Gavino/Gavino/12687.ts
+#EXTINF:-1,Trentino Alto Adige_Info Trentino
+http://luckyiptv.ddns.net:23000/live/Gavino/Gavino/12686.ts
+#EXTINF:-1,Trentino Alto Adige_RTTR
+http://luckyiptv.ddns.net:23000/live/Gavino/Gavino/12685.ts
+#EXTINF:-1,Trentino Alto Adige_Sudtirol TV
+http://luckyiptv.ddns.net:23000/live/Gavino/Gavino/12684.ts
+#EXTINF:-1,Trentino Alto Adige_Trentino TV
+http://luckyiptv.ddns.net:23000/live/Gavino/Gavino/12683.ts
+#EXTINF:-1,--------- MUSICA ---------
+http://luckyiptv.ddns.net:23000/live/Gavino/Gavino/6639.ts
+#EXTINF:-1,Dee Jay TV
+http://luckyiptv.ddns.net:23000/live/Gavino/Gavino/3215.ts
+#EXTINF:-1,MusicTV:W9
+http://luckyiptv.ddns.net:23000/live/Gavino/Gavino/12213.ts
+#EXTINF:-1,MusicTV:VOX TV
+http://luckyiptv.ddns.net:23000/live/Gavino/Gavino/12214.ts
+#EXTINF:-1,MusicTV:VOX MUSIC
+http://luckyiptv.ddns.net:23000/live/Gavino/Gavino/12215.ts
+#EXTINF:-1,MusicTV:VIRGIN TV
+http://luckyiptv.ddns.net:23000/live/Gavino/Gavino/12216.ts
+#EXTINF:-1,MusicTV:VEVO 18
+http://luckyiptv.ddns.net:23000/live/Gavino/Gavino/12217.ts
+#EXTINF:-1,MusicTV:VEVO 17
+http://luckyiptv.ddns.net:23000/live/Gavino/Gavino/12218.ts
+#EXTINF:-1,MusicTV:VEVO 15
+http://luckyiptv.ddns.net:23000/live/Gavino/Gavino/12219.ts
+#EXTINF:-1,MusicTV:VEVO 14
+http://luckyiptv.ddns.net:23000/live/Gavino/Gavino/12220.ts
+#EXTINF:-1,MusicTV:VEVO 13
+http://luckyiptv.ddns.net:23000/live/Gavino/Gavino/12221.ts
+#EXTINF:-1,MusicTV:VEVO 12
+http://luckyiptv.ddns.net:23000/live/Gavino/Gavino/12222.ts
+#EXTINF:-1,MusicTV:VEVO 11
+http://luckyiptv.ddns.net:23000/live/Gavino/Gavino/12223.ts
+#EXTINF:-1,MusicTV:VEVO 10
+http://luckyiptv.ddns.net:23000/live/Gavino/Gavino/12224.ts
+#EXTINF:-1,MusicTV:VEVO 09
+http://luckyiptv.ddns.net:23000/live/Gavino/Gavino/12225.ts
+#EXTINF:-1,MusicTV:VEVO 08
+http://luckyiptv.ddns.net:23000/live/Gavino/Gavino/12226.ts
+#EXTINF:-1,MusicTV:VEVO 07
+http://luckyiptv.ddns.net:23000/live/Gavino/Gavino/12227.ts
+#EXTINF:-1,MusicTV:VEVO 06
+http://luckyiptv.ddns.net:23000/live/Gavino/Gavino/12228.ts
+#EXTINF:-1,MusicTV:VEVO 05
+http://luckyiptv.ddns.net:23000/live/Gavino/Gavino/12229.ts
+#EXTINF:-1,MusicTV:VEVO 04
+http://luckyiptv.ddns.net:23000/live/Gavino/Gavino/12230.ts
+#EXTINF:-1,MusicTV:VEVO 03
+http://luckyiptv.ddns.net:23000/live/Gavino/Gavino/12231.ts
+#EXTINF:-1,MusicTV:VEVO 02
+http://luckyiptv.ddns.net:23000/live/Gavino/Gavino/12232.ts
+#EXTINF:-1,MusicTV:VEVO 01
+http://luckyiptv.ddns.net:23000/live/Gavino/Gavino/12233.ts
+#EXTINF:-1,MusicTV:ULTRA FIESTA HD
+http://luckyiptv.ddns.net:23000/live/Gavino/Gavino/12234.ts
+#EXTINF:-1,MusicTV:ULTRA FIESTA
+http://luckyiptv.ddns.net:23000/live/Gavino/Gavino/12235.ts
+#EXTINF:-1,MusicTV:TELE MUSICA
+http://luckyiptv.ddns.net:23000/live/Gavino/Gavino/12238.ts
+#EXTINF:-1,MusicTV:SI TV
+http://luckyiptv.ddns.net:23000/live/Gavino/Gavino/12239.ts
+#EXTINF:-1,MusicTV:ROUGE TV
+http://luckyiptv.ddns.net:23000/live/Gavino/Gavino/12240.ts
+#EXTINF:-1,MusicTV:RIA NOVOSTI
+http://luckyiptv.ddns.net:23000/live/Gavino/Gavino/12241.ts
+#EXTINF:-1,MusicTV:POLO PARTY
+http://luckyiptv.ddns.net:23000/live/Gavino/Gavino/12242.ts
+#EXTINF:-1,MusicTV:OSJECKA TV
+http://luckyiptv.ddns.net:23000/live/Gavino/Gavino/12243.ts
+#EXTINF:-1,MusicTV:ONE ROCK HD
+http://luckyiptv.ddns.net:23000/live/Gavino/Gavino/12244.ts
+#EXTINF:-1,MusicTV:ONE POP HD
+http://luckyiptv.ddns.net:23000/live/Gavino/Gavino/12245.ts
+#EXTINF:-1,MusicTV:ONE LIVE MIX HD
+http://luckyiptv.ddns.net:23000/live/Gavino/Gavino/12246.ts
+#EXTINF:-1,MusicTV:ONE JAZZ HD 720
+http://luckyiptv.ddns.net:23000/live/Gavino/Gavino/12247.ts
+#EXTINF:-1,MusicTV:ONE DANCE HD
+http://luckyiptv.ddns.net:23000/live/Gavino/Gavino/12248.ts
+#EXTINF:-1,MusicTV:NASHVILLE THE BEST
+http://luckyiptv.ddns.net:23000/live/Gavino/Gavino/12249.ts
+#EXTINF:-1,MusicTV:MUZ TV
+http://luckyiptv.ddns.net:23000/live/Gavino/Gavino/12250.ts
+#EXTINF:-1,MusicTV:MTV LIVE HD
+http://luckyiptv.ddns.net:23000/live/Gavino/Gavino/12251.ts
+#EXTINF:-1,MusicTV:MTV HITS
+http://luckyiptv.ddns.net:23000/live/Gavino/Gavino/12252.ts
+#EXTINF:-1,MusicTV:MTV DANCE
+http://luckyiptv.ddns.net:23000/live/Gavino/Gavino/12253.ts
+#EXTINF:-1,MusicTV:MONTECARLO MUS
+http://luckyiptv.ddns.net:23000/live/Gavino/Gavino/12254.ts
+#EXTINF:-1,MusicTV:MELODY CH
+http://luckyiptv.ddns.net:23000/live/Gavino/Gavino/12255.ts
+#EXTINF:-1,MusicTV:M2O MUSIC
+http://luckyiptv.ddns.net:23000/live/Gavino/Gavino/12256.ts
+#EXTINF:-1,MusicTV:HITS ALL THE HITS
+http://luckyiptv.ddns.net:23000/live/Gavino/Gavino/12257.ts
+#EXTINF:-1,MusicTV:HEART TV
+http://luckyiptv.ddns.net:23000/live/Gavino/Gavino/12258.ts
+#EXTINF:-1,MusicTV:FOKUS TV
+http://luckyiptv.ddns.net:23000/live/Gavino/Gavino/12259.ts
+#EXTINF:-1,MusicTV:FLOW RAP AND
+http://luckyiptv.ddns.net:23000/live/Gavino/Gavino/12260.ts
+#EXTINF:-1,MusicTV:FIX TV
+http://luckyiptv.ddns.net:23000/live/Gavino/Gavino/12261.ts
+#EXTINF:-1,MusicTV:ESKA WAWA
+http://luckyiptv.ddns.net:23000/live/Gavino/Gavino/12262.ts
+#EXTINF:-1,MusicTV:ESKA VOX
+http://luckyiptv.ddns.net:23000/live/Gavino/Gavino/12263.ts
+#EXTINF:-1,MusicTV:ESKA TV
+http://luckyiptv.ddns.net:23000/live/Gavino/Gavino/12264.ts
+#EXTINF:-1,MusicTV:ESKA ROCK TV
+http://luckyiptv.ddns.net:23000/live/Gavino/Gavino/12265.ts
+#EXTINF:-1,MusicTV:ESKA POLO
+http://luckyiptv.ddns.net:23000/live/Gavino/Gavino/12266.ts
+#EXTINF:-1,MusicTV:ESKA BEST
+http://luckyiptv.ddns.net:23000/live/Gavino/Gavino/12267.ts
+#EXTINF:-1,MusicTV:Djing Underground HD
+http://luckyiptv.ddns.net:23000/live/Gavino/Gavino/12268.ts
+#EXTINF:-1,MusicTV:Djing Ibiza HD
+http://luckyiptv.ddns.net:23000/live/Gavino/Gavino/12269.ts
+#EXTINF:-1,MusicTV:Djing Classic HD
+http://luckyiptv.ddns.net:23000/live/Gavino/Gavino/12270.ts
+#EXTINF:-1,MusicTV:Djing Animation HD
+http://luckyiptv.ddns.net:23000/live/Gavino/Gavino/12271.ts
+#EXTINF:-1,MusicTV:Djind DJS HD
+http://luckyiptv.ddns.net:23000/live/Gavino/Gavino/12272.ts
+#EXTINF:-1,MusicTV:CLUBLAND
+http://luckyiptv.ddns.net:23000/live/Gavino/Gavino/12273.ts
+#EXTINF:-1,MusicTV:CAPITAL TV
+http://luckyiptv.ddns.net:23000/live/Gavino/Gavino/12274.ts
+#EXTINF:-1,MusicTV:BEST MUSIC HD
+http://luckyiptv.ddns.net:23000/live/Gavino/Gavino/12275.ts
+#EXTINF:-1,MusicTV:BANOVINA TV
+http://luckyiptv.ddns.net:23000/live/Gavino/Gavino/12276.ts
+#EXTINF:-1,MusicTV:AMAZING TV
+http://luckyiptv.ddns.net:23000/live/Gavino/Gavino/12277.ts
+#EXTINF:-1,MusicTV:AMAZING
+http://luckyiptv.ddns.net:23000/live/Gavino/Gavino/12278.ts
+#EXTINF:-1,MusicTV:AL JAZEERA BALKAN
+http://luckyiptv.ddns.net:23000/live/Gavino/Gavino/12279.ts
